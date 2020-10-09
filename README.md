@@ -46,13 +46,13 @@ Regionally specific drivers of land-use transitions and future scenarios: A synt
 
 Thomas, V.A., R.H. Wynne, J. Kauffman, W. McCurdy, E.B. Brooks, R.Q. Thomas, J. Rakestraw. Mapping thins to identify active forest management in southern pine plantations using Landsat time series stacks. Remote Sensing of Environment
 
-Thomas R.Q, R. J. Figueiredo, V. Daneshmand, B. J. Bookout, L. K. Puckett, and C. C. Carey. In Press. A near‐term iterative forecasting system successfully predicts reservoir hydrodynamics and partitions uncertainty in real time. Water Resources Research. doi: 10.1029/2019WR026138 
+Thomas R.Q, R. J. Figueiredo, V. Daneshmand, B. J. Bookout, L. K. Puckett, and C. C. Carey. In Press. A near‐term iterative forecasting system successfully predicts reservoir hydrodynamics and partitions uncertainty in real time. Water Resources Research. [https://doi.org/10.1029/2019WR026138](https://doi.org/10.1029/2019WR026138) 
 
 Carey C. C, W. M. Woelmer, M. E. Lofton, R. J. Figueiredo, B. J. Bookout, R. S. Corrigan, V. Daneshmand, A. G. Hounshell, D. W. Howard, A. S. Lewis, R. P. McClure, H. L. Wander, N. K. Ward, and R. Q. Thomas.  In Press Advancing lake and reservoir water quality management with near-term, iterative ecological forecasting. Inland Waters. doi: 10.1080/20442041.2020.1816421
 
-Daw, A., R. Q. Thomas, C. C. Carey, J. S. Read, A. P. Appling, A. Karpatne. 2020. Physics-Guided Architecture (PGA) of Neural Networks for Quantifying Uncertainty in Lake Temperature Modeling.  Proceedings of the 2020 SIAM International Conference on Data Mining: 532-540.
+Daw, A., R. Q. Thomas, C. C. Carey, J. S. Read, A. P. Appling, A. Karpatne. 2020. Physics-Guided Architecture (PGA) of Neural Networks for Quantifying Uncertainty in Lake Temperature Modeling.  Proceedings of the 2020 SIAM International Conference on Data Mining: 532-540. [https://doi.org/10.1137/1.9781611976236.60](https://doi.org/10.1137/1.9781611976236.60)
 
-Weaver, E.A., K. Kolivras, , V. A. Thomas, R. Q. Thomas, and K. Abbas. 2020.  Environmental factors affecting ecological niche of Coccidioides (spp.) and spatial dynamics of valley fever in the United States. Spatial and Spatio-temporal Epidemiology 32: 100317
+Weaver, E.A., K. Kolivras, , V. A. Thomas, R. Q. Thomas, and K. Abbas. 2020.  Environmental factors affecting ecological niche of Coccidioides (spp.) and spatial dynamics of valley fever in the United States. Spatial and Spatio-temporal Epidemiology 32: 100317. [https://doi.org/10.1016/j.sste.2019.100317](https://doi.org/10.1016/j.sste.2019.100317)
 
 [Full list of publications](./publications.html)
 
