@@ -68,11 +68,11 @@ Laura Puckett (UG)
 
 ## Teaching
 
-[FREC 3004: Environmental Informatics](https://github.com/EcoDynForecast/FREC3004_EnvInformatics_Class) 
-FREC 5884: Ecological Forecasting 
-FREC 3604: Climate Science 
-FREC 5034: Ecosystem Dynamics 
-FREC 5204: Ecosystem and Climate 
+[FREC 3004: Environmental Informatics](https://github.com/EcoDynForecast/FREC3004_EnvInformatics_Class)  
+FREC 5884: Ecological Forecasting  
+FREC 3604: Climate Science  
+FREC 5034: Ecosystem Dynamics  
+FREC 5204: Ecosystem and Climate  
 
 ## Join Us
 
