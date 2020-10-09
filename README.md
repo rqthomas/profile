@@ -8,7 +8,7 @@
 
 ### Projects
 
-**Current**
+*Current*
 
 [Resilient Water Systems: Integrating Environmental Sensor Networks and Real-Time Forecasting to Adaptively Manage Drinking Water Quality and Build Social Trust (CNS-1737424)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1737424&HistoricalAwards=false)
 
