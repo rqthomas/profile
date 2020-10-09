@@ -1,5 +1,7 @@
 # Ecosystem Dynamics and Forecasting
 
+[New PhD opportunity](## Join Us)
+
 **Ecosystems:**  We study the forest and freshwater ecosystems upon which society depends
 
 **Dynamics:**  We model how ecosystems change over time in response to land-use, climate change, atmospheric deposition, and management.  We measure carbon, water, and energy exchange between ecosystems and the atmosphere using eddy-covariance and biometeorology sensors.
@@ -14,8 +16,8 @@ Virginia Tech
 Steger Hall (0477)  
 Room 315B  
 1015 Life Science Circle  
-Blacksburg, VA 24061 
-rqthomas@vt.edu   
+Blacksburg, VA 24061   
+rqthomas@vt.edu  
 [@rquinnthomas](https://twitter.com/rquinnthomas)  
 [Google Scholar](https://scholar.google.com/citations?user=8q-msz4AAAAJ&hl=en)   
 [ORCID](https://orcid.org/0000-0003-1282-7825)   
@@ -36,6 +38,8 @@ rqthomas@vt.edu
 
 Regionally specific drivers of land-use transitions and future scenarios: A synthesis considering the land management influence in the Southeastern U.S (NASA-NNX17AI09G)
 
+[top](# Ecosystem Dynamics and Forecasting)
+
 ## Publications
 
 *Recent*
@@ -50,7 +54,9 @@ Daw, A., R. Q. Thomas, C. C. Carey, J. S. Read, A. P. Appling, A. Karpatne. 2020
 
 Weaver, E.A., K. Kolivras, , V. A. Thomas, R. Q. Thomas, and K. Abbas. 2020.  Environmental factors affecting ecological niche of Coccidioides (spp.) and spatial dynamics of valley fever in the United States. Spatial and Spatio-temporal Epidemiology 32: 100317
 
-[Full list of publications](./publications.html).
+[Full list of publications](./publications.html)
+
+[top](# Ecosystem Dynamics and Forecasting)
 
 ## Bio
 
@@ -60,6 +66,8 @@ Ph.D. Cornell University, Ithaca, NY (2012)
 Post-doc National Center for Atmospheric Research, Boulder, CO (2012 - 2013)  
 Assistant Professor, Virginia Tech, Blacksburg, VA (2013 - 2019)  
 Associate Professor, Virginia Tech, Blacksburg, VA (2019 - present)  
+
+[top](# Ecosystem Dynamics and Forecasting)
 
 ## Team Members
 
@@ -80,6 +88,8 @@ Annika Jersild (MS)
 Wyatt McCurdy (MS)  
 Laura Puckett (UG)  
 
+[top](# Ecosystem Dynamics and Forecasting)
+
 ## Teaching
 
 [FREC 3004: Environmental Informatics](https://github.com/EcoDynForecast/FREC3004_EnvInformatics_Class)  
@@ -87,6 +97,8 @@ FREC 5884: Ecological Forecasting
 FREC 3604: Climate Science  
 FREC 5034: Ecosystem Dynamics  
 FREC 5204: Ecosystem and Climate  
+
+[top](# Ecosystem Dynamics and Forecasting)
 
 ## Join Us
 
@@ -100,3 +112,4 @@ We seek a conscientious and energetic student with quantitative and computing sk
 
 The student position will be funded on a combination of research and teaching assistantships, which include a competitive stipend, tuition waiver, and full health insurance benefits. Interested students should send an email letter of inquiry containing an overview of your research interests, your C.V., an unofficial transcript(s), and a list of past research experiences to rqthomas@vt.edu.  Please feel free to contact me with questions about the application process, graduate school at Virginia Tech, or potential research ideas.
 
+[top](# Ecosystem Dynamics and Forecasting)
