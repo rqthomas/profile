@@ -1,4 +1,12 @@
+---
+layout: default
+---
+
 ## Publications
+
+_yay_
+
+[back](./)
 
 ### Submitted or Pre-prints
 
