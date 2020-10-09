@@ -6,6 +6,20 @@
 
 **Forecasting:**  We predict the future of ecosystems by combining observations and ecosystem models using statistical techniques.
 
+Department of Forest Resources and Environmental Conservation 
+College of Natural Resources and Environment 
+Fralin Life Sciences Institute 
+Virginia Tech 
+
+Steger Hall (0477)  
+Room 315B  
+1015 Life Science Circle  
+Blacksburg, VA 24061 
+rqthomas@vt.edu  
+[@rquinnthomas](https://twitter.com/rquinnthomas) 
+[Google Scholar](https://scholar.google.com/citations?user=8q-msz4AAAAJ&hl=en) 
+[ORCID](https://orcid.org/0000-0003-1282-7825)  
+
 ## Projects
 
 *Current*
