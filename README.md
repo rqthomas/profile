@@ -10,7 +10,7 @@ We study the forest and freshwater ecosystems upon which society depends
 
 ### Projects
 
-*Current*
+**Current**
 
 [Resilient Water Systems: Integrating Environmental Sensor Networks and Real-Time Forecasting to Adaptively Manage Drinking Water Quality and Build Social Trust (CNS-1737424)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1737424&HistoricalAwards=false)
 
@@ -19,6 +19,10 @@ We study the forest and freshwater ecosystems upon which society depends
 [Macrosystems EDDIE: An undergraduate training program in macrosystems science and ecological forecasting (DEB-1926050)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1926050&HistoricalAwards=false)
 
 [The Ecological Forecasting Initiative RCN: Using NEON-enabled near-term forecasting to synthesize our understanding of predictability across ecological systems and scales(DEB-1926388)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1926388&HistoricalAwards=false)
+
+[Decadal prediction of sustainable agricultural and forest management - Earth system prediction differs from climate prediction (USDA-NIFA 2015-67003-23485)](https://vtnews.vt.edu/articles/2015/11/111115-cnre-usdanifagrant.html)
+
+Regionally specific drivers of land-use transitions and future scenarios: A synthesis considering the land management influence in the Southeastern U.S (NASA-NNX17AI09G)
 
 ### Publications
 
