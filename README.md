@@ -47,20 +47,15 @@ Tadhg Moore
 *PhD Students*
 
 Benjamin Ahlswede
-
 Joshua Rady
 
 *Alumni*
 
-Michael Graham (PhD)
-
-Kevin J. Horn (Post-doc)
-
-Annika Jersild (MS)
-
-Wyatt McCurdy (MS)
-
-Laura Puckett (UG)
+Michael Graham (PhD)  
+Kevin J. Horn (Post-doc)  
+Annika Jersild (MS)  
+Wyatt McCurdy (MS)  
+Laura Puckett (UG)  
 
 ### Join Us
 
