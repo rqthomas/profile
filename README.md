@@ -38,7 +38,16 @@ Weaver, E.A., K. Kolivras, , V. A. Thomas, R. Q. Thomas, and K. Abbas. 2020.  En
 
 [Full list of publications](./publications.html).
 
-### People
+### Bio
+
+A.B. Dartmouth College, Hanover, NH (2005)
+M.S. University of New Hampshire, Durham, NH (2007) 
+Ph.D. Cornell University, Ithaca, NY (2012)
+Post-doc National Center for Atmospheric Research, Boulder, CO (2012 - 2013)
+Assistant Professor, Virginia Tech, Blacksburg, VA (2013 - 2019)
+Associate Professor, Virginia Tech, Blacksburg, VA (2019 - present)
+
+### Team Members
 
 *Post-docs*
 
@@ -46,8 +55,8 @@ Tadhg Moore
 
 *PhD Students*
 
-Benjamin Ahlswede
-Joshua Rady
+Benjamin Ahlswede  
+Joshua Rady  
 
 *Alumni*
 
@@ -57,6 +66,14 @@ Annika Jersild (MS)
 Wyatt McCurdy (MS)  
 Laura Puckett (UG)  
 
+### Teaching
+
+[FREC 3004: Environmental Informatics](https://github.com/EcoDynForecast/FREC3004_EnvInformatics_Class)
+FREC 5884: Ecological Forecasting
+FREC 3604: Climate Science
+FREC 5034: Ecosystem Dynamics
+FREC 5204: Ecosystem and Climate
+
 ### Join Us
 
 *Ph.D. assistantship in environmental data science and forecasting at Virginia Tech*
@@ -65,7 +82,7 @@ The Ecosystem Dynamics and Forecasting Lab led by Dr. Quinn Thomas at Virginia T
 
 This position will be supported by two NSF projects (http://smartreservoir.org and http://flare-forecast.org) that are developing a water quality forecasting system for drinking water supply reservoirs, National Ecological Observatory Network (NEON) lakes, and Global Lakes Ecological Observatory Network (GLEON) lakes. This highly interdisciplinary Ph.D. project will combine high-frequency sensor monitoring, modeling, ecosystem forecasting, and data-intensive analytical approaches from ecology, computer science, and social science. There will be opportunities for both computational and field-based research.
 
-We seek a conscientious and energetic student with quantitative and computing skills who can work independently in a collaborative environment. To learn more about what we do, please visit our lab website: http://epics.frec.vt.edu. The student will work closely with the Carey Lab at Virginia Tech (http://carey.biol.vt.edu) and the Advanced Computing and Information Systems Laboratory at the University of Florida on the project (https://www.acis.ufl.edu). Students are also encouraged to apply to be a fellow in Virginia Tech’s Interfaces of Global Change graduate program (http://globalchange.vt.edu) and interact with other students in the Virginia Water Research Center (http://www.vwrrc.vt.edu) that is housed within our department. Virginia Tech, as Virginia’s leading research and land grant institution, has a strong interdisciplinary focus on the environment and natural sciences and is located in scenic southwestern Virginia.
+We seek a conscientious and energetic student with quantitative and computing skills who can work independently in a collaborative environment. The student will work closely with the Carey Lab at Virginia Tech (http://carey.biol.vt.edu) and the Advanced Computing and Information Systems Laboratory at the University of Florida on the project (https://www.acis.ufl.edu). Students are also encouraged to apply to be a fellow in Virginia Tech’s Interfaces of Global Change graduate program (http://globalchange.vt.edu) and interact with other students in the Virginia Water Research Center (http://www.vwrrc.vt.edu) that is housed within our department. Virginia Tech, as Virginia’s leading research and land grant institution, has a strong interdisciplinary focus on the environment and natural sciences and is located in scenic southwestern Virginia.
 
 The student position will be funded on a combination of research and teaching assistantships, which include a competitive stipend, tuition waiver, and full health insurance benefits. Interested students should send an email letter of inquiry containing an overview of your research interests, your C.V., an unofficial transcript(s), and a list of past research experiences to rqthomas@vt.edu.  Please feel free to contact me with questions about the application process, graduate school at Virginia Tech, or potential research ideas.
 
