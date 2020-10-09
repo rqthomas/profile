@@ -40,12 +40,12 @@ Weaver, E.A., K. Kolivras, , V. A. Thomas, R. Q. Thomas, and K. Abbas. 2020.  En
 
 ### Bio
 
-A.B. Dartmouth College, Hanover, NH (2005)
+A.B. Dartmouth College, Hanover, NH (2005) 
 M.S. University of New Hampshire, Durham, NH (2007) 
-Ph.D. Cornell University, Ithaca, NY (2012)
-Post-doc National Center for Atmospheric Research, Boulder, CO (2012 - 2013)
-Assistant Professor, Virginia Tech, Blacksburg, VA (2013 - 2019)
-Associate Professor, Virginia Tech, Blacksburg, VA (2019 - present)
+Ph.D. Cornell University, Ithaca, NY (2012) 
+Post-doc National Center for Atmospheric Research, Boulder, CO (2012 - 2013) 
+Assistant Professor, Virginia Tech, Blacksburg, VA (2013 - 2019) 
+Associate Professor, Virginia Tech, Blacksburg, VA (2019 - present) 
 
 ### Team Members
 
@@ -68,11 +68,11 @@ Laura Puckett (UG)
 
 ### Teaching
 
-[FREC 3004: Environmental Informatics](https://github.com/EcoDynForecast/FREC3004_EnvInformatics_Class)
-FREC 5884: Ecological Forecasting
-FREC 3604: Climate Science
-FREC 5034: Ecosystem Dynamics
-FREC 5204: Ecosystem and Climate
+[FREC 3004: Environmental Informatics](https://github.com/EcoDynForecast/FREC3004_EnvInformatics_Class) 
+FREC 5884: Ecological Forecasting 
+FREC 3604: Climate Science 
+FREC 5034: Ecosystem Dynamics 
+FREC 5204: Ecosystem and Climate 
 
 ### Join Us
 
