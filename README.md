@@ -46,7 +46,7 @@ Regionally specific drivers of land-use transitions and future scenarios: A synt
 
 Thomas, V.A., R.H. Wynne, J. Kauffman, W. McCurdy, E.B. Brooks, R.Q. Thomas, J. Rakestraw. Mapping thins to identify active forest management in southern pine plantations using Landsat time series stacks. *Remote Sensing of Environment*
 
-Thomas R.Q, R. J. Figueiredo, V. Daneshmand, B. J. Bookout, L. K. Puckett, and C. C. Carey. In Press. A near‐term iterative forecasting system successfully predicts reservoir hydrodynamics and partitions uncertainty in real time. Water Resources Research. [https://doi.org/10.1029/2019WR026138](https://doi.org/10.1029/2019WR026138) 
+Thomas R.Q, R. J. Figueiredo, V. Daneshmand, B. J. Bookout, L. K. Puckett, and C. C. Carey. In Press. A near‐term iterative forecasting system successfully predicts reservoir hydrodynamics and partitions uncertainty in real time. *Water Resources Research*. [https://doi.org/10.1029/2019WR026138](https://doi.org/10.1029/2019WR026138) 
 
 Carey C. C, W. M. Woelmer, M. E. Lofton, R. J. Figueiredo, B. J. Bookout, R. S. Corrigan, V. Daneshmand, A. G. Hounshell, D. W. Howard, A. S. Lewis, R. P. McClure, H. L. Wander, N. K. Ward, and R. Q. Thomas.  In Press Advancing lake and reservoir water quality management with near-term, iterative ecological forecasting. *Inland Waters*. doi: 10.1080/20442041.2020.1816421
 
