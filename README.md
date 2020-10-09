@@ -1,18 +1,40 @@
 ## Ecosystem Dynamics and Forecasting
 
-*Ecosystems:*
+**Ecosystems:**
 
 We study the forest and freshwater ecosystems upon which society depends
 
-*Dynamics:* We model how ecosystems change over time in response to land-use, climate change, atmospheric deposition, and management.  We measure carbon, water, and energy exchange between ecosystems and the atmosphere using eddy-covariance and biometeorology sensors.
+**Dynamics:** We model how ecosystems change over time in response to land-use, climate change, atmospheric deposition, and management.  We measure carbon, water, and energy exchange between ecosystems and the atmosphere using eddy-covariance and biometeorology sensors.
 
-*Forecasting:* We predict the future of ecosystems by combining observations and ecosystem models using statistical techniques.
+**Forecasting:** We predict the future of ecosystems by combining observations and ecosystem models using statistical techniques.
 
 ### Projects
 
+*Current*
+
+[Resilient Water Systems: Integrating Environmental Sensor Networks and Real-Time Forecasting to Adaptively Manage Drinking Water Quality and Build Social Trust (CNS-1737424)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1737424&HistoricalAwards=false)
+
+[Cyberinfrastructure Enabling End-to-End Workflows for Aquatic Ecosystem Forecasting (DBI-1933016)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1933016&HistoricalAwards=false)
+
+[Macrosystems EDDIE: An undergraduate training program in macrosystems science and ecological forecasting (DEB-1926050)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1926050&HistoricalAwards=false)
+
+[The Ecological Forecasting Initiative RCN: Using NEON-enabled near-term forecasting to synthesize our understanding of predictability across ecological systems and scales(DEB-1926388)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1926388&HistoricalAwards=false)
+
 ### Publications
 
-[Link to another page](./publications.html).
+*Recent*
+
+Thomas, V.A., R.H. Wynne, J. Kauffman, W. McCurdy, E.B. Brooks, R.Q. Thomas, J. Rakestraw. Mapping thins to identify active forest management in southern pine plantations using Landsat time series stacks. Remote Sensing of Environment
+
+Thomas R.Q, R. J. Figueiredo, V. Daneshmand, B. J. Bookout, L. K. Puckett, and C. C. Carey. In Press. A near‐term iterative forecasting system successfully predicts reservoir hydrodynamics and partitions uncertainty in real time. Water Resources Research. doi: 10.1029/2019WR026138 
+
+Carey C. C, W. M. Woelmer, M. E. Lofton, R. J. Figueiredo, B. J. Bookout, R. S. Corrigan, V. Daneshmand, A. G. Hounshell, D. W. Howard, A. S. Lewis, R. P. McClure, H. L. Wander, N. K. Ward, and R. Q. Thomas.  In Press Advancing lake and reservoir water quality management with near-term, iterative ecological forecasting. Inland Waters. doi: 10.1080/20442041.2020.1816421
+
+Daw, A., R. Q. Thomas, C. C. Carey, J. S. Read, A. P. Appling, A. Karpatne. 2020. Physics-Guided Architecture (PGA) of Neural Networks for Quantifying Uncertainty in Lake Temperature Modeling.  Proceedings of the 2020 SIAM International Conference on Data Mining: 532-540.
+
+Weaver, E.A., K. Kolivras, , V. A. Thomas, R. Q. Thomas, and K. Abbas. 2020.  Environmental factors affecting ecological niche of Coccidioides (spp.) and spatial dynamics of valley fever in the United States. Spatial and Spatio-temporal Epidemiology 32: 100317 [link]
+
+[Full list of publications](./publications.html).
 
 ### People
 
