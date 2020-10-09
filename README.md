@@ -8,6 +8,9 @@
 
 **Forecasting:**  We predict the future of ecosystems by combining observations and ecosystem models using statistical techniques.
 
+
+![](images/HorizontalStacked_RGB.jpg)
+
 Department of Forest Resources and Environmental Conservation   
 College of Natural Resources and Environment   
 Fralin Life Sciences Institute   
