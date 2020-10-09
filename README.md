@@ -1,6 +1,6 @@
 # Ecosystem Dynamics and Forecasting
 
-[New PhD opportunity](#join-Us)
+[New PhD opportunity](#join-us)
 
 **Ecosystems:**  We study the forest and freshwater ecosystems upon which society depends
 
