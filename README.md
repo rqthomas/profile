@@ -1,4 +1,4 @@
-## Ecosystem Dynamics and Forecasting
+# Ecosystem Dynamics and Forecasting
 
 **Ecosystems:**  We study the forest and freshwater ecosystems upon which society depends
 
@@ -6,7 +6,7 @@
 
 **Forecasting:**  We predict the future of ecosystems by combining observations and ecosystem models using statistical techniques.
 
-### Projects
+## Projects
 
 *Current*
 
@@ -22,7 +22,7 @@
 
 Regionally specific drivers of land-use transitions and future scenarios: A synthesis considering the land management influence in the Southeastern U.S (NASA-NNX17AI09G)
 
-### Publications
+## Publications
 
 *Recent*
 
@@ -38,7 +38,7 @@ Weaver, E.A., K. Kolivras, , V. A. Thomas, R. Q. Thomas, and K. Abbas. 2020.  En
 
 [Full list of publications](./publications.html).
 
-### Bio
+## Bio
 
 A.B. Dartmouth College, Hanover, NH (2005) 
 M.S. University of New Hampshire, Durham, NH (2007) 
@@ -47,7 +47,7 @@ Post-doc National Center for Atmospheric Research, Boulder, CO (2012 - 2013)
 Assistant Professor, Virginia Tech, Blacksburg, VA (2013 - 2019) 
 Associate Professor, Virginia Tech, Blacksburg, VA (2019 - present) 
 
-### Team Members
+## Team Members
 
 *Post-docs*
 
@@ -66,7 +66,7 @@ Annika Jersild (MS)
 Wyatt McCurdy (MS)  
 Laura Puckett (UG)  
 
-### Teaching
+## Teaching
 
 [FREC 3004: Environmental Informatics](https://github.com/EcoDynForecast/FREC3004_EnvInformatics_Class) 
 FREC 5884: Ecological Forecasting 
@@ -74,7 +74,7 @@ FREC 3604: Climate Science
 FREC 5034: Ecosystem Dynamics 
 FREC 5204: Ecosystem and Climate 
 
-### Join Us
+## Join Us
 
 *Ph.D. assistantship in environmental data science and forecasting at Virginia Tech*
 
