@@ -1,12 +1,10 @@
 ## Ecosystem Dynamics and Forecasting
 
-**Ecosystems:**
+**Ecosystems:**  We study the forest and freshwater ecosystems upon which society depends
 
-We study the forest and freshwater ecosystems upon which society depends
+**Dynamics:**  We model how ecosystems change over time in response to land-use, climate change, atmospheric deposition, and management.  We measure carbon, water, and energy exchange between ecosystems and the atmosphere using eddy-covariance and biometeorology sensors.
 
-**Dynamics:** We model how ecosystems change over time in response to land-use, climate change, atmospheric deposition, and management.  We measure carbon, water, and energy exchange between ecosystems and the atmosphere using eddy-covariance and biometeorology sensors.
-
-**Forecasting:** We predict the future of ecosystems by combining observations and ecosystem models using statistical techniques.
+**Forecasting:**  We predict the future of ecosystems by combining observations and ecosystem models using statistical techniques.
 
 ### Projects
 
@@ -18,7 +16,7 @@ We study the forest and freshwater ecosystems upon which society depends
 
 [Macrosystems EDDIE: An undergraduate training program in macrosystems science and ecological forecasting (DEB-1926050)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1926050&HistoricalAwards=false)
 
-[The Ecological Forecasting Initiative RCN: Using NEON-enabled near-term forecasting to synthesize our understanding of predictability across ecological systems and scales(DEB-1926388)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1926388&HistoricalAwards=false)
+[The Ecological Forecasting Initiative RCN: Using NEON-enabled near-term forecasting to synthesize our understanding of predictability across ecological systems and scales (DEB-1926388)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1926388&HistoricalAwards=false)
 
 [Decadal prediction of sustainable agricultural and forest management - Earth system prediction differs from climate prediction (USDA-NIFA 2015-67003-23485)](https://vtnews.vt.edu/articles/2015/11/111115-cnre-usdanifagrant.html)
 
@@ -36,7 +34,7 @@ Carey C. C, W. M. Woelmer, M. E. Lofton, R. J. Figueiredo, B. J. Bookout, R. S. 
 
 Daw, A., R. Q. Thomas, C. C. Carey, J. S. Read, A. P. Appling, A. Karpatne. 2020. Physics-Guided Architecture (PGA) of Neural Networks for Quantifying Uncertainty in Lake Temperature Modeling.  Proceedings of the 2020 SIAM International Conference on Data Mining: 532-540.
 
-Weaver, E.A., K. Kolivras, , V. A. Thomas, R. Q. Thomas, and K. Abbas. 2020.  Environmental factors affecting ecological niche of Coccidioides (spp.) and spatial dynamics of valley fever in the United States. Spatial and Spatio-temporal Epidemiology 32: 100317 [link]
+Weaver, E.A., K. Kolivras, , V. A. Thomas, R. Q. Thomas, and K. Abbas. 2020.  Environmental factors affecting ecological niche of Coccidioides (spp.) and spatial dynamics of valley fever in the United States. Spatial and Spatio-temporal Epidemiology 32: 100317
 
 [Full list of publications](./publications.html).
 
@@ -49,19 +47,24 @@ Tadhg Moore
 *PhD Students*
 
 Benjamin Ahlswede
+
 Joshua Rady
 
 *Alumni*
 
 Michael Graham (PhD)
+
 Kevin J. Horn (Post-doc)
+
 Annika Jersild (MS)
+
 Wyatt McCurdy (MS)
+
 Laura Puckett (UG)
 
 ### Join Us
 
-Ph.D. assistantship in environmental data science and forecasting at Virginia Tech
+*Ph.D. assistantship in environmental data science and forecasting at Virginia Tech*
 
 The Ecosystem Dynamics and Forecasting Lab led by Dr. Quinn Thomas at Virginia Tech has funding for a new Ph.D. student position to start January 2021 or August 2021. We are recruiting a Ph.D. student to apply innovative new techniques to combine lake ecosystem modeling with sensor data analyses to forecast future water quality in drinking water reservoirs. The Ph.D. student will help develop forecasts to inform drinking water management using state-of-the-art cyberinfrastructure and communicate their forecasts to water utility managers.
 
