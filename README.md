@@ -24,7 +24,7 @@ rqthomas@vt.edu
 
 ## Projects
 
-[Ecological Forecasting Initiative Research Coordination Network](https://ecoforecast.org/rcn/)[(DEB-1926388)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1926388&HistoricalAwards=false)
+[Ecological Forecasting Initiative Research Coordination Network](https://ecoforecast.org/rcn/) [(DEB-1926388)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1926388&HistoricalAwards=false)
 
 Lead PI of a NSF sponsored 5-year project that is leading workshops, conferences, and collaborative software development to address the following objectives:
 1. Define [community standards](https://ecoforecast.org/wp-content/uploads/2020/06/Forecasting-Standards-Draft-v0.1-2020-05.pdf) and [best practices](https://ecoforecast.org/reproducible-forecasting-workflows/) for developing, sharing, and archiving forecasts and models
