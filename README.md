@@ -8,10 +8,10 @@
 
 **Forecasting:**  We predict the future of ecosystems by combining observations and ecosystem models using statistical techniques.
 
-Department of Forest Resources and Environmental Conservation   
-College of Natural Resources and Environment   
-Fralin Life Sciences Institute   
-Virginia Tech   
+[Department of Forest Resources and Environmental Conservation](https://frec.vt.edu)   
+[College of Natural Resources and Environment](https://cnre.vt.edu)   
+[Fralin Life Sciences Institute](https://fralinlifesci.vt.edu)  
+[Virginia Tech](https://vt.edu)   
 
 Steger Hall (0477)  
 Room 315B  
