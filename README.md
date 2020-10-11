@@ -24,6 +24,10 @@ rqthomas@vt.edu
 
 ## Projects
 
+[Ecological Forecasting Initiative Research Coordination Network](https://ecoforecast.org/rcn/)
+
+Lead PI of a NSF sponsored 5-year project that is leading workshops, conferences, and collaborative software development to address the following objectives: (1) develop best practices for archiving and sharing NEON (National Ecological Observatory Network) ecological forecasts, (2) increase the number, diversity, and quality of forecasts, (3) train the ecological community to produce forecasts, (4) create collaborations dedicated to facilitating knowledge transfer among ecologists, (5) cultivate connections between the academic ecological forecasting community and mission-driven agencies that use forecasts to guide decision-making, and (6) synthesize forecasts to evaluate fundamental limits to predictability across ecological systems and scales.
+
 *Current*
 
 [Resilient Water Systems: Integrating Environmental Sensor Networks and Real-Time Forecasting to Adaptively Manage Drinking Water Quality and Build Social Trust (CNS-1737424)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1737424&HistoricalAwards=false)
