@@ -62,9 +62,9 @@ Regionally specific drivers of land-use transitions and future scenarios: A synt
  
 ## Publications
 
-[Full list of publications](./publications.html)
+[Click for a full list of publications](./publications.html)
 
-*Recent*
+*Recent (2020)*
 
 Thomas, V.A., R.H. Wynne, J. Kauffman, W. McCurdy, E.B. Brooks, R.Q. Thomas, J. Rakestraw. Mapping thins to identify active forest management in southern pine plantations using Landsat time series stacks. *Remote Sensing of Environment*
 
