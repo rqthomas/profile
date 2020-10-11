@@ -46,6 +46,8 @@ Regionally specific drivers of land-use transitions and future scenarios: A synt
 
 [Researchers co-locate to Steger Hall at the Fralin Life Sciences Institute to tackle infectious diseases and rapid environmental change - VT News](https://vtnews.vt.edu/articles/2020/08/08-25-20-Fralin-Life-Sci-Steger-Hall.html)  
 
+[Using data to predict the future of ecosystems - VT News](https://vtnews.vt.edu/articles/2019/10/cnre-data-thomas.html)  
+
 [Researchers receive NSF grant to create Ecological Forecasting Research Coordination Network - VT News](https://vtnews.vt.edu/articles/2019/08/080719-FLSI-Ecological-Forecasting-RCN-grant.html) 
  
 [Testing the water: Virginia Tech team launches system to predict water conditions - VT News](https://vtnews.vt.edu/articles/2019/04/unirel-smartreservoir.html)  
@@ -54,12 +56,10 @@ Regionally specific drivers of land-use transitions and future scenarios: A synt
 
 [Global Change Center researchers help water authority create ‘best water possible,’ prepare for warmer temperatures - VT News](https://vtnews.vt.edu/articles/2017/03/031517-fralin-watersystem.html)  
 
-[Using data to predict the future of ecosystems - VT News](https://vtnews.vt.edu/articles/2019/10/cnre-data-thomas.html)  
- 
-[Study incorporates ecological processes into Earth system models to aid climate change predictions - VT News](https://vtnews.vt.edu/articles/2015/11/111115-cnre-usdanifagrant.html) 
- 
 [Study forecasts growth rates of loblolly pine trees through first half of 21st century - VT News](https://vtnews.vt.edu/articles/2018/07/cnre-ecologicalforecast.html)  
 
+[Study incorporates ecological processes into Earth system models to aid climate change predictions - VT News](https://vtnews.vt.edu/articles/2015/11/111115-cnre-usdanifagrant.html) 
+ 
 ## Publications
 
 [Full list of publications](./publications.html)
