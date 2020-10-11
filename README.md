@@ -28,7 +28,7 @@ rqthomas@vt.edu
 
 Lead PI of a NSF sponsored 5-year project that is leading workshops, conferences, and collaborative software development to address the following objectives:
 1. Define [community standards](https://ecoforecast.org/wp-content/uploads/2020/06/Forecasting-Standards-Draft-v0.1-2020-05.pdf) and [best practices](https://ecoforecast.org/reproducible-forecasting-workflows/) for developing, sharing, and archiving forecasts and models
-2. Increase the number and diversity of NEON-enabled forecasts by developing and hosting the NEON Ecological Forecasting Challenge
+2. Increase the number and diversity of NEON-enabled [(National Ecological Observatory Network)](https://www.neonscience.org) forecasts by developing and hosting the [NEON Ecological Forecasting Challenge](https://ecoforecast.org/efi-rcn-forecast-challenges/)
 3. Create educational materials to empower scientists at all career stages to forecast using NEON data products
 4. Support the creation of [software](https://github.com/eco4cast) to produce NEON-enabled forecasts at intensive and collaborative coding-focused workshops
 5. Align forecast outputs and decision support with the needs of forecast users at mission-driven agencies to guide decision making, and
