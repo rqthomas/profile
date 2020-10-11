@@ -86,7 +86,7 @@ M.S. University of New Hampshire, Durham, NH (2007)
 
 Ph.D. Cornell University, Ithaca, NY (2012) 
   
-Post-doc National Center for Atmospheric Research, Boulder, CO (2012 - 2013) 
+Post-doc, National Center for Atmospheric Research, Boulder, CO (2012 - 2013) 
  
 Assistant Professor, Virginia Tech, Blacksburg, VA (2013 - 2019) 
  
