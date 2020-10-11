@@ -24,19 +24,23 @@ rqthomas@vt.edu
 
 ## Projects
 
-[Ecological Forecasting Initiative Research Coordination Network](https://ecoforecast.org/rcn/)
+[Ecological Forecasting Initiative Research Coordination Network](https://ecoforecast.org/rcn/)[(DEB-1926388)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1926388&HistoricalAwards=false)
 
-Lead PI of a NSF sponsored 5-year project that is leading workshops, conferences, and collaborative software development to address the following objectives: (1) develop best practices for archiving and sharing NEON (National Ecological Observatory Network) ecological forecasts, (2) increase the number, diversity, and quality of forecasts, (3) train the ecological community to produce forecasts, (4) create collaborations dedicated to facilitating knowledge transfer among ecologists, (5) cultivate connections between the academic ecological forecasting community and mission-driven agencies that use forecasts to guide decision-making, and (6) synthesize forecasts to evaluate fundamental limits to predictability across ecological systems and scales.
+Lead PI of a NSF sponsored 5-year project that is leading workshops, conferences, and collaborative software development to address the following objectives:
+1. Define [community standards](https://ecoforecast.org/wp-content/uploads/2020/06/Forecasting-Standards-Draft-v0.1-2020-05.pdf) and [best practices](https://ecoforecast.org/reproducible-forecasting-workflows/) for developing, sharing, and archiving forecasts and models
+2. Increase the number and diversity of NEON-enabled forecasts by developing and hosting the NEON Ecological Forecasting Challenge
+3. Create educational materials to empower scientists at all career stages to forecast using NEON data products
+4. Support the creation of [software](https://github.com/eco4cast) to produce NEON-enabled forecasts at intensive and collaborative coding-focused workshops
+5. Align forecast outputs and decision support with the needs of forecast users at mission-driven agencies to guide decision making, and
+6. Synthesize forecasts to examine how limits to forecastability vary across ecological systems and scales.
 
-*Current*
+*Other current projects*
 
 [Resilient Water Systems: Integrating Environmental Sensor Networks and Real-Time Forecasting to Adaptively Manage Drinking Water Quality and Build Social Trust (CNS-1737424)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1737424&HistoricalAwards=false)
 
 [Cyberinfrastructure Enabling End-to-End Workflows for Aquatic Ecosystem Forecasting (DBI-1933016)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1933016&HistoricalAwards=false)
 
 [Macrosystems EDDIE: An undergraduate training program in macrosystems science and ecological forecasting (DEB-1926050)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1926050&HistoricalAwards=false)
-
-[The Ecological Forecasting Initiative RCN: Using NEON-enabled near-term forecasting to synthesize our understanding of predictability across ecological systems and scales (DEB-1926388)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1926388&HistoricalAwards=false)
 
 [Decadal prediction of sustainable agricultural and forest management - Earth system prediction differs from climate prediction (USDA-NIFA 2015-67003-23485)](https://vtnews.vt.edu/articles/2015/11/111115-cnre-usdanifagrant.html)
 
