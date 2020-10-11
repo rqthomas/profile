@@ -66,9 +66,9 @@ Regionally specific drivers of land-use transitions and future scenarios: A synt
  
 ## Publications
 
-[Full list of publications](./publications.html)
+[Click for a full list of publications](./publications.html)
 
-*Recent*
+*Recent (2020)*
 
 Thomas, V.A., R.H. Wynne, J. Kauffman, W. McCurdy, E.B. Brooks, R.Q. Thomas, J. Rakestraw. Mapping thins to identify active forest management in southern pine plantations using Landsat time series stacks. *Remote Sensing of Environment*
 
@@ -85,10 +85,15 @@ Weaver, E.A., K. Kolivras, , V. A. Thomas, R. Q. Thomas, and K. Abbas. 2020.  En
 ## Bio
 
 A.B. Dartmouth College, Hanover, NH (2005)  
+
 M.S. University of New Hampshire, Durham, NH (2007)  
-Ph.D. Cornell University, Ithaca, NY (2012)   
-Post-doc National Center for Atmospheric Research, Boulder, CO (2012 - 2013)  
-Assistant Professor, Virginia Tech, Blacksburg, VA (2013 - 2019)  
+
+Ph.D. Cornell University, Ithaca, NY (2012) 
+  
+Post-doc, National Center for Atmospheric Research, Boulder, CO (2012 - 2013) 
+ 
+Assistant Professor, Virginia Tech, Blacksburg, VA (2013 - 2019) 
+ 
 Associate Professor, Virginia Tech, Blacksburg, VA (2019 - present)  
 
 [top](#ecosystem-dynamics-and-forecasting)
