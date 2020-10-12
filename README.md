@@ -135,7 +135,7 @@ FREC 5204: Ecosystem and Climate
 
 ## Join Us
 
-*Ph.D. assistantship in environmental data science and forecasting at Virginia Tech*
+[*Ph.D. assistantship in environmental data science and forecasting at Virginia Tech*](assest/VT_PhD_opportunity_RQThomas.pdf)
 
 The Ecosystem Dynamics and Forecasting Lab led by Dr. Quinn Thomas at Virginia Tech has funding for a new Ph.D. student position to start January 2021 or August 2021. We are recruiting a Ph.D. student to apply innovative new techniques to combine lake ecosystem modeling with sensor data analyses to forecast future water quality in drinking water reservoirs. The Ph.D. student will help develop forecasts to inform drinking water management using state-of-the-art cyberinfrastructure and communicate their forecasts to water utility managers.
 
