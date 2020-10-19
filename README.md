@@ -21,6 +21,7 @@ rqthomas@vt.edu
 [@rquinnthomas](https://twitter.com/rquinnthomas)  
 [Google Scholar](https://scholar.google.com/citations?user=8q-msz4AAAAJ&hl=en)   
 [ORCID](https://orcid.org/0000-0003-1282-7825)   
+[GitHub](https://github.com/rqthomas)
 
 ## Projects
 
