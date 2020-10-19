@@ -88,7 +88,7 @@ Weaver, E.A., K. Kolivras, V.A. Thomas, R.Q. Thomas, and K. Abbas. 2020. Environ
 
 ## Bio
 
-[*Click for full C.V.*](assets/RQ_Thomas_CV.pdf)
+[Click for full C.V.](assets/RQ_Thomas_CV.pdf)
 
 A.B. Dartmouth College, Hanover, NH (2005)  
 
