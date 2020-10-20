@@ -41,7 +41,7 @@ Horn, K.J., R.Q. Thomas, C.M. Clark, L.H. Pardo, M.E. Fenn, G.B. Lawrence, S. Pe
 
 Chu, H., D.D. Baldocchi, C. Poindexter, M. Abraha, A. Desai, G. Bohrer, A. Arain, T. Griffis, P. Blanken, T. O'Halloran, R.Q. Thomas, Q. Zhang, S. Burns, D. Christian, S. Brown, A. Black, C. Gough, B. E. Law, X. Lee, Ji. Chen, D. Reed, K. Clark, J. Hatfield, J. Prueger, R. Bracho, and T.A. Martin. 2018. Temporal dynamics of aerodynamic canopy height derived from eddy covariance momentum data collected across North American Flux Networks. *Geophysical Research Letters* 45: 9275-9287. [https://doi.org/10.1029/2018GL079306](https://doi.org/10.1029/2018GL079306)
 
-Thomas. R.Q., A.L. Jersild, E.B. Brooks, V.A. Thomas, and R.H. Wynne. 2018. A mid-century ecological forecast with partitioned uncertainty predicts increases in loblolly pine forest productivity. *Ecological Applications* 28: 1503-1519. [ https://doi.org/10.1002/eap.1761]( https://doi.org/10.1002/eap.1761)
+Thomas. R.Q., A.L. Jersild, E.B. Brooks, V.A. Thomas, and R.H. Wynne. 2018. A mid-century ecological forecast with partitioned uncertainty predicts increases in loblolly pine forest productivity. *Ecological Applications* 28: 1503-1519. [https://doi.org/10.1002/eap.1761]( https://doi.org/10.1002/eap.1761)
 
 Jian, J., M.K. Steele, S.D. Day, R.Q. Thomas, and S.C. Hodges. 2018. Measurement strategies to account for soil respiration temporal heterogeneity across diverse regions. *Soil Biology and Biochemistry* 125: 167-177. [https://doi.org/10.1016/j.soilbio.2018.07.003](https://doi.org/10.1016/j.soilbio.2018.07.003)
 
@@ -75,7 +75,7 @@ Thomas, R.Q., and M. Williams. 2014. A model using marginal efficiency of invest
 
 Thomas, R.Q, G.A. McKinley, and M.C. Long. 2013. Examining Uncertainties in Representations of the Carbon Cycle in Earth System Models. *EOS, Transactions American Geophysical Union* 94: 460. [https://doi.org/10.1002/2013EO480006](https://doi.org/10.1002/2013EO480006)
 
-Thomas, R.Q., S. Zaehle, P. H. Templer, and C.L. Goodale. 2013. Global patterns of nitrogen limitation: Confronting two global biogeochemical models with observations. *Global Change Biology* 19: 2986–2998. [https://doi.org/10.1111/gcb.12281](https://doi.org/10.1111/gcb.12281)
+Thomas, R.Q., S. Zaehle, P.H. Templer, and C.L. Goodale. 2013. Global patterns of nitrogen limitation: Confronting two global biogeochemical models with observations. *Global Change Biology* 19: 2986–2998. [https://doi.org/10.1111/gcb.12281](https://doi.org/10.1111/gcb.12281)
 
 Bell, R.C., A. Belmaker, C.S. Couch, K.M. Marchetto, J.L. Simonis, R.Q. Thomas, J.P. Sparks, J.M. Brown, K.S. Franscisco, and M.E. Manuel. 2013. Effectiveness of *Erythrina* gall wasp bio-control and implications for the recovery of threatened Wiliwili trees (Fabaceae: *Erythrina sandwicensis*).  *Journal of the Torrey Botanical Society* 140:215–224. [https://doi.org/10.3159/TORREY-D-12-00069.1](https://doi.org/10.3159/TORREY-D-12-00069.1)
 
