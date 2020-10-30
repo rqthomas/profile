@@ -75,7 +75,7 @@ Regionally specific drivers of land-use transitions and future scenarios: A synt
 
 *Recent (2020)*
 
-Thomas, V.A., R.H. Wynne, J. Kauffman, W. McCurdy, E.B. Brooks, R.Q. Thomas, and J. Rakestraw. In Press. Mapping thins to identify active forest management in southern pine plantations using Landsat time series stacks. *Remote Sensing of Environment*. [https://doi.org/ 10.1016/j.rse.2020.112127](https://doi.org/ 10.1016/j.rse.2020.112127)
+Thomas, V.A., R.H. Wynne, J. Kauffman, W. McCurdy, E.B. Brooks, R.Q. Thomas, and J. Rakestraw. 2021. Mapping thins to identify active forest management in southern pine plantations using Landsat time series stacks. *Remote Sensing of Environment* 252: 112127. [https://doi.org/10.1016/j.rse.2020.112127](https://doi.org/10.1016/j.rse.2020.112127)
 
 Thomas R.Q, R.J. Figueiredo, V. Daneshmand, B.J. Bookout, L.K. PuckettU, and C.C. Carey. In Press. A near‐term iterative forecasting system successfully predicts reservoir hydrodynamics and partitions uncertainty in real time. *Water Resources Research*. [https://doi.org/10.1029/2019WR026138](https://doi.org/10.1029/2019WR026138) 
 
