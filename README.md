@@ -27,7 +27,7 @@ rqthomas@vt.edu
 
 [Ecological Forecasting Initiative Research Coordination Network](https://ecoforecast.org/rcn/) [(DEB-1926388)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1926388&HistoricalAwards=false)
 
-Lead PI of a NSF sponsored 5-year project that is leading workshops, conferences, and collaborative software development to address the following objectives:
+Lead PI of an NSF sponsored 5-year project that is leading workshops, conferences, and collaborative software development to address the following objectives:
 1. Define [community standards](https://ecoforecast.org/wp-content/uploads/2020/06/Forecasting-Standards-Draft-v0.1-2020-05.pdf) and [best practices](https://ecoforecast.org/reproducible-forecasting-workflows/) for developing, sharing, and archiving forecasts and models
 2. Increase the number and diversity of NEON-enabled [(National Ecological Observatory Network)](https://www.neonscience.org) forecasts by developing and hosting the [NEON Ecological Forecasting Challenge](https://ecoforecast.org/efi-rcn-forecast-challenges/)
 3. Create educational materials to empower scientists at all career stages to forecast using NEON data products
