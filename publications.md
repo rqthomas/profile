@@ -15,7 +15,7 @@ Thomas, V.A., R.H. Wynne, J. Kauffman, W. McCurdy, E.B. Brooks, R.Q. Thomas, and
 
 ### 2020
 
-Thomas R.Q, R.J. Figueiredo, V. Daneshmand, B.J. Bookout, L.K. PuckettU, and C.C. Carey. 2020. A near‐term iterative forecasting system successfully predicts reservoir hydrodynamics and partitions uncertainty in real time. *Water Resources Research* 56: e2019WR026138. [https://doi.org/10.1029/2019WR026138](https://doi.org/10.1029/2019WR026138) 
+Thomas R.Q, R.J. Figueiredo, V. Daneshmand, B.J. Bookout, L.K. Puckett, and C.C. Carey. 2020. A near‐term iterative forecasting system successfully predicts reservoir hydrodynamics and partitions uncertainty in real time. *Water Resources Research* 56: e2019WR026138. [https://doi.org/10.1029/2019WR026138](https://doi.org/10.1029/2019WR026138) 
 
 Daw, A., R.Q. Thomas, C.C. Carey, J.S. Read, A.P. Appling, and A. Karpatne. 2020. Physics-guided architecture rchitecture (PGA) of neural networks for quantifying uncertainty in lake temperature modeling. *Proceedings of the 2020 SIAM International Conference on Data Mining*: 532-540. [https://doi.org/10.1137/1.9781611976236.60](https://doi.org/10.1137/1.9781611976236.60)
 
