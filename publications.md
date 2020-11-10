@@ -9,6 +9,8 @@ layout: default
 
 Carey C.C, W.M. Woelmer, M.E. Lofton, R.J. Figueiredo, B.J. Bookout, R.S. Corrigan, V. DaneshmandG, A.G. Hounshell, D.W. Howard, A.S. Lewis, R.P. McClure, H.L. Wander, N.K. Ward, and R.Q. Thomas. In Press. Advancing lake and reservoir water quality management with near-term, iterative ecological forecasting. *Inland Waters*. [https://doi.org/10.1080/20442041.2020.1816421](https://doi.org/10.1080/20442041.2020.1816421)
 
+Peters, J. and R.Q. Thomas. Accepted.  Going Virtual: What We Learned from the Ecological Forecasting Initiative Research Coordination Network Virtual Workshop. *Bulletin of the Ecological Society of America*.  doi: forthcoming
+
 ### 2021
 
 Thomas, V.A., R.H. Wynne, J. Kauffman, W. McCurdy, E.B. Brooks, R.Q. Thomas, and J. Rakestraw. 2021. Mapping thins to identify active forest management in southern pine plantations using Landsat time series stacks. *Remote Sensing of Environment* 252: 112127. [https://doi.org/10.1016/j.rse.2020.112127](https://doi.org/10.1016/j.rse.2020.112127)
