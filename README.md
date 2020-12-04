@@ -51,6 +51,8 @@ Regionally specific drivers of land-use transitions and future scenarios: A synt
 
 *Press releases*
 
+[Confronting ecological change takes a collaborative leap with the NEON Ecological Forecasting Challenge](https://vtnews.vt.edu/articles/2020/11/fralinlifesci-neon-ecological-forecasting-challenge-2021.html)
+
 [To ensure safe drinking water, experts forecast the health of lakes and reservoirs - VT News](https://vtnews.vt.edu/articles/2020/09/fralinlifesci-ecological-forecasting-research-education.html)  
 
 [Researchers co-locate to Steger Hall at the Fralin Life Sciences Institute to tackle infectious diseases and rapid environmental change - VT News](https://vtnews.vt.edu/articles/2020/08/08-25-20-Fralin-Life-Sci-Steger-Hall.html)  
