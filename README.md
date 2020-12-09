@@ -49,7 +49,7 @@ Regionally specific drivers of land-use transitions and future scenarios: A synt
 
 [top](#ecosystem-dynamics-and-forecasting)
 
-*In the news*
+## In the news
 
 [Virginia Tech pioneers smart reservoirs](https://roanoke.com/news/local/virginia-tech-pioneers-smart-reservoirs/article_b7b7330e-35a5-11eb-a443-b3f621f19df6.html#tracking-source=home-top-story-1)
 
@@ -72,6 +72,8 @@ Regionally specific drivers of land-use transitions and future scenarios: A synt
 [Study forecasts growth rates of loblolly pine trees through first half of 21st century - VT News](https://vtnews.vt.edu/articles/2018/07/cnre-ecologicalforecast.html)  
 
 [Study incorporates ecological processes into Earth system models to aid climate change predictions - VT News](https://vtnews.vt.edu/articles/2015/11/111115-cnre-usdanifagrant.html) 
+
+[top](#ecosystem-dynamics-and-forecasting)
  
 ## Publications
 
