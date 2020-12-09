@@ -51,9 +51,9 @@ Regionally specific drivers of land-use transitions and future scenarios: A synt
 
 ## In the news
 
-[Virginia Tech pioneers smart reservoirs](https://roanoke.com/news/local/virginia-tech-pioneers-smart-reservoirs/article_b7b7330e-35a5-11eb-a443-b3f621f19df6.html#tracking-source=home-top-story-1)
+[Virginia Tech pioneers smart reservoirs - Roanoke Times](https://roanoke.com/news/local/virginia-tech-pioneers-smart-reservoirs/article_b7b7330e-35a5-11eb-a443-b3f621f19df6.html#tracking-source=home-top-story-1)
 
-[Confronting ecological change takes a collaborative leap with the NEON Ecological Forecasting Challenge](https://vtnews.vt.edu/articles/2020/11/fralinlifesci-neon-ecological-forecasting-challenge-2021.html)
+[Confronting ecological change takes a collaborative leap with the NEON Ecological Forecasting Challenge - VT News](https://vtnews.vt.edu/articles/2020/11/fralinlifesci-neon-ecological-forecasting-challenge-2021.html)
 
 [To ensure safe drinking water, experts forecast the health of lakes and reservoirs - VT News](https://vtnews.vt.edu/articles/2020/09/fralinlifesci-ecological-forecasting-research-education.html)  
 
