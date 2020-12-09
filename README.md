@@ -49,7 +49,9 @@ Regionally specific drivers of land-use transitions and future scenarios: A synt
 
 [top](#ecosystem-dynamics-and-forecasting)
 
-*Press releases*
+*In the news*
+
+[Virginia Tech pioneers smart reservoirs](https://roanoke.com/news/local/virginia-tech-pioneers-smart-reservoirs/article_b7b7330e-35a5-11eb-a443-b3f621f19df6.html#tracking-source=home-top-story-1)
 
 [Confronting ecological change takes a collaborative leap with the NEON Ecological Forecasting Challenge](https://vtnews.vt.edu/articles/2020/11/fralinlifesci-neon-ecological-forecasting-challenge-2021.html)
 
@@ -77,7 +79,7 @@ Regionally specific drivers of land-use transitions and future scenarios: A synt
 
 *Recent (2020 - )*
 
-Peters, J. and R.Q. Thomas. Accepted. Going Virtual: What We Learned from the Ecological Forecasting Initiative Research Coordination Network Virtual Workshop. *Bulletin of the Ecological Society of America*.  doi: forthcoming
+Peters, J. and R.Q. Thomas. Accepted. Going Virtual: What We Learned from the Ecological Forecasting Initiative Research Coordination Network Virtual Workshop. *Bulletin of the Ecological Society of America*. [https://doi.org/10.1002/bes2/1828](https://doi.org/10.1002/bes2/1828)
 
 Thomas, V.A., R.H. Wynne, J. Kauffman, W. McCurdy, E.B. Brooks, R.Q. Thomas, and J. Rakestraw. 2021. Mapping thins to identify active forest management in southern pine plantations using Landsat time series stacks. *Remote Sensing of Environment* 252: 112127. [https://doi.org/10.1016/j.rse.2020.112127](https://doi.org/10.1016/j.rse.2020.112127)
 
