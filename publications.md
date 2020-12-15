@@ -7,9 +7,11 @@ layout: default
 
 ### Accepted or in Press
 
-Carey C.C, W.M. Woelmer, M.E. Lofton, R.J. Figueiredo, B.J. Bookout, R.S. Corrigan, V. DaneshmandG, A.G. Hounshell, D.W. Howard, A.S. Lewis, R.P. McClure, H.L. Wander, N.K. Ward, and R.Q. Thomas. In Press. Advancing lake and reservoir water quality management with near-term, iterative ecological forecasting. *Inland Waters*. [https://doi.org/10.1080/20442041.2020.1816421](https://doi.org/10.1080/20442041.2020.1816421)
+Koplitz, S.N., C.G. Nolte, R.D. Sabo, C.M. Clark, K.J. Horn, R.Q. Thomas, and T.A. Newcomer-Johnson. Accepted. The contribution of wildland fire emissions to nitrogen and sulfur deposition in the contiguous U.S.: Implications for tree growth and survival in the Northwest. *Environmental Research Letters*.  doi: forthcoming
 
-Peters, J. and R.Q. Thomas. Accepted.  Going Virtual: What We Learned from the Ecological Forecasting Initiative Research Coordination Network Virtual Workshop. *Bulletin of the Ecological Society of America*.  doi: forthcoming
+Peters, J. and R.Q. Thomas. Accepted.  Going Virtual: What We Learned from the Ecological Forecasting Initiative Research Coordination Network Virtual Workshop. *Bulletin of the Ecological Society of America*. [https://doi.org/10.1002/bes2/1828](https://doi.org/10.1002/bes2/1828)
+
+Carey C.C, W.M. Woelmer, M.E. Lofton, R.J. Figueiredo, B.J. Bookout, R.S. Corrigan, V. DaneshmandG, A.G. Hounshell, D.W. Howard, A.S. Lewis, R.P. McClure, H.L. Wander, N.K. Ward, and R.Q. Thomas. In Press. Advancing lake and reservoir water quality management with near-term, iterative ecological forecasting. *Inland Waters*. [https://doi.org/10.1080/20442041.2020.1816421](https://doi.org/10.1080/20442041.2020.1816421)
 
 ### 2021
 
