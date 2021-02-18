@@ -81,7 +81,11 @@ Regionally specific drivers of land-use transitions and future scenarios: A synt
 
 *Recent (2020 - )*
 
-Koplitz, S.N., C.G. Nolte, R.D. Sabo, C.M. Clark, K.J. Horn, R.Q. Thomas, and T.A. Newcomer-Johnson. Accepted. The contribution of wildland fire emissions to nitrogen and sulfur deposition in the contiguous U.S.: Implications for tree growth and survival in the Northwest. *Environmental Research Letters*.  doi: forthcoming
+Graham, M.W., R.Q. Thomas, D.L. Lombardozzi, and M.E. O’Rourke. Accepted. Modest capacity of no-till farming to offset emissions over 21st century. Environmental Research Letters. doi: forthcoming.
+
+Meyer, M. F., R. Ladwig, H.A. Dugan, A. Anderson, A.R. Bah, B. Boehrer, L. Borre, R.J. Chapina, C. Doyle, E.J. Favot, G. Flaim, P. Forsberg, P.C. Hanson, B.W. Ibelings, P. Isles, F-P Lin, D. Lofton, T.N. Moore, S. Peel, J.A. Peters, D. Peirson, L.N. de Senerpont Domis, J.A. Schloss, M. Shikhani, A.P. Smagula, J.D. Stockwell, P. Thomas, R.Q. Thomas, T. Tietjen, and K.C. Weathers. In press. Virtual Growing Pains: Initial Lessons Learned from Organizing Virtual Workshops, Summits, Conferences, and Networking Events during a Global Pandemic. *Limnology and Oceanography Bulletin* [https://doi.org/10.1002/lob.10431](https://doi.org/10.1002/lob.10431)
+
+Koplitz, S.N., C.G. Nolte, R.D. Sabo, C.M. Clark, K.J. Horn, R.Q. Thomas, and T.A. Newcomer-Johnson. 2021. The contribution of wildland fire emissions to nitrogen and sulfur deposition in the contiguous U.S.: Implications for tree growth and survival in the Northwest. *Environmental Research Letters* 16: 024028. [https://doi.org/10.1088/1748-9326/abd26e](https://doi.org/10.1088/1748-9326/abd26e)
 
 Peters, J. and R.Q. Thomas. Accepted. Going Virtual: What We Learned from the Ecological Forecasting Initiative Research Coordination Network Virtual Workshop. *Bulletin of the Ecological Society of America*. [https://doi.org/10.1002/bes2.1828](https://doi.org/10.1002/bes2.1828)
 
@@ -89,7 +93,7 @@ Thomas, V.A., R.H. Wynne, J. Kauffman, W. McCurdy, E.B. Brooks, R.Q. Thomas, and
 
 Thomas R.Q, R.J. Figueiredo, V. Daneshmand, B.J. Bookout, L.K. Puckett, and C.C. Carey. 2020. A near‐term iterative forecasting system successfully predicts reservoir hydrodynamics and partitions uncertainty in real time. *Water Resources Research* 56: e2019WR026138. [https://doi.org/10.1029/2019WR026138](https://doi.org/10.1029/2019WR026138) 
 
-Carey C.C, W.M. Woelmer, M.E. Lofton, R.J. Figueiredo, B.J. Bookout, R.S. Corrigan, V. DaneshmandG, A.G. Hounshell, D.W. Howard, A.S. Lewis, R.P. McClure, H.L. Wander, N.K. Ward, and R.Q. Thomas. In Press. Advancing lake and reservoir water quality management with near-term, iterative ecological forecasting. *Inland Waters*. [https://doi.org/10.1080/20442041.2020.1816421](https://doi.org/10.1080/20442041.2020.1816421)
+Carey C.C, W.M. Woelmer, M.E. Lofton, R.J. Figueiredo, B.J. Bookout, R.S. Corrigan, V. Daneshmand, A.G. Hounshell, D.W. Howard, A.S. Lewis, R.P. McClure, H.L. Wander, N.K. Ward, and R.Q. Thomas. In Press. Advancing lake and reservoir water quality management with near-term, iterative ecological forecasting. *Inland Waters*. [https://doi.org/10.1080/20442041.2020.1816421](https://doi.org/10.1080/20442041.2020.1816421)
 
 Daw, A., R.Q. Thomas, C.C. Carey, J.S. Read, A.P. Appling, and A. Karpatne. 2020. Physics-guided architecture rchitecture (PGA) of neural networks for quantifying uncertainty in lake temperature modeling. *Proceedings of the 2020 SIAM International Conference on Data Mining*: 532-540. [https://doi.org/10.1137/1.9781611976236.60](https://doi.org/10.1137/1.9781611976236.60)
 

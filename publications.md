@@ -7,13 +7,17 @@ layout: default
 
 ### Accepted or in Press
 
-Koplitz, S.N., C.G. Nolte, R.D. Sabo, C.M. Clark, K.J. Horn, R.Q. Thomas, and T.A. Newcomer-Johnson. Accepted. The contribution of wildland fire emissions to nitrogen and sulfur deposition in the contiguous U.S.: Implications for tree growth and survival in the Northwest. *Environmental Research Letters*.  doi: forthcoming
+Graham, M.W., R.Q. Thomas, D.L. Lombardozzi, and M.E. O’Rourke. Accepted. Modest capacity of no-till farming to offset emissions over 21st century. *Environmental Research Letters**. doi: forthcoming
 
-Peters, J. and R.Q. Thomas. Accepted.  Going Virtual: What We Learned from the Ecological Forecasting Initiative Research Coordination Network Virtual Workshop. *Bulletin of the Ecological Society of America*. [https://doi.org/10.1002/bes2.1828](https://doi.org/10.1002/bes2.1828)
+Meyer, M. F., R. Ladwig, H.A. Dugan, A. Anderson, A.R. Bah, B. Boehrer, L. Borre, R.J. Chapina, C. Doyle, E.J. Favot, G. Flaim, P. Forsberg, P.C. Hanson, B.W. Ibelings, P. Isles, F-P Lin, D. Lofton, T.N. Moore, S. Peel, J.A. Peters, D. Peirson, L.N. de Senerpont Domis, J.A. Schloss, M. Shikhani, A.P. Smagula, J.D. Stockwell, P. Thomas, R.Q. Thomas, T. Tietjen, and K.C. Weathers. In press. Virtual Growing Pains: Initial Lessons Learned from Organizing Virtual Workshops, Summits, Conferences, and Networking Events during a Global Pandemic. *Limnology and Oceanography Bulletin* [https://doi.org/10.1002/lob.10431](https://doi.org/10.1002/lob.10431)
 
-Carey C.C, W.M. Woelmer, M.E. Lofton, R.J. Figueiredo, B.J. Bookout, R.S. Corrigan, V. DaneshmandG, A.G. Hounshell, D.W. Howard, A.S. Lewis, R.P. McClure, H.L. Wander, N.K. Ward, and R.Q. Thomas. In Press. Advancing lake and reservoir water quality management with near-term, iterative ecological forecasting. *Inland Waters*. [https://doi.org/10.1080/20442041.2020.1816421](https://doi.org/10.1080/20442041.2020.1816421)
+Peters, J. and R.Q. Thomas. In Press.  Going Virtual: What We Learned from the Ecological Forecasting Initiative Research Coordination Network Virtual Workshop. *Bulletin of the Ecological Society of America*. [https://doi.org/10.1002/bes2.1828](https://doi.org/10.1002/bes2.1828)
+
+Carey C.C, W.M. Woelmer, M.E. Lofton, R.J. Figueiredo, B.J. Bookout, R.S. Corrigan, V. Daneshmand, A.G. Hounshell, D.W. Howard, A.S. Lewis, R.P. McClure, H.L. Wander, N.K. Ward, and R.Q. Thomas. In Press. Advancing lake and reservoir water quality management with near-term, iterative ecological forecasting. *Inland Waters*. [https://doi.org/10.1080/20442041.2020.1816421](https://doi.org/10.1080/20442041.2020.1816421)
 
 ### 2021
+
+Koplitz, S.N., C.G. Nolte, R.D. Sabo, C.M. Clark, K.J. Horn, R.Q. Thomas, and T.A. Newcomer-Johnson. 2021. The contribution of wildland fire emissions to nitrogen and sulfur deposition in the contiguous U.S.: Implications for tree growth and survival in the Northwest. *Environmental Research Letters* 16: 024028. [https://doi.org/10.1088/1748-9326/abd26e](https://doi.org/10.1088/1748-9326/abd26e)
 
 Thomas, V.A., R.H. Wynne, J. Kauffman, W. McCurdy, E.B. Brooks, R.Q. Thomas, and J. Rakestraw. 2021. Mapping thins to identify active forest management in southern pine plantations using Landsat time series stacks. *Remote Sensing of Environment* 252: 112127. [https://doi.org/10.1016/j.rse.2020.112127](https://doi.org/10.1016/j.rse.2020.112127)
 
