@@ -123,8 +123,8 @@ Associate Professor, Virginia Tech, Blacksburg, VA (2019 - present)
 
 *Post-docs*
 
-Tadhg Moore 
-Ryan McClure
+Tadhg Moore  
+Ryan McClure  
 
 *PhD Students*
 
