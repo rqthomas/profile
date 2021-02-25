@@ -81,7 +81,7 @@ Regionally specific drivers of land-use transitions and future scenarios: A synt
 
 *Recent (2020 - )*
 
-Graham, M.W., R.Q. Thomas, D.L. Lombardozzi, and M.E. O’Rourke. Accepted. Modest capacity of no-till farming to offset emissions over 21st century. *Environmental Research Letters*. doi: forthcoming.
+Graham, M.W., R.Q. Thomas, D.L. Lombardozzi, and M.E. O’Rourke. Accepted. Modest capacity of no-till farming to offset emissions over 21st century. *Environmental Research Letters*. [https://doi.org/10.1088/1748-9326/abe6c6](https://doi.org/10.1088/1748-9326/abe6c6)
 
 Meyer, M. F., R. Ladwig, H.A. Dugan, A. Anderson, A.R. Bah, B. Boehrer, L. Borre, R.J. Chapina, C. Doyle, E.J. Favot, G. Flaim, P. Forsberg, P.C. Hanson, B.W. Ibelings, P. Isles, F-P Lin, D. Lofton, T.N. Moore, S. Peel, J.A. Peters, D. Peirson, L.N. de Senerpont Domis, J.A. Schloss, M. Shikhani, A.P. Smagula, J.D. Stockwell, P. Thomas, R.Q. Thomas, T. Tietjen, and K.C. Weathers. In press. Virtual Growing Pains: Initial Lessons Learned from Organizing Virtual Workshops, Summits, Conferences, and Networking Events during a Global Pandemic. *Limnology and Oceanography Bulletin* [https://doi.org/10.1002/lob.10431](https://doi.org/10.1002/lob.10431)
 
@@ -124,6 +124,7 @@ Associate Professor, Virginia Tech, Blacksburg, VA (2019 - present)
 *Post-docs*
 
 Tadhg Moore
+Ryan McClure
 
 *PhD Students*
 
