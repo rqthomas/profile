@@ -129,11 +129,12 @@ Ryan McClure
 *PhD Students*
 
 Benjamin Ahlswede  
-Joshua Rady  
+Joshua Rady
+John Smith (Statistics; co-advised with Leah Johnson)  
 
 *Alumni*
 
-Michael Graham (PhD)  
+Michael Graham (PhD; Geospatial and Environmental Analysis; co-advised with Megan O'Rourke)  
 Kevin J. Horn (Post-doc)  
 Annika Jersild (MS)  
 Wyatt McCurdy (MS)  
