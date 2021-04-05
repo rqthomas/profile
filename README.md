@@ -83,11 +83,11 @@ Regionally specific drivers of land-use transitions and future scenarios: A synt
 
 Graham, M.W., R.Q. Thomas, D.L. Lombardozzi, and M.E. O’Rourke. In Press. Modest capacity of no-till farming to offset emissions over 21st century. *Environmental Research Letters*. [https://doi.org/10.1088/1748-9326/abe6c6](https://doi.org/10.1088/1748-9326/abe6c6)
 
-Meyer, M. F., R. Ladwig, H.A. Dugan, A. Anderson, A.R. Bah, B. Boehrer, L. Borre, R.J. Chapina, C. Doyle, E.J. Favot, G. Flaim, P. Forsberg, P.C. Hanson, B.W. Ibelings, P. Isles, F-P Lin, D. Lofton, T.N. Moore, S. Peel, J.A. Peters, D. Peirson, L.N. de Senerpont Domis, J.A. Schloss, M. Shikhani, A.P. Smagula, J.D. Stockwell, P. Thomas, R.Q. Thomas, T. Tietjen, and K.C. Weathers. In press. Virtual Growing Pains: Initial Lessons Learned from Organizing Virtual Workshops, Summits, Conferences, and Networking Events during a Global Pandemic. *Limnology and Oceanography Bulletin* [https://doi.org/10.1002/lob.10431](https://doi.org/10.1002/lob.10431)
+Meyer, M. F., R. Ladwig, H.A. Dugan, A. Anderson, A.R. Bah, B. Boehrer, L. Borre, R.J. Chapina, C. Doyle, E.J. Favot, G. Flaim, P. Forsberg, P.C. Hanson, B.W. Ibelings, P. Isles, F-P Lin, D. Lofton, T.N. Moore, S. Peel, J.A. Peters, D. Peirson, L.N. de Senerpont Domis, J.A. Schloss, M. Shikhani, A.P. Smagula, J.D. Stockwell, P. Thomas, R.Q. Thomas, T. Tietjen, and K.C. Weathers. 2021. Virtual Growing Pains: Initial Lessons Learned from Organizing Virtual Workshops, Summits, Conferences, and Networking Events during a Global Pandemic. *Limnology and Oceanography Bulletin* 30: 1- 11 [https://doi.org/10.1002/lob.10431](https://doi.org/10.1002/lob.10431)
 
 Koplitz, S.N., C.G. Nolte, R.D. Sabo, C.M. Clark, K.J. Horn, R.Q. Thomas, and T.A. Newcomer-Johnson. 2021. The contribution of wildland fire emissions to nitrogen and sulfur deposition in the contiguous U.S.: Implications for tree growth and survival in the Northwest. *Environmental Research Letters* 16: 024028. [https://doi.org/10.1088/1748-9326/abd26e](https://doi.org/10.1088/1748-9326/abd26e)
 
-Peters, J. and R.Q. Thomas. Accepted. Going Virtual: What We Learned from the Ecological Forecasting Initiative Research Coordination Network Virtual Workshop. *Bulletin of the Ecological Society of America*. [https://doi.org/10.1002/bes2.1828](https://doi.org/10.1002/bes2.1828)
+Peters, J. and R.Q. Thomas. 2021.  Going Virtual: What We Learned from the Ecological Forecasting Initiative Research Coordination Network Virtual Workshop. *Bulletin of the Ecological Society of America* 102: e01828 [https://doi.org/10.1002/bes2.1828](https://doi.org/10.1002/bes2.1828)
 
 Thomas, V.A., R.H. Wynne, J. Kauffman, W. McCurdy, E.B. Brooks, R.Q. Thomas, and J. Rakestraw. 2021. Mapping thins to identify active forest management in southern pine plantations using Landsat time series stacks. *Remote Sensing of Environment* 252: 112127. [https://doi.org/10.1016/j.rse.2020.112127](https://doi.org/10.1016/j.rse.2020.112127)
 
@@ -129,7 +129,7 @@ Ryan McClure
 *PhD Students*
 
 Benjamin Ahlswede  
-Joshua Rady
+Joshua Rady    
 John Smith (Statistics; co-advised with Leah Johnson)  
 
 *Alumni*
