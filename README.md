@@ -6,12 +6,11 @@
 
 **Forecasting:**  We predict the future of ecosystems by combining observations and ecosystem models using statistical techniques.
 
-[Department of Forest Resources and Environmental Conservation](https://frec.vt.edu)   
-[College of Natural Resources and Environment](https://cnre.vt.edu)   
-[Fralin Life Sciences Institute](https://fralinlifesci.vt.edu)  
+[Department of Forest Resources and Environmental Conservation &](https://frec.vt.edu) 
+[Department of Biological Sciences](https://biol.vt.edu)    
 [Virginia Tech](https://vt.edu)   
 
-Steger Hall (0477)  
+Steger Hall (0477)
 Room 315B  
 1015 Life Science Circle  
 Blacksburg, VA 24061   
@@ -79,7 +78,13 @@ Regionally specific drivers of land-use transitions and future scenarios: A synt
 
 *Recent (2020 - )*
 
-Graham, M.W., R.Q. Thomas, D.L. Lombardozzi, and M.E. O’Rourke. In Press. Modest capacity of no-till farming to offset emissions over 21st century. *Environmental Research Letters*. [https://doi.org/10.1088/1748-9326/abe6c6](https://doi.org/10.1088/1748-9326/abe6c6)
+Ahlswede, B.J.G, T.L. O’Halloran, and R.Q. Thomas.  A minimally managed switchgrass ecosystem in a humid subtropical climate is a source of carbon to the atmosphere.  Accepted at *GCB Bioenergy*.
+
+Kyker-Snowman, E., D.L. Lombardozzi, G.B. Bonan, S.J. Cheng, J.S. Dukes, S.D. Frey, E.M. Jacobs, R. McNellis G, J.M. Rady G, N.G. Smith, R.Q. Thomas, W.R. Wider, and A.S. Grandy. Increasing the spatial and temporal impact of ecological research: A roadmap for integrating a novel terrestrial process into an Earth system model. Accepted at *Global Change Biology*.
+
+Daneshmand, V., A. Breef-Pilz, C.C. Carey, Y. Jin, Y.-J. Kun, K.C., R.Q. Thomas, R.J. Figueiredo.  Edge-to-cloud Virtualized Cyberinfrastructure for Near Real-time Water Quality Forecasting in Lakes and Reservoirs.  Accepted at *IEEE eScience 2021* (Peer-reviewed conference proceeding).
+
+Graham, M.W., R.Q. Thomas, D.L. Lombardozzi, and M.E. O’Rourke. In Press. Modest capacity of no-till farming to offset emissions over 21st century. *Environmental Research Letters* 16: 054055 [https://doi.org/10.1088/1748-9326/abe6c6](https://doi.org/10.1088/1748-9326/abe6c6)
 
 Meyer, M. F., R. Ladwig, H.A. Dugan, A. Anderson, A.R. Bah, B. Boehrer, L. Borre, R.J. Chapina, C. Doyle, E.J. Favot, G. Flaim, P. Forsberg, P.C. Hanson, B.W. Ibelings, P. Isles, F-P Lin, D. Lofton, T.N. Moore, S. Peel, J.A. Peters, D. Peirson, L.N. de Senerpont Domis, J.A. Schloss, M. Shikhani, A.P. Smagula, J.D. Stockwell, P. Thomas, R.Q. Thomas, T. Tietjen, and K.C. Weathers. 2021. Virtual Growing Pains: Initial Lessons Learned from Organizing Virtual Workshops, Summits, Conferences, and Networking Events during a Global Pandemic. *Limnology and Oceanography Bulletin* 30: 1- 11 [https://doi.org/10.1002/lob.10431](https://doi.org/10.1002/lob.10431)
 
