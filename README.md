@@ -76,13 +76,15 @@ Regionally specific drivers of land-use transitions and future scenarios: A synt
 
 [Click for a full list of publications](./publications.html)
 
-*Recent (2020 - )*
+*Recent (2021 - )*
 
 Ahlswede, B.J.G, T.L. O’Halloran, and R.Q. Thomas.  A minimally managed switchgrass ecosystem in a humid subtropical climate is a source of carbon to the atmosphere.  Accepted at *GCB Bioenergy*.
 
 Kyker-Snowman, E., D.L. Lombardozzi, G.B. Bonan, S.J. Cheng, J.S. Dukes, S.D. Frey, E.M. Jacobs, R. McNellis G, J.M. Rady G, N.G. Smith, R.Q. Thomas, W.R. Wider, and A.S. Grandy. Increasing the spatial and temporal impact of ecological research: A roadmap for integrating a novel terrestrial process into an Earth system model. Accepted at *Global Change Biology*.
 
 Daneshmand, V., A. Breef-Pilz, C.C. Carey, Y. Jin, Y.-J. Kun, K.C., R.Q. Thomas, R.J. Figueiredo.  Edge-to-cloud Virtualized Cyberinfrastructure for Near Real-time Water Quality Forecasting in Lakes and Reservoirs.  Accepted at *IEEE eScience 2021* (Peer-reviewed conference proceeding).
+
+Carey C.C, W.M. Woelmer, M.E. Lofton, R.J. Figueiredo, B.J. Bookout, R.S. Corrigan, V. Daneshmand, A.G. Hounshell, D.W. Howard, A.S. Lewis, R.P. McClure, H.L. Wander, N.K. Ward, and R.Q. Thomas. In Press. Advancing lake and reservoir water quality management with near-term, iterative ecological forecasting. *Inland Waters*. [https://doi.org/10.1080/20442041.2020.1816421](https://doi.org/10.1080/20442041.2020.1816421)
 
 Graham, M.W., R.Q. Thomas, D.L. Lombardozzi, and M.E. O’Rourke. In Press. Modest capacity of no-till farming to offset emissions over 21st century. *Environmental Research Letters* 16: 054055 [https://doi.org/10.1088/1748-9326/abe6c6](https://doi.org/10.1088/1748-9326/abe6c6)
 
@@ -94,31 +96,27 @@ Peters, J. and R.Q. Thomas. 2021.  Going Virtual: What We Learned from the Ecolo
 
 Thomas, V.A., R.H. Wynne, J. Kauffman, W. McCurdy, E.B. Brooks, R.Q. Thomas, and J. Rakestraw. 2021. Mapping thins to identify active forest management in southern pine plantations using Landsat time series stacks. *Remote Sensing of Environment* 252: 112127. [https://doi.org/10.1016/j.rse.2020.112127](https://doi.org/10.1016/j.rse.2020.112127)
 
-Thomas R.Q, R.J. Figueiredo, V. Daneshmand, B.J. Bookout, L.K. Puckett, and C.C. Carey. 2020. A near‐term iterative forecasting system successfully predicts reservoir hydrodynamics and partitions uncertainty in real time. *Water Resources Research* 56: e2019WR026138. [https://doi.org/10.1029/2019WR026138](https://doi.org/10.1029/2019WR026138) 
-
-Carey C.C, W.M. Woelmer, M.E. Lofton, R.J. Figueiredo, B.J. Bookout, R.S. Corrigan, V. Daneshmand, A.G. Hounshell, D.W. Howard, A.S. Lewis, R.P. McClure, H.L. Wander, N.K. Ward, and R.Q. Thomas. In Press. Advancing lake and reservoir water quality management with near-term, iterative ecological forecasting. *Inland Waters*. [https://doi.org/10.1080/20442041.2020.1816421](https://doi.org/10.1080/20442041.2020.1816421)
-
-Daw, A., R.Q. Thomas, C.C. Carey, J.S. Read, A.P. Appling, and A. Karpatne. 2020. Physics-guided architecture rchitecture (PGA) of neural networks for quantifying uncertainty in lake temperature modeling. *Proceedings of the 2020 SIAM International Conference on Data Mining*: 532-540. [https://doi.org/10.1137/1.9781611976236.60](https://doi.org/10.1137/1.9781611976236.60)
-
-Weaver, E.A., K. Kolivras, V.A. Thomas, R.Q. Thomas, and K. Abbas. 2020. Environmental factors affecting ecological niche of *Coccidioides* (spp.) and spatial dynamics of valley fever in the United States. *Spatial and Spatio-temporal Epidemiology* 32: 100317. [https://doi.org/10.1016/j.sste.2019.100317](https://doi.org/10.1016/j.sste.2019.100317)
-
 [top](#ecosystem-dynamics-and-forecasting)
 
 ## Bio
 
 [Click for full C.V.](assets/RQ_Thomas_CV.pdf)
 
-A.B. Dartmouth College, Hanover, NH (2005)  
+A.B. Dartmouth College, Hanover, NH (2001 - 2005)  
 
-M.S. University of New Hampshire, Durham, NH (2007)  
+M.S. University of New Hampshire, Durham, NH (2005 - 2007)  
 
-Ph.D. Cornell University, Ithaca, NY (2012) 
+Ph.D. Cornell University, Ithaca, NY (2007 - 2012) 
   
 Post-doc, National Center for Atmospheric Research, Boulder, CO (2012 - 2013) 
  
-Assistant Professor, Virginia Tech, Blacksburg, VA (2013 - 2019) 
+Assistant Professor, Department of Forest Resources and Environmental Conservation, Virginia Tech, Blacksburg, VA (2013 - 2019) 
  
-Associate Professor, Virginia Tech, Blacksburg, VA (2019 - present)  
+Associate Professor, Department of Forest Resources and Environmental Conservation, Virginia Tech, Blacksburg, VA (2019 - present)  
+
+Associate Professor, Department of Biological Sciences, Virginia Tech, Blacksburg, VA (2021 - present)  
+
+Visiting Scholar, Dartmouth College, Hanover, NH (2021 - present)
 
 [top](#ecosystem-dynamics-and-forecasting)
 
@@ -128,15 +126,16 @@ Associate Professor, Virginia Tech, Blacksburg, VA (2019 - present)
 
 Tadhg Moore  
 Ryan McClure  
+Mary Lofton  
 
 *PhD Students*
 
-Benjamin Ahlswede  
 Joshua Rady    
 John Smith (Statistics; co-advised with Leah Johnson)  
 
 *Alumni*
 
+Benjamin Ahlswede (PhD)    
 Michael Graham (PhD; Geospatial and Environmental Analysis; co-advised with Megan O'Rourke)  
 Kevin J. Horn (Post-doc)  
 Annika Jersild (MS)  
