@@ -7,9 +7,9 @@ layout: default
 
 ### Accepted or In Press
 
-Ahlswede, B.J.G, T.L. O’Halloran, and R.Q. Thomas.  A minimally managed switchgrass ecosystem in a humid subtropical climate is a source of carbon to the atmosphere.  Accepted at *GCB Bioenergy*.
+Ahlswede, B.J., T.L. O’Halloran, and R.Q. Thomas.  A minimally managed switchgrass ecosystem in a humid subtropical climate is a source of carbon to the atmosphere.  Accepted at *GCB Bioenergy*.
 
-Kyker-Snowman, E., D.L. Lombardozzi, G.B. Bonan, S.J. Cheng, J.S. Dukes, S.D. Frey, E.M. Jacobs, R. McNellis G, J.M. Rady G, N.G. Smith, R.Q. Thomas, W.R. Wider, and A.S. Grandy. Increasing the spatial and temporal impact of ecological research: A roadmap for integrating a novel terrestrial process into an Earth system model. Accepted at *Global Change Biology*.
+Kyker-Snowman, E., D.L. Lombardozzi, G.B. Bonan, S.J. Cheng, J.S. Dukes, S.D. Frey, E.M. Jacobs, R. McNellis G, J.M. Rady G, N.G. Smith, R.Q. Thomas, W.R. Wieder, and A.S. Grandy. Increasing the spatial and temporal impact of ecological research: A roadmap for integrating a novel terrestrial process into an Earth system model. Accepted at *Global Change Biology*.
 
 Daneshmand, V., A. Breef-Pilz, C.C. Carey, Y. Jin, Y.-J. Kun, K.C., R.Q. Thomas, R.J. Figueiredo.  Edge-to-cloud Virtualized Cyberinfrastructure for Near Real-time Water Quality Forecasting in Lakes and Reservoirs.  Accepted at *IEEE eScience 2021* (Peer-reviewed conference proceeding).
 
