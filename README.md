@@ -78,9 +78,9 @@ Regionally specific drivers of land-use transitions and future scenarios: A synt
 
 *Recent (2021 - )*
 
-Ahlswede, B.J., T.L. O’Halloran, and R.Q. Thomas.  A minimally managed switchgrass ecosystem in a humid subtropical climate is a source of carbon to the atmosphere.  Accepted at *GCB Bioenergy*.
+Ahlswede, B.J., T.L. O’Halloran, and R.Q. Thomas.  A minimally managed switchgrass ecosystem in a humid subtropical climate is a source of carbon to the atmosphere.  Accepted at *GCB Bioenergy*. [https://doi.org/10.1111/GCBB.12897](https://doi.org/10.1111/GCBB.12897)
 
-Kyker-Snowman, E., D.L. Lombardozzi, G.B. Bonan, S.J. Cheng, J.S. Dukes, S.D. Frey, E.M. Jacobs, R. McNellis G, J.M. Rady G, N.G. Smith, R.Q. Thomas, W.R. Wieder, and A.S. Grandy. Increasing the spatial and temporal impact of ecological research: A roadmap for integrating a novel terrestrial process into an Earth system model. Accepted at *Global Change Biology*.
+Kyker-Snowman, E., D.L. Lombardozzi, G.B. Bonan, S.J. Cheng, J.S. Dukes, S.D. Frey, E.M. Jacobs, R. McNellis G, J.M. Rady G, N.G. Smith, R.Q. Thomas, W.R. Wieder, and A.S. Grandy. Increasing the spatial and temporal impact of ecological research: A roadmap for integrating a novel terrestrial process into an Earth system model. Accepted at *Global Change Biology*. [https://doi.org/10.1111/gcb.15894](https://doi.org/10.1111/gcb.15894)
 
 Daneshmand, V., A. Breef-Pilz, C.C. Carey, Y. Jin, Y.-J. Kun, K.C., R.Q. Thomas, R.J. Figueiredo.  Edge-to-cloud Virtualized Cyberinfrastructure for Near Real-time Water Quality Forecasting in Lakes and Reservoirs.  Accepted at *IEEE eScience 2021* (Peer-reviewed conference proceeding).
 
@@ -125,7 +125,6 @@ Visiting Scholar, Dartmouth College, Hanover, NH (2021 - present)
 *Post-docs*
 
 Tadhg Moore  
-Ryan McClure  
 Mary Lofton  
 
 *PhD Students*
@@ -140,7 +139,8 @@ Michael Graham (PhD; Geospatial and Environmental Analysis; co-advised with Mega
 Kevin J. Horn (Post-doc)  
 Annika Jersild (MS)  
 Wyatt McCurdy (MS)  
-Laura Puckett (UG)  
+Laura Puckett (UG)
+Ryan McClure (Post-doc)  
 
 [top](#ecosystem-dynamics-and-forecasting)
 

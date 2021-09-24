@@ -7,13 +7,13 @@ layout: default
 
 ### Accepted or In Press
 
-Ahlswede, B.J., T.L. O’Halloran, and R.Q. Thomas.  A minimally managed switchgrass ecosystem in a humid subtropical climate is a source of carbon to the atmosphere.  Accepted at *GCB Bioenergy*.
+Ahlswede, B.J., T.L. O’Halloran, and R.Q. Thomas.  A minimally managed switchgrass ecosystem in a humid subtropical climate is a source of carbon to the atmosphere.  Accepted at *GCB Bioenergy*.[https://doi.org/10.1111/GCBB.12897](https://doi.org/10.1111/GCBB.12897)
 
-Kyker-Snowman, E., D.L. Lombardozzi, G.B. Bonan, S.J. Cheng, J.S. Dukes, S.D. Frey, E.M. Jacobs, R. McNellis G, J.M. Rady G, N.G. Smith, R.Q. Thomas, W.R. Wieder, and A.S. Grandy. Increasing the spatial and temporal impact of ecological research: A roadmap for integrating a novel terrestrial process into an Earth system model. Accepted at *Global Change Biology*.
+Kyker-Snowman, E., D.L. Lombardozzi, G.B. Bonan, S.J. Cheng, J.S. Dukes, S.D. Frey, E.M. Jacobs, R. McNellis G, J.M. Rady G, N.G. Smith, R.Q. Thomas, W.R. Wieder, and A.S. Grandy. Increasing the spatial and temporal impact of ecological research: A roadmap for integrating a novel terrestrial process into an Earth system model. Accepted at *Global Change Biology*. [https://doi.org/10.1111/gcb.15894](https://doi.org/10.1111/gcb.15894)
 
 Daneshmand, V., A. Breef-Pilz, C.C. Carey, Y. Jin, Y.-J. Kun, K.C., R.Q. Thomas, R.J. Figueiredo.  Edge-to-cloud Virtualized Cyberinfrastructure for Near Real-time Water Quality Forecasting in Lakes and Reservoirs.  Accepted at *IEEE eScience 2021* (Peer-reviewed conference proceeding).
 
-Carey C.C, W.M. Woelmer, M.E. Lofton, R.J. Figueiredo, B.J. Bookout, R.S. Corrigan, V. Daneshmand, A.G. Hounshell, D.W. Howard, A.S. Lewis, R.P. McClure, H.L. Wander, N.K. Ward, and R.Q. Thomas. In Press. Advancing lake and reservoir water quality management with near-term, iterative ecological forecasting. *Inland Waters*. [https://doi.org/10.1080/20442041.2020.1816421](https://doi.org/10.1080/20442041.2020.1816421)
+Carey C.C, W.M. Woelmer, M.E. Lofton, R.J. Figueiredo, B.J. Bookout, R.S. Corrigan, V. Daneshmand, A.G. Hounshell, D.W. Howard, A.S. Lewis, R.P. McClure, H.L. Wander, N.K. Ward, and R.Q. Thomas. 2021. Advancing lake and reservoir water quality management with near-term, iterative ecological forecasting.  *Inland Waters*: Awaiting Volume.[https://doi.org/10.1080/20442041.2020.1816421](https://doi.org/10.1080/20442041.2020.1816421)
 
 ### 2021
 
