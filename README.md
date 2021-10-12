@@ -124,8 +124,8 @@ Visiting Scholar, Dartmouth College, Hanover, NH (2021 - present)
 
 *Post-docs*
 
-Tadhg Moore  
-Mary Lofton  
+Tadhg Moore (Co-mentored with Cayelan Carey)  
+Mary Lofton (Co-mentored with Cayelan Carey)  
 
 *PhD Students*
 
@@ -139,8 +139,8 @@ Michael Graham (PhD; Geospatial and Environmental Analysis; co-advised with Mega
 Kevin J. Horn (Post-doc)  
 Annika Jersild (MS)  
 Wyatt McCurdy (MS)  
-Laura Puckett (UG)
-Ryan McClure (Post-doc)  
+Laura Puckett (UG)   
+Ryan McClure (Post-doc; Co-mentored wit Cayelan Carey)  
 
 [top](#ecosystem-dynamics-and-forecasting)
 
@@ -156,9 +156,19 @@ FREC 5204: Ecosystem and Climate
 
 ## Join Us
 
-[*Ph.D. assistantship in environmental data science and forecasting at Virginia Tech*](assets/VT_PhD_opportunity_RQThomas.pdf)
+*Postdoctoral Research Associate in Ecological Forecasting*
 
-The Ecosystem Dynamics and Forecasting Lab led by Dr. Quinn Thomas at Virginia Tech has funding for a new Ph.D. student position to start January 2021 or August 2021. We are recruiting a Ph.D. student to apply innovative new techniques to combine lake ecosystem modeling with sensor data analyses to forecast future water quality in drinking water reservoirs. The Ph.D. student will help develop forecasts to inform drinking water management using state-of-the-art cyberinfrastructure and communicate their forecasts to water utility managers.
+A new position for a postdoctoral research associate is available in the Ecosystem Dynamics and Forecasting Lab led by Quinn Thomas at Virginia Tech (https://rquinnthomas.com). The lab is part of a larger vibrant, highly collaborative, interdisciplinary research team working on ecological forecasting at Virginia Tech. This position will be at the center of many ongoing forecasting projects, including water quality forecasting (https://flare-forecast.org), the National Ecological Observatory Network Ecological Forecasting Challenge (https://ecoforecast.org/efi-rcn-forecast-challenges/), and forest productivity forecasting. We envision the postdoc will leverage these efforts to creatively advance the field of ecological forecasting in aquatic and/or terrestrial ecosystems (depending on the applicant’s interests), while helping to organize interdisciplinary strengths in environmental forecasting across Virginia Tech. Research activities will include: generating aquatic and/or terrestrial forecasts with NEON (National Ecological Observatory Network) and GLEON (Global Lake Ecological Observatory Network) data; developing cyberinfrastructure to support forecasting; leading communicating forecasts and research findings via peer-reviewed publications; and engaging forecast stakeholders. The position start date will be flexible, aiming for July 1, 2022. Funding is available for two years, contingent upon a successful one-year review.  Application review data starts November 15, 2021. 
+
+Required Qualifications:  We are seeking a Ph.D. in ecology, environmental science, or related field with significant quantitative research experience in ecological forecasting, ecosystem science, and/or data analysis. The candidate must have experience working in the R programming language.
+
+Preferred Qualifications: Experience working with ecosystem models; Experience developing ecological forecasts; Substantial experience in R or equivalent programming languages (e.g., Matlab, Python); Experience with collaborative coding projects and using versioning control tools (e.g., Git); Experience in statistical analysis and/or probability; Experience in analyzing long-term and high-frequency sensor environmental data; Experience in publishing peer-reviewed journal articles; Experience with open-science workflows (e.g., Docker Containers, R package development); Demonstrated ability to work in interdisciplinary collaborative teams
+
+How to apply: [https://careers.pageuppeople.com/968/cw/en-us/job/517787/postdoctoral-associate](https://careers.pageuppeople.com/968/cw/en-us/job/517787/postdoctoral-associate)
+
+*Ph.D. assistantship in environmental data science and forecasting at Virginia Tech*
+
+The Ecosystem Dynamics and Forecasting Lab led by Dr. Quinn Thomas at Virginia Tech has funding for a new Ph.D. student position to start August 2022. We are recruiting a Ph.D. student to apply innovative new techniques to combine lake ecosystem modeling with sensor data analyses to forecast future water quality in drinking water reservoirs. The Ph.D. student will help develop forecasts to inform drinking water management using state-of-the-art cyberinfrastructure and communicate their forecasts to water utility managers.
 
 This position will be supported by two NSF projects ([smartreservoir.org](http://smartreservoir.org) and [flare-forecast.org](http://flare-forecast.org)) that are developing a water quality forecasting system for drinking water supply reservoirs, National Ecological Observatory Network (NEON) lakes, and Global Lakes Ecological Observatory Network (GLEON) lakes. This highly interdisciplinary Ph.D. project will combine high-frequency sensor monitoring, modeling, ecosystem forecasting, and data-intensive analytical approaches from ecology, computer science, and social science. There will be opportunities for both computational and field-based research.
 
