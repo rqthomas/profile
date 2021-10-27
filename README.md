@@ -78,6 +78,8 @@ Regionally specific drivers of land-use transitions and future scenarios: A synt
 
 *Recent (2021 - )*
 
+McClure, R.P, R.Q. Thomas, M.E. Lofton, W.M. Woelmer and C.C. Carey. Iterative forecasting improves near-term predictions of methane ebullition rates. Accepted at *Frontiers in Environmental Science**. [https://doi.org/10.3389/fenvs.2021.756603](https://doi.org/10.3389/fenvs.2021.756603)
+
 Ahlswede, B.J., T.L. O’Halloran, and R.Q. Thomas.  A minimally managed switchgrass ecosystem in a humid subtropical climate is a source of carbon to the atmosphere.  Accepted at *GCB Bioenergy*. [https://doi.org/10.1111/GCBB.12897](https://doi.org/10.1111/GCBB.12897)
 
 Kyker-Snowman, E., D.L. Lombardozzi, G.B. Bonan, S.J. Cheng, J.S. Dukes, S.D. Frey, E.M. Jacobs, R. McNellis G, J.M. Rady G, N.G. Smith, R.Q. Thomas, W.R. Wieder, and A.S. Grandy. Increasing the spatial and temporal impact of ecological research: A roadmap for integrating a novel terrestrial process into an Earth system model. Accepted at *Global Change Biology*. [https://doi.org/10.1111/gcb.15894](https://doi.org/10.1111/gcb.15894)
