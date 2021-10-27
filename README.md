@@ -142,7 +142,7 @@ Kevin J. Horn (Post-doc)
 Annika Jersild (MS)  
 Wyatt McCurdy (MS)  
 Laura Puckett (UG)   
-Ryan McClure (Post-doc; Co-mentored wit Cayelan Carey)  
+Ryan McClure (Post-doc; Co-mentored with Cayelan Carey)  
 
 [top](#ecosystem-dynamics-and-forecasting)
 
