@@ -7,6 +7,8 @@ layout: default
 
 ### Accepted or In Press
 
+Lewis, A., W. Woelmer, H. Wander, D. Howard, J. Smith, R. McClure, M. Lofton, N. Hammond, R. Corrigan, R.Q. Thomas, C.C. Carey.  Increased adoption of best practices in ecological forecasting enables comparisons of forecastability across systems.  Accepted at *Ecological Applications*. [Preprint](https://doi.org/10.32942/osf.io/khwdf)
+
 McClure, R.P, R.Q. Thomas, M.E. Lofton, W.M. Woelmer and C.C. Carey. Iterative forecasting improves near-term predictions of methane ebullition rates. Accepted at *Frontiers in Environmental Science**. [https://doi.org/10.3389/fenvs.2021.756603](https://doi.org/10.3389/fenvs.2021.756603)
 
 Ahlswede, B.J., T.L. O’Halloran, and R.Q. Thomas.  A minimally managed switchgrass ecosystem in a humid subtropical climate is a source of carbon to the atmosphere.  Accepted at *GCB Bioenergy*.[https://doi.org/10.1111/GCBB.12897](https://doi.org/10.1111/GCBB.12897)
