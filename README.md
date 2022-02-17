@@ -87,9 +87,10 @@ Carey C.C, W.M. Woelmer, M.E. Lofton, R.J. Figueiredo, B.J. Bookout, R.S. Corrig
 
 Kyker-Snowman, E., D.L. Lombardozzi, G.B. Bonan, S.J. Cheng, J.S. Dukes, S.D. Frey, E.M. Jacobs, R. McNellis G, J.M. Rady G, N.G. Smith, R.Q. Thomas, W.R. Wieder, and A.S. Grandy. 2022. Increasing the spatial and temporal impact of ecological research: A roadmap for integrating a novel terrestrial process into an Earth system model. *Global Change Biology* 28: 665-684. [https://doi.org/10.1111/gcb.15894](https://doi.org/10.1111/gcb.15894)
 
-Ahlswede, B.J., T.L. O’Halloran, and R.Q. Thomas. 2022. A minimally managed switchgrass ecosystem in a humid subtropical climate is a source of carbon to the atmosphere. *GCB Bioenergy* 14:24-36  [https://doi.org/10.1111/GCBB.12897](https://doi.org/10.1111/GCBB.12897)
+Ahlswede, B.J., T.L. O’Halloran, and R.Q. Thomas. 2022. A minimally managed switchgrass ecosystem in a humid subtropical climate is a source of carbon to the atmosphere. *GCB Bioenergy* 14:24-36  [https://doi.org/10.1111/GCBB.12897](https://doi.org/10.1111/GCBB.12897)   
 
-*Pre-prints undergoing peer-review*
+*Pre-prints undergoing peer-review*  
+
 Smith, J.W., L.R. Johnson, and R.Q. Thomas.  Assessing Ecosystem State Space Models: Identifiability and Estimation. arXiv [https://arxiv.org/abs/2110.08967](https://arxiv.org/abs/2110.08967)   
 
 Carey, C.C., P.C. Hanson, R.Q. Thomas, A.B. Gerling, A.G. Hounshell, A.S.L Lewis, M.E. Lofton, R.P. McClure, H.L. Wander, W.M. Woelmer, B.R. Niederlehner, M.E. Schreider.  Anoxia decreases the magnitude of the carbon, nitrogen, and phosphorus sink in freshwater ecosystems. *Earth and Space Science Open Archive* [https://doi.org/10.1002/essoar.10508415.1](https://doi.org/10.1002/essoar.10508415.1)   
