@@ -49,6 +49,8 @@ Regionally specific drivers of land-use transitions and future scenarios: A synt
 
 ## In the news
 
+[Fewer ticks, cleaner water, and more carbon intake: Fellowship recipient Quinn Thomas plans to use data to predict our environment - VT Newså](https://vtx.vt.edu/articles/2021/12/cnre-quinn-thomas-data-science-fellowship.html?utm_source=cmpgn_news&utm_medium=email&utm_campaign=vtUnirelNewsDailyCMP_011022-fs)   
+
 [Virginia Tech pioneers smart reservoirs - Roanoke Times](https://roanoke.com/news/local/virginia-tech-pioneers-smart-reservoirs/article_b7b7330e-35a5-11eb-a443-b3f621f19df6.html#tracking-source=home-top-story-1)
 
 [Confronting ecological change takes a collaborative leap with the NEON Ecological Forecasting Challenge - VT News](https://vtnews.vt.edu/articles/2020/11/fralinlifesci-neon-ecological-forecasting-challenge-2021.html)
@@ -77,7 +79,7 @@ Regionally specific drivers of land-use transitions and future scenarios: A synt
 
 [Click for a full list of publications](./publications.html)
 
-*Recent (2021 - )*
+*Recent (2022 - )*
 
 Lewis, A., W. Woelmer, H. Wander, D. Howard, J. Smith, R. McClure, M. Lofton, N. Hammond, R. Corrigan, R.Q. Thomas, C.C. Carey.  Increased adoption of best practices in ecological forecasting enables comparisons of forecastability across systems.  Accepted at *Ecological Applications*. [https://doi.org/10.1002/eap.2500](https://doi.org/10.1002/eap.2500)
 
@@ -86,20 +88,6 @@ Carey C.C, W.M. Woelmer, M.E. Lofton, R.J. Figueiredo, B.J. Bookout, R.S. Corrig
 Kyker-Snowman, E., D.L. Lombardozzi, G.B. Bonan, S.J. Cheng, J.S. Dukes, S.D. Frey, E.M. Jacobs, R. McNellis G, J.M. Rady G, N.G. Smith, R.Q. Thomas, W.R. Wieder, and A.S. Grandy. 2022. Increasing the spatial and temporal impact of ecological research: A roadmap for integrating a novel terrestrial process into an Earth system model. *Global Change Biology* 28: 665-684. [https://doi.org/10.1111/gcb.15894](https://doi.org/10.1111/gcb.15894)
 
 Ahlswede, B.J., T.L. O’Halloran, and R.Q. Thomas. 2022. A minimally managed switchgrass ecosystem in a humid subtropical climate is a source of carbon to the atmosphere. *GCB Bioenergy* 14:24-36  [https://doi.org/10.1111/GCBB.12897](https://doi.org/10.1111/GCBB.12897)
-
-McClure, R.P, R.Q. Thomas, M.E. Lofton, W.M. Woelmer and C.C. Carey. 2021. Iterative forecasting improves near-term predictions of methane ebullition rates. *Frontiers in Environmental Science* 9:756603 [https://doi.org/10.3389/fenvs.2021.756603](https://doi.org/10.3389/fenvs.2021.756603)
-
-Daneshmand, V., A. Breef-Pilz, C.C. Carey, Y. Jin, Y.-J. Kun, K.C., R.Q. Thomas, R.J. Figueiredo.  2021 “Edge-to-cloud Virtualized Cyberinfrastructure for Near Real-time Water Quality Forecasting in Lakes and Reservoirs” in 2021 *IEEE 17th International Conference on eScience (eScience)*, Innsbruck, Austria, 2021 pp. 138-148.  [https://doi.org/10.1109/eScience51609.2021.00024](https://doi.org/10.1109/eScience51609.2021.00024)
-
-Graham, M.W., R.Q. Thomas, D.L. Lombardozzi, and M.E. O’Rourke. In Press. Modest capacity of no-till farming to offset emissions over 21st century. *Environmental Research Letters* 16: 054055 [https://doi.org/10.1088/1748-9326/abe6c6](https://doi.org/10.1088/1748-9326/abe6c6)
-
-Meyer, M. F., R. Ladwig, H.A. Dugan, A. Anderson, A.R. Bah, B. Boehrer, L. Borre, R.J. Chapina, C. Doyle, E.J. Favot, G. Flaim, P. Forsberg, P.C. Hanson, B.W. Ibelings, P. Isles, F-P Lin, D. Lofton, T.N. Moore, S. Peel, J.A. Peters, D. Peirson, L.N. de Senerpont Domis, J.A. Schloss, M. Shikhani, A.P. Smagula, J.D. Stockwell, P. Thomas, R.Q. Thomas, T. Tietjen, and K.C. Weathers. 2021. Virtual Growing Pains: Initial Lessons Learned from Organizing Virtual Workshops, Summits, Conferences, and Networking Events during a Global Pandemic. *Limnology and Oceanography Bulletin* 30: 1- 11 [https://doi.org/10.1002/lob.10431](https://doi.org/10.1002/lob.10431)
-
-Koplitz, S.N., C.G. Nolte, R.D. Sabo, C.M. Clark, K.J. Horn, R.Q. Thomas, and T.A. Newcomer-Johnson. 2021. The contribution of wildland fire emissions to nitrogen and sulfur deposition in the contiguous U.S.: Implications for tree growth and survival in the Northwest. *Environmental Research Letters* 16: 024028. [https://doi.org/10.1088/1748-9326/abd26e](https://doi.org/10.1088/1748-9326/abd26e)
-
-Peters, J. and R.Q. Thomas. 2021.  Going Virtual: What We Learned from the Ecological Forecasting Initiative Research Coordination Network Virtual Workshop. *Bulletin of the Ecological Society of America* 102: e01828 [https://doi.org/10.1002/bes2.1828](https://doi.org/10.1002/bes2.1828)
-
-Thomas, V.A., R.H. Wynne, J. Kauffman, W. McCurdy, E.B. Brooks, R.Q. Thomas, and J. Rakestraw. 2021. Mapping thins to identify active forest management in southern pine plantations using Landsat time series stacks. *Remote Sensing of Environment* 252: 112127. [https://doi.org/10.1016/j.rse.2020.112127](https://doi.org/10.1016/j.rse.2020.112127)
 
 [top](#ecosystem-dynamics-and-forecasting)
 
@@ -163,24 +151,6 @@ FREC 5204: Ecosystem and Climate
 
 ## Join Us
 
-*Postdoctoral Research Associate in Ecological Forecasting*
-
-A new position for a postdoctoral research associate is available in the Ecosystem Dynamics and Forecasting Lab led by Quinn Thomas at Virginia Tech (https://rquinnthomas.com). The lab is part of a larger vibrant, highly collaborative, interdisciplinary research team working on ecological forecasting at Virginia Tech. This position will be at the center of many ongoing forecasting projects, including water quality forecasting (https://flare-forecast.org), the National Ecological Observatory Network Ecological Forecasting Challenge (https://ecoforecast.org/efi-rcn-forecast-challenges/), and forest productivity forecasting. We envision the postdoc will leverage these efforts to creatively advance the field of ecological forecasting in aquatic and/or terrestrial ecosystems (depending on the applicant’s interests), while helping to organize interdisciplinary strengths in environmental forecasting across Virginia Tech. Research activities will include: generating aquatic and/or terrestrial forecasts with NEON (National Ecological Observatory Network) and GLEON (Global Lake Ecological Observatory Network) data; developing cyberinfrastructure to support forecasting; leading communicating forecasts and research findings via peer-reviewed publications; and engaging forecast stakeholders. The position start date will be flexible, aiming for July 1, 2022. Funding is available for two years, contingent upon a successful one-year review.  Application review data starts November 15, 2021. 
-
-Required Qualifications:  We are seeking a Ph.D. in ecology, environmental science, or related field with significant quantitative research experience in ecological forecasting, ecosystem science, and/or data analysis. The candidate must have experience working in the R programming language.
-
-Preferred Qualifications: Experience working with ecosystem models; Experience developing ecological forecasts; Substantial experience in R or equivalent programming languages (e.g., Matlab, Python); Experience with collaborative coding projects and using versioning control tools (e.g., Git); Experience in statistical analysis and/or probability; Experience in analyzing long-term and high-frequency sensor environmental data; Experience in publishing peer-reviewed journal articles; Experience with open-science workflows (e.g., Docker Containers, R package development); Demonstrated ability to work in interdisciplinary collaborative teams
-
-How to apply: [https://careers.pageuppeople.com/968/cw/en-us/job/517787/postdoctoral-associate](https://careers.pageuppeople.com/968/cw/en-us/job/517787/postdoctoral-associate)
-
-*Ph.D. assistantship in environmental data science and forecasting at Virginia Tech*
-
-The Ecosystem Dynamics and Forecasting Lab led by Dr. Quinn Thomas at Virginia Tech has funding for a new Ph.D. student position to start August 2022. We are recruiting a Ph.D. student to apply innovative new techniques to combine lake ecosystem modeling with sensor data analyses to forecast future water quality in drinking water reservoirs. The Ph.D. student will help develop forecasts to inform drinking water management using state-of-the-art cyberinfrastructure and communicate their forecasts to water utility managers.
-
-This position will be supported by two NSF projects ([smartreservoir.org](http://smartreservoir.org) and [flare-forecast.org](http://flare-forecast.org)) that are developing a water quality forecasting system for drinking water supply reservoirs, National Ecological Observatory Network (NEON) lakes, and Global Lakes Ecological Observatory Network (GLEON) lakes. This highly interdisciplinary Ph.D. project will combine high-frequency sensor monitoring, modeling, ecosystem forecasting, and data-intensive analytical approaches from ecology, computer science, and social science. There will be opportunities for both computational and field-based research.
-
-We seek a conscientious and energetic student with quantitative and computing skills who can work independently in a collaborative environment. The student will work closely with the Carey Lab at Virginia Tech [(carey.biol.vt.edu)](http://carey.biol.vt.edu) and the Advanced Computing and Information Systems Laboratory at the University of Florida on the project [(www.acis.ufl.edu)](https://www.acis.ufl.edu). Students are also encouraged to apply to be a fellow in Virginia Tech’s Interfaces of Global Change graduate program [(globalchange.vt.edu)](http://globalchange.vt.edu) and interact with other students in the Virginia Water Research Center [(vwrrc.vt.edu)](http://www.vwrrc.vt.edu) that is housed within our department. Virginia Tech, as Virginia’s leading research and land grant institution, has a strong interdisciplinary focus on the environment and natural sciences and is located in scenic southwestern Virginia.
-
-The student position will be funded on a combination of research and teaching assistantships, which include a competitive stipend, tuition waiver, and full health insurance benefits. Interested students should send an email letter of inquiry containing an overview of your research interests, your C.V., an unofficial transcript(s), and a list of past research experiences to rqthomas@vt.edu.  Please feel free to contact me with questions about the application process, graduate school at Virginia Tech, or potential research ideas.
+Interested Ph.D. or Masters of Science students should send an email letter of inquiry containing an overview of your research interests and your C.V. Please feel free to contact me with questions about the application process, graduate school at Virginia Tech, or potential research ideas.
 
 [top](#ecosystem-dynamics-and-forecasting)
