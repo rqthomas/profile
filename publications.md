@@ -5,6 +5,14 @@ layout: default
 
 [back](./)
 
+### Pre-prints undergoing peer-review
+
+Smith, J.W.G, L.R. Johnson, and R.Q. Thomas.  Assessing Ecosystem State Space Models: Identifiability and Estimation. arXiv [https://arxiv.org/abs/2110.08967](https://arxiv.org/abs/2110.08967)   
+
+Carey, C.C., P.C. Hanson, R.Q. Thomas, A.B. Gerling, A.G. Hounshell, A.S.L Lewis, M.E. Lofton, R.P. McClure, H.L. Wander, W.M. Woelmer, B.R. Niederlehner, M.E. Schreider.  Anoxia decreases the magnitude of the carbon, nitrogen, and phosphorus sink in freshwater ecosystems. *Earth and Space Science Open Archive* [https://doi.org/10.1002/essoar.10508415.1](https://doi.org/10.1002/essoar.10508415.1)   
+
+Hounshell, A.G., B. M. D’Acunha, A. Breef-Pilz, M.S. Johnson, R. Quinn Thomas, C.C. Carey.  Eddy covariance data reveal that a small freshwater reservoir emits a substantial amount of carbon dioxide and methane. *Earth and Space Science Open Archive*  DOI Pending
+
 ### Accepted or In Press
 
 Lewis, A., W. Woelmer, H. Wander, D. Howard, J. Smith, R. McClure, M. Lofton, N. Hammond, R. Corrigan, R.Q. Thomas, C.C. Carey.  Increased adoption of best practices in ecological forecasting enables comparisons of forecastability across systems. *Ecological Applications*. [https://doi.org/10.1002/eap.2500](https://doi.org/10.1002/eap.2500)
