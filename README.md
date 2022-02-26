@@ -97,6 +97,8 @@ Carey, C.C., P.C. Hanson, R.Q. Thomas, A.B. Gerling, A.G. Hounshell, A.S.L Lewis
 
 Hounshell, A.G., B. M. D’Acunha, A. Breef-Pilz, M.S. Johnson, R. Quinn Thomas, C.C. Carey.  Eddy covariance data reveal that a small freshwater reservoir emits a substantial amount of carbon dioxide and methane. *Earth and Space Science Open Archive*  [https://doi.org/10.1002/essoar.10510558.1](https://doi.org/10.1002/essoar.10510558.1)
 
+Thomas, R.Q, R.P. McClure, T.N. Moore, W.M. Woelmer, C. Boettiger, R.J. Figueiredo, R.T. Hensley, C.C. Carey. Near-term forecasts of NEON lakes reveal gradients of environmental predictability across the U.S.  *Earth and Space Science Open Archive*  [https://doi.org/10.1002/essoar.10510642.1](https://doi.org/10.1002/essoar.10510642.1)
+
 [top](#ecosystem-dynamics-and-forecasting)
 
 ## Bio
