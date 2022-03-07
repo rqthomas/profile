@@ -81,6 +81,8 @@ Regionally specific drivers of land-use transitions and future scenarios: A synt
 
 *Recent (2022 - )*
 
+Woelmer, W., R.Q. Thomas, M. Lofton, R. McClure P, and C.C Carey. Near-term phytoplankton forecasts reveal the effects of model time step and forecast horizon on predictability. Accepted at *Ecological Applications*. Awaiting DOI. [Preprint](https://www.essoar.org/doi/abs/10.1002/essoar.10510757.1)
+
 Lewis, A., W. Woelmer, H. Wander, D. Howard, J. Smith, R. McClure, M. Lofton, N. Hammond, R. Corrigan, R.Q. Thomas, C.C. Carey. 2022. Increased adoption of best practices in ecological forecasting enables comparisons of forecastability across systems. *Ecological Applications* 32: e02500 [https://doi.org/10.1002/eap.2500](https://doi.org/10.1002/eap.2500)
 
 Carey C.C, W.M. Woelmer, M.E. Lofton, R.J. Figueiredo, B.J. Bookout, R.S. Corrigan, V. Daneshmand, A.G. Hounshell, D.W. Howard, A.S. Lewis, R.P. McClure, H.L. Wander, N.K. Ward, and R.Q. Thomas. In Press. Advancing lake and reservoir water quality management with near-term, iterative ecological forecasting. *Inland Waters*. [https://doi.org/10.1080/20442041.2020.1816421](https://doi.org/10.1080/20442041.2020.1816421)
