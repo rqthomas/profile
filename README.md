@@ -81,23 +81,23 @@ Regionally specific drivers of land-use transitions and future scenarios: A synt
 
 *Recent (2022 - )*
 
-Ahlswede, B.J., T.L. O’Halloran, and R.Q. Thomas. Combined carbon and albedo climate forcing from pine and switchgrass grown for bioenergy. Accepted *Frontiers in Forests and Global Change*   [https://doi.org/10.3389/ffgc.2022.774067](https://doi.org/10.3389/ffgc.2022.774067)   
+Carey, C.C., P.C. Hanson, R.Q. Thomas, A.B. Gerling, A.G. Hounshell, A.S.L Lewis, M.E. Lofton, R.P. McClure, H.L. Wander, W.M. Woelmer, B.R. Niederlehner, M.E. Schreider.  Anoxia decreases the magnitude of the carbon, nitrogen, and phosphorus sink in freshwater ecosystems. In press at *Global Change Biology* [https://doi.org/10.1111/gcb.16228](https://doi.org/10.1111/gcb.16228)   
 
-Woelmer, W., R.Q. Thomas, M. Lofton, R. McClure P, and C.C Carey. Near-term phytoplankton forecasts reveal the effects of model time step and forecast horizon on predictability. Accepted at *Ecological Applications*. Awaiting DOI. [Preprint](https://www.essoar.org/doi/abs/10.1002/essoar.10510757.1)
+Ahlswede, B.J., T.L. O’Halloran, and R.Q. Thomas. 2022. Combined carbon and albedo climate forcing from pine and switchgrass grown for bioenergy. *Frontiers in Forests and Global Change* 5:774067 [https://doi.org/10.3389/ffgc.2022.774067](https://doi.org/10.3389/ffgc.2022.774067)   
 
 Lewis, A., W. Woelmer, H. Wander, D. Howard, J. Smith, R. McClure, M. Lofton, N. Hammond, R. Corrigan, R.Q. Thomas, C.C. Carey. 2022. Increased adoption of best practices in ecological forecasting enables comparisons of forecastability across systems. *Ecological Applications* 32: e02500 [https://doi.org/10.1002/eap.2500](https://doi.org/10.1002/eap.2500)
 
-Carey C.C, W.M. Woelmer, M.E. Lofton, R.J. Figueiredo, B.J. Bookout, R.S. Corrigan, V. Daneshmand, A.G. Hounshell, D.W. Howard, A.S. Lewis, R.P. McClure, H.L. Wander, N.K. Ward, and R.Q. Thomas. 2022. Advancing lake and reservoir water quality management with near-term, iterative ecological forecasting. *Inland Waters* 12: 107-120[https://doi.org/10.1080/20442041.2020.1816421](https://doi.org/10.1080/20442041.2020.1816421)
+Carey C.C, W.M. Woelmer, M.E. Lofton, R.J. Figueiredo, B.J. Bookout, R.S. Corrigan, V. Daneshmand, A.G. Hounshell, D.W. Howard, A.S. Lewis, R.P. McClure, H.L. Wander, N.K. Ward, and R.Q. Thomas. 2022. Advancing lake and reservoir water quality management with near-term, iterative ecological forecasting. *Inland Waters* 12: 107-120 [https://doi.org/10.1080/20442041.2020.1816421](https://doi.org/10.1080/20442041.2020.1816421)
 
 Kyker-Snowman, E., D.L. Lombardozzi, G.B. Bonan, S.J. Cheng, J.S. Dukes, S.D. Frey, E.M. Jacobs, R. McNellis G, J.M. Rady G, N.G. Smith, R.Q. Thomas, W.R. Wieder, and A.S. Grandy. 2022. Increasing the spatial and temporal impact of ecological research: A roadmap for integrating a novel terrestrial process into an Earth system model. *Global Change Biology* 28: 665-684. [https://doi.org/10.1111/gcb.15894](https://doi.org/10.1111/gcb.15894)
 
-Ahlswede, B.J., T.L. O’Halloran, J. Forsythe, and R.Q. Thomas. 2022. A minimally managed switchgrass ecosystem in a humid subtropical climate is a source of carbon to the atmosphere. *GCB Bioenergy* 14:24-36  [https://doi.org/10.1111/GCBB.12897](https://doi.org/10.1111/GCBB.12897)   
+Ahlswede, B.J., T.L. O’Halloran, and R.Q. Thomas. Combined carbon and albedo climate forcing from pine and switchgrass grown for bioenergy. In Press *Frontiers in Forests and Global Change*  [https://doi.org/10.3389/ffgc.2022.774067](https://doi.org/10.3389/ffgc.2022.774067)   
+
+Woelmer, W., R.Q. Thomas, M. Lofton, R. McClure P, and C.C Carey. Near-term phytoplankton forecasts reveal the effects of model time step and forecast horizon on predictability. In Press at *Ecological Applications*. [https://doi.org/10.1002/eap.2642](https://doi.org/10.1002/eap.2642)   
 
 *Pre-prints undergoing peer-review*           
 
 Smith, J.W., L.R. Johnson, and R.Q. Thomas.  Assessing Ecosystem State Space Models: Identifiability and Estimation. arXiv [https://arxiv.org/abs/2110.08967](https://arxiv.org/abs/2110.08967)     
-
-Carey, C.C., P.C. Hanson, R.Q. Thomas, A.B. Gerling, A.G. Hounshell, A.S.L Lewis, M.E. Lofton, R.P. McClure, H.L. Wander, W.M. Woelmer, B.R. Niederlehner, M.E. Schreider.  Anoxia decreases the magnitude of the carbon, nitrogen, and phosphorus sink in freshwater ecosystems. *Earth and Space Science Open Archive* [https://doi.org/10.1002/essoar.10508415.1](https://doi.org/10.1002/essoar.10508415.1)   
 
 Hounshell, A.G., B. M. D’Acunha, A. Breef-Pilz, M.S. Johnson, R. Quinn Thomas, C.C. Carey.  Eddy covariance data reveal that a small freshwater reservoir emits a substantial amount of carbon dioxide and methane. *Earth and Space Science Open Archive*  [https://doi.org/10.1002/essoar.10510558.1](https://doi.org/10.1002/essoar.10510558.1)
 
