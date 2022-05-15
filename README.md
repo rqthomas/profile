@@ -91,8 +91,6 @@ Carey C.C, W.M. Woelmer, M.E. Lofton, R.J. Figueiredo, B.J. Bookout, R.S. Corrig
 
 Kyker-Snowman, E., D.L. Lombardozzi, G.B. Bonan, S.J. Cheng, J.S. Dukes, S.D. Frey, E.M. Jacobs, R. McNellis G, J.M. Rady G, N.G. Smith, R.Q. Thomas, W.R. Wieder, and A.S. Grandy. 2022. Increasing the spatial and temporal impact of ecological research: A roadmap for integrating a novel terrestrial process into an Earth system model. *Global Change Biology* 28: 665-684. [https://doi.org/10.1111/gcb.15894](https://doi.org/10.1111/gcb.15894)
 
-Ahlswede, B.J., T.L. O’Halloran, and R.Q. Thomas. Combined carbon and albedo climate forcing from pine and switchgrass grown for bioenergy. In Press *Frontiers in Forests and Global Change*  [https://doi.org/10.3389/ffgc.2022.774067](https://doi.org/10.3389/ffgc.2022.774067)   
-
 Woelmer, W., R.Q. Thomas, M. Lofton, R. McClure P, and C.C Carey. Near-term phytoplankton forecasts reveal the effects of model time step and forecast horizon on predictability. In Press at *Ecological Applications*. [https://doi.org/10.1002/eap.2642](https://doi.org/10.1002/eap.2642)   
 
 *Pre-prints undergoing peer-review*           
