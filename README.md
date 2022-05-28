@@ -81,7 +81,7 @@ Regionally specific drivers of land-use transitions and future scenarios: A synt
 
 *Recent (2022 - )*
 
-Carey, C.C., P.C. Hanson, R.Q. Thomas, A.B. Gerling, A.G. Hounshell, A.S.L Lewis, M.E. Lofton, R.P. McClure, H.L. Wander, W.M. Woelmer, B.R. Niederlehner, M.E. Schreider.  Anoxia decreases the magnitude of the carbon, nitrogen, and phosphorus sink in freshwater ecosystems. In press at *Global Change Biology* [https://doi.org/10.1111/gcb.16228](https://doi.org/10.1111/gcb.16228)   
+Carey, C.C., P.C. Hanson, R.Q. Thomas, A.B. Gerling, A.G. Hounshell, A.S.L Lewis, M.E. Lofton, R.P. McClure, H.L. Wander, W.M. Woelmer, B.R. Niederlehner, M.E. Schreider. 2022. Anoxia decreases the magnitude of the carbon, nitrogen, and phosphorus sink in freshwater ecosystems. In press at *Global Change Biology* [https://doi.org/10.1111/gcb.16228](https://doi.org/10.1111/gcb.16228)   
 
 Ahlswede, B.J., T.L. O’Halloran, and R.Q. Thomas. 2022. Combined carbon and albedo climate forcing from pine and switchgrass grown for bioenergy. *Frontiers in Forests and Global Change* 5:774067 [https://doi.org/10.3389/ffgc.2022.774067](https://doi.org/10.3389/ffgc.2022.774067)   
 
@@ -91,7 +91,7 @@ Carey C.C, W.M. Woelmer, M.E. Lofton, R.J. Figueiredo, B.J. Bookout, R.S. Corrig
 
 Kyker-Snowman, E., D.L. Lombardozzi, G.B. Bonan, S.J. Cheng, J.S. Dukes, S.D. Frey, E.M. Jacobs, R. McNellis G, J.M. Rady G, N.G. Smith, R.Q. Thomas, W.R. Wieder, and A.S. Grandy. 2022. Increasing the spatial and temporal impact of ecological research: A roadmap for integrating a novel terrestrial process into an Earth system model. *Global Change Biology* 28: 665-684. [https://doi.org/10.1111/gcb.15894](https://doi.org/10.1111/gcb.15894)
 
-Woelmer, W., R.Q. Thomas, M. Lofton, R. McClure P, and C.C Carey. Near-term phytoplankton forecasts reveal the effects of model time step and forecast horizon on predictability. In Press at *Ecological Applications*. [https://doi.org/10.1002/eap.2642](https://doi.org/10.1002/eap.2642)   
+Woelmer, W., R.Q. Thomas, M. Lofton, R. McClure P, and C.C Carey. 2022. Near-term phytoplankton forecasts reveal the effects of model time step and forecast horizon on predictability. In Press at *Ecological Applications*. [https://doi.org/10.1002/eap.2642](https://doi.org/10.1002/eap.2642)   
 
 *Pre-prints undergoing peer-review*           
 
