@@ -90,7 +90,7 @@ Ahlswede, B.J., T.L. O’Halloran, and R.Q. Thomas. 2022. Combined carbon and al
 
 Lewis, A., W. Woelmer, H. Wander, D. Howard, J. Smith, R. McClure, M. Lofton, N. Hammond, R. Corrigan, R.Q. Thomas, C.C. Carey. 2022. Increased adoption of best practices in ecological forecasting enables comparisons of forecastability across systems. *Ecological Applications* 32: e02500 [https://doi.org/10.1002/eap.2500](https://doi.org/10.1002/eap.2500)
 
-Carey C.C, W.M. Woelmer, M.E. Lofton, R.J. Figueiredo, B.J. Bookout, R.S. Corrigan, V. Daneshmand, A.G. Hounshell, D.W. Howard, A.S. Lewis, R.P. McClure, H.L. Wander, N.K. Ward, and R.Q. Thomas. 2022. Advancing lake and reservoir water quality management with near-term, iterative ecological forecasting. *Inland Waters* 12: 107-120 [https://doi.org/10.1080/20442041.2020.1816421](https://doi.org/10.1080/20442041.2020.1816421)
+Carey C.C., W.M. Woelmer, M.E. Lofton, R.J. Figueiredo, B.J. Bookout, R.S. Corrigan, V. Daneshmand, A.G. Hounshell, D.W. Howard, A.S. Lewis, R.P. McClure, H.L. Wander, N.K. Ward, and R.Q. Thomas. 2022. Advancing lake and reservoir water quality management with near-term, iterative ecological forecasting. *Inland Waters* 12: 107-120 [https://doi.org/10.1080/20442041.2020.1816421](https://doi.org/10.1080/20442041.2020.1816421)
 
 Kyker-Snowman, E., D.L. Lombardozzi, G.B. Bonan, S.J. Cheng, J.S. Dukes, S.D. Frey, E.M. Jacobs, R. McNellis G, J.M. Rady G, N.G. Smith, R.Q. Thomas, W.R. Wieder, and A.S. Grandy. 2022. Increasing the spatial and temporal impact of ecological research: A roadmap for integrating a novel terrestrial process into an Earth system model. *Global Change Biology* 28: 665-684. [https://doi.org/10.1111/gcb.15894](https://doi.org/10.1111/gcb.15894)
 
@@ -138,13 +138,12 @@ Data Science Faculty Fellow, College of Science, Virginia Tech, Blacksburg, VA (
 
 *Post-docs*
 
-Tadhg Moore (Co-mentored with Cayelan Carey)  
 Mary Lofton (Co-mentored with Cayelan Carey)  
+Freya Olsson (Co-mentored with Cayelan Carey)  
 
 *PhD Students*
 
 Joshua Rady    
-John Smith (Statistics; co-advised with Leah Johnson)  
 
 *Alumni*
 
@@ -152,9 +151,12 @@ Benjamin Ahlswede (PhD)
 Michael Graham (PhD; Geospatial and Environmental Analysis; co-advised with Megan O'Rourke)  
 Kevin J. Horn (Post-doc)  
 Annika Jersild (MS)  
+Ryan McClure (Post-doc; Co-mentored with Cayelan Carey) 
 Wyatt McCurdy (MS)  
+Tadhg Moore (Post-doc; Co-mentored with Cayelan Carey)  
 Laura Puckett (UG)   
-Ryan McClure (Post-doc; Co-mentored with Cayelan Carey)  
+John Smith (PhD in Statistics; co-advised with Leah Johnson)  
+ 
 
 [top](#ecosystem-dynamics-and-forecasting)
 
