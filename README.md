@@ -49,7 +49,9 @@ Regionally specific drivers of land-use transitions and future scenarios: A synt
 
 ## In the news
 
-[Fewer ticks, cleaner water, and more carbon intake: Fellowship recipient Quinn Thomas plans to use data to predict our environment - VT Newså](https://vtx.vt.edu/articles/2021/12/cnre-quinn-thomas-data-science-fellowship.html?utm_source=cmpgn_news&utm_medium=email&utm_campaign=vtUnirelNewsDailyCMP_011022-fs)   
+[A vicious cycle of oxygen loss threatens water quality in lakes - VT News](https://vtx.vt.edu/articles/2022/05/science-freshwater_lakes_losing_oxygen.html)   
+
+[Fewer ticks, cleaner water, and more carbon intake: Fellowship recipient Quinn Thomas plans to use data to predict our environment - VT News](https://vtx.vt.edu/articles/2021/12/cnre-quinn-thomas-data-science-fellowship.html?utm_source=cmpgn_news&utm_medium=email&utm_campaign=vtUnirelNewsDailyCMP_011022-fs)   
 
 [Virginia Tech pioneers smart reservoirs - Roanoke Times](https://roanoke.com/news/local/virginia-tech-pioneers-smart-reservoirs/article_b7b7330e-35a5-11eb-a443-b3f621f19df6.html#tracking-source=home-top-story-1)
 
@@ -146,13 +148,13 @@ Joshua Rady
 
 *Alumni*
 
-Benjamin Ahlswede (PhD)    
-Michael Graham (PhD; Geospatial and Environmental Analysis; co-advised with Megan O'Rourke)  
-Kevin J. Horn (Post-doc)  
-Annika Jersild (MS)  
-Ryan McClure (Post-doc; Co-mentored with Cayelan Carey) 
-Wyatt McCurdy (MS)  
-Tadhg Moore (Post-doc; Co-mentored with Cayelan Carey)  
+Benjamin Ahlswede (PhD)      
+Michael Graham (PhD; Geospatial and Environmental Analysis; co-advised with Megan O'Rourke)     
+Kevin J. Horn (Post-doc)    
+Annika Jersild (MS)    
+Ryan McClure (Post-doc; Co-mentored with Cayelan Carey)        
+Wyatt McCurdy (MS)     
+Tadhg Moore (Post-doc; Co-mentored with Cayelan Carey)     
 Laura Puckett (UG)   
 John Smith (PhD in Statistics; co-advised with Leah Johnson)  
  
