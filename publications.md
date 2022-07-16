@@ -11,9 +11,9 @@ Smith, J.W., L.R. Johnson, and R.Q. Thomas.  Assessing Ecosystem State Space Mod
 
 Hounshell, A.G., B. M. D’Acunha, A. Breef-Pilz, M.S. Johnson, R. Quinn Thomas, C.C. Carey.  Eddy covariance data reveal that a small freshwater reservoir emits a substantial amount of carbon dioxide and methane. *Earth and Space Science Open Archive*  [https://doi.org/10.1002/essoar.10510558.1](https://doi.org/10.1002/essoar.10510558.1)
 
-Thomas, R.Q, R.P. McClure, T.N. Moore, W.M. Woelmer, C. Boettiger, R.J. Figueiredo, R.T. Hensley, C.C. Carey. Near-term forecasts of NEON lakes reveal gradients of environmental predictability across the U.S.  *Earth and Space Science Open Archive*  [https://doi.org/10.1002/essoar.10510642.1](https://doi.org/10.1002/essoar.10510642.1)
-
 ### Accepted or In Press
+
+Thomas, R.Q, R.P. McClure, T.N. Moore, W.M. Woelmer, C. Boettiger, R.J. Figueiredo, R.T. Hensley, C.C. Carey. Near-term forecasts of NEON lakes reveal gradients of environmental predictability across the U.S. Accepted *Frontiers in Ecology and Environment*  Pre-print: [https://doi.org/10.1002/essoar.10510642.1](https://doi.org/10.1002/essoar.10510642.1)
 
 Woelmer, W., R.Q. Thomas, M. Lofton, R. McClure P, and C.C Carey. Near-term phytoplankton forecasts reveal the effects of model time step and forecast horizon on predictability. In Press at *Ecological Applications*. [https://doi.org/10.1002/eap.2642](https://doi.org/10.1002/eap.2642)   
 

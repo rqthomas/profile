@@ -83,6 +83,8 @@ Regionally specific drivers of land-use transitions and future scenarios: A synt
 
 *Recent (2022 - )*
 
+Thomas, R.Q, R.P. McClure, T.N. Moore, W.M. Woelmer, C. Boettiger, R.J. Figueiredo, R.T. Hensley, C.C. Carey. Near-term forecasts of NEON lakes reveal gradients of environmental predictability across the U.S. Accepted *Frontiers in Ecology and Environment*  Pre-print: [https://doi.org/10.1002/essoar.10510642.1](https://doi.org/10.1002/essoar.10510642.1)
+
 Moore, T.N., R.Q. Thomas, W.M. Woelmer, C.C Carey. 2022. Integrating ecological forecasting into undergraduate ecology curricula with an R Shiny application-based teaching module. *Forecasting* 4:604-633. [https://doi.org/10.3390/forecast4030033](https://doi.org/10.3390/forecast4030033)
 
 Carey, C.C., P.C. Hanson, R.Q. Thomas, A.B. Gerling, A.G. Hounshell, A.S.L Lewis, M.E. Lofton, R.P. McClure, H.L. Wander, W.M. Woelmer, B.R. Niederlehner, M.E. Schreider. 2022. Anoxia decreases the magnitude of the carbon, nitrogen, and phosphorus sink in freshwater ecosystems. *Global Change Biology* 28: 4861-4881 [https://doi.org/10.1111/gcb.16228](https://doi.org/10.1111/gcb.16228)   
@@ -104,8 +106,6 @@ Woelmer, W., R.Q. Thomas, M. Lofton, R. McClure P, and C.C Carey. 2022. Near-ter
 Smith, J.W., L.R. Johnson, and R.Q. Thomas.  Assessing Ecosystem State Space Models: Identifiability and Estimation. arXiv [https://arxiv.org/abs/2110.08967](https://arxiv.org/abs/2110.08967)     
 
 Hounshell, A.G., B. M. D’Acunha, A. Breef-Pilz, M.S. Johnson, R. Quinn Thomas, C.C. Carey.  Eddy covariance data reveal that a small freshwater reservoir emits a substantial amount of carbon dioxide and methane. *Earth and Space Science Open Archive*  [https://doi.org/10.1002/essoar.10510558.1](https://doi.org/10.1002/essoar.10510558.1)
-
-Thomas, R.Q, R.P. McClure, T.N. Moore, W.M. Woelmer, C. Boettiger, R.J. Figueiredo, R.T. Hensley, C.C. Carey. Near-term forecasts of NEON lakes reveal gradients of environmental predictability across the U.S.  *Earth and Space Science Open Archive*  [https://doi.org/10.1002/essoar.10510642.1](https://doi.org/10.1002/essoar.10510642.1)
 
 [top](#ecosystem-dynamics-and-forecasting)
 
