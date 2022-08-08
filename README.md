@@ -140,6 +140,7 @@ Data Science Faculty Fellow, College of Science, Virginia Tech, Blacksburg, VA (
 *Post-docs*
 
 Mary Lofton (Co-mentored with Cayelan Carey)  
+Maike Holthuijzen (Co-mentored with Cayelan Carey)  
 Freya Olsson (Co-mentored with Cayelan Carey)  
 
 *PhD Students*
