@@ -7,6 +7,7 @@
 **Forecasting:**  We predict the future of ecosystems by combining observations and ecosystem models using statistical techniques.
 
 Data Science Faculty Fellow  
+[Co-lead of the Ecological Forecasting Project at Virginia Tech](https://ecoforecastprojectVT.org)
 [Department of Forest Resources and Environmental Conservation &](https://frec.vt.edu) 
 [Department of Biological Sciences](https://biol.vt.edu)    
 [Virginia Tech](https://vt.edu)   
@@ -35,19 +36,19 @@ Lead PI of an NSF sponsored 5-year project that is leading workshops, conference
 
 *Other current projects*
 
+[DeCODER (Democratized Cyberinfrastructure for Open Discovery to Enable Research)(OAC-2209866)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2209866&HistoricalAwards=false)
+
 [Resilient Water Systems: Integrating Environmental Sensor Networks and Real-Time Forecasting to Adaptively Manage Drinking Water Quality and Build Social Trust (CNS-1737424)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1737424&HistoricalAwards=false)
 
 [Cyberinfrastructure Enabling End-to-End Workflows for Aquatic Ecosystem Forecasting (DBI-1933016)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1933016&HistoricalAwards=false)
 
 [Macrosystems EDDIE: An undergraduate training program in macrosystems science and ecological forecasting (DEB-1926050)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1926050&HistoricalAwards=false)
 
-[Decadal prediction of sustainable agricultural and forest management - Earth system prediction differs from climate prediction (USDA-NIFA 2015-67003-23485)](https://vtnews.vt.edu/articles/2015/11/111115-cnre-usdanifagrant.html)
-
-Regionally specific drivers of land-use transitions and future scenarios: A synthesis considering the land management influence in the Southeastern U.S (NASA-NNX17AI09G)
-
 [top](#ecosystem-dynamics-and-forecasting)
 
 ## In the news
+
+[Building the tools to make environmental data more accessible and forecasts more accurate - VT News](https://vtx.vt.edu/articles/2022/10/cnre-thomas-nsf-grant.html?utm_campaign=vtUnirelNewsDailyCMP_101722-fs&utm_medium=email&utm_source=cmpgn_news)   
 
 [A vicious cycle of oxygen loss threatens water quality in lakes - VT News](https://vtx.vt.edu/articles/2022/05/science-freshwater_lakes_losing_oxygen.html)   
 
@@ -83,25 +84,34 @@ Regionally specific drivers of land-use transitions and future scenarios: A synt
 
 *Recent (2022 - )*
 
-Thomas, R.Q, R.P. McClure, T.N. Moore, W.M. Woelmer, C. Boettiger, R.J. Figueiredo, R.T. Hensley, C.C. Carey. Near-term forecasts of NEON lakes reveal gradients of environmental predictability across the U.S. Accepted *Frontiers in Ecology and Environment*  Pre-print: [https://doi.org/10.1002/essoar.10510642.1](https://doi.org/10.1002/essoar.10510642.1)
 
-Moore, T.N., R.Q. Thomas, W.M. Woelmer, C.C Carey. 2022. Integrating ecological forecasting into undergraduate ecology curricula with an R Shiny application-based teaching module. *Forecasting* 4:604-633. [https://doi.org/10.3390/forecast4030033](https://doi.org/10.3390/forecast4030033)
 
-Carey, C.C., P.C. Hanson, R.Q. Thomas, A.B. Gerling, A.G. Hounshell, A.S.L Lewis, M.E. Lofton, R.P. McClure, H.L. Wander, W.M. Woelmer, B.R. Niederlehner, M.E. Schreider. 2022. Anoxia decreases the magnitude of the carbon, nitrogen, and phosphorus sink in freshwater ecosystems. *Global Change Biology* 28: 4861-4881 [https://doi.org/10.1111/gcb.16228](https://doi.org/10.1111/gcb.16228)   
+
+
+
+Ahlswede, B.J., T.L. O’Halloran, J.D. Forsythe, and R.Q. Thomas. 2022. A minimally managed switchgrass ecosystem in a humid subtropical climate is a source of carbon to the atmosphere. *GCB Bioenergy* 14:24-36  [https://doi.org/10.1111/GCBB.12897](https://doi.org/10.1111/GCBB.12897)
 
 Ahlswede, B.J., T.L. O’Halloran, and R.Q. Thomas. 2022. Combined carbon and albedo climate forcing from pine and switchgrass grown for bioenergy. *Frontiers in Forests and Global Change* 5:774067 [https://doi.org/10.3389/ffgc.2022.774067](https://doi.org/10.3389/ffgc.2022.774067)   
 
-Lewis, A., W. Woelmer, H. Wander, D. Howard, J. Smith, R. McClure, M. Lofton, N. Hammond, R. Corrigan, R.Q. Thomas, C.C. Carey. 2022. Increased adoption of best practices in ecological forecasting enables comparisons of forecastability across systems. *Ecological Applications* 32: e02500 [https://doi.org/10.1002/eap.2500](https://doi.org/10.1002/eap.2500)
-
 Carey C.C., W.M. Woelmer, M.E. Lofton, R.J. Figueiredo, B.J. Bookout, R.S. Corrigan, V. Daneshmand, A.G. Hounshell, D.W. Howard, A.S. Lewis, R.P. McClure, H.L. Wander, N.K. Ward, and R.Q. Thomas. 2022. Advancing lake and reservoir water quality management with near-term, iterative ecological forecasting. *Inland Waters* 12: 107-120 [https://doi.org/10.1080/20442041.2020.1816421](https://doi.org/10.1080/20442041.2020.1816421)
+
+Carey, C.C., P.C. Hanson, R.Q. Thomas, A.B. Gerling, A.G. Hounshell, A.S.L Lewis, M.E. Lofton, R.P. McClure, H.L. Wander, W.M. Woelmer, B.R. Niederlehner, M.E. Schreider. 2022. Anoxia decreases the magnitude of the carbon, nitrogen, and phosphorus sink in freshwater ecosystems. *Global Change Biology* 28: 4861-4881 [https://doi.org/10.1111/gcb.16228](https://doi.org/10.1111/gcb.16228)   
 
 Kyker-Snowman, E., D.L. Lombardozzi, G.B. Bonan, S.J. Cheng, J.S. Dukes, S.D. Frey, E.M. Jacobs, R. McNellis G, J.M. Rady G, N.G. Smith, R.Q. Thomas, W.R. Wieder, and A.S. Grandy. 2022. Increasing the spatial and temporal impact of ecological research: A roadmap for integrating a novel terrestrial process into an Earth system model. *Global Change Biology* 28: 665-684. [https://doi.org/10.1111/gcb.15894](https://doi.org/10.1111/gcb.15894)
 
-Ahlswede, B.J., T.L. O’Halloran, and R.Q. Thomas. 2022. A minimally managed switchgrass ecosystem in a humid subtropical climate is a source of carbon to the atmosphere. *GCB Bioenergy* 14:24-36  [https://doi.org/10.1111/GCBB.12897](https://doi.org/10.1111/GCBB.12897)
+Lewis, A., W. Woelmer, H. Wander, D. Howard, J. Smith, R. McClure, M. Lofton, N. Hammond, R. Corrigan, R.Q. Thomas, C.C. Carey. 2022. Increased adoption of best practices in ecological forecasting enables comparisons of forecastability across systems. *Ecological Applications* 32: e02500 [https://doi.org/10.1002/eap.2500](https://doi.org/10.1002/eap.2500)
 
-Woelmer, W., R.Q. Thomas, M. Lofton, R. McClure P, and C.C Carey. 2022. Near-term phytoplankton forecasts reveal the effects of model time step and forecast horizon on predictability. In Press at *Ecological Applications*. [https://doi.org/10.1002/eap.2642](https://doi.org/10.1002/eap.2642)   
+Moore, T.N., R.Q. Thomas, W.M. Woelmer, C.C Carey. 2022. Integrating ecological forecasting into undergraduate ecology curricula with an R Shiny application-based teaching module. *Forecasting* 4:604-633. [https://doi.org/10.3390/forecast4030033](https://doi.org/10.3390/forecast4030033)
+
+Thomas, R.Q, R.P. McClure, T.N. Moore, W.M. Woelmer, C. Boettiger, R.J. Figueiredo, R.T. Hensley, C.C. Carey. Near-term forecasts of NEON lakes reveal gradients of environmental predictability across the U.S. Accepted *Frontiers in Ecology and Environment*  Pre-print: [https://doi.org/10.1002/essoar.10510642.1](https://doi.org/10.1002/essoar.10510642.1)
+
+Woelmer, W., R.Q. Thomas, M. Lofton, R. McClure P, and C.C Carey. 2022. Near-term phytoplankton forecasts reveal the effects of model time step and forecast horizon on predictability. *Ecological Applications* 32: e2642 [https://doi.org/10.1002/eap.2642](https://doi.org/10.1002/eap.2642)   
 
 *Pre-prints undergoing peer-review*    
+
+Thomas, R.Q., C. Boettiger, C.C. Carey, M.C. Dietze, L.R. Johnson, M.A. Kenney, J.S. Mclachlan, J.A. Peters, E.R. Sokol, J.F. Weltzin, A. Willson, W.M. Woelmer, and Challenge Contributors.  2022.  The NEON Ecological Forecasting Challenge.  ESS Open Archive. *Earth and Space Science Open Archive* [https://www.doi.org/10.22541/essoar.167079499.99891914/v1](https://www.doi.org/10.22541/essoar.167079499.99891914/v1)
+
+Wynne, J. H.U, W. M. Woelmer, T. N. Moore, R. Q. Thomas, K C. Weathers, C. C. Carey. Uncertainty in projections of future lake thermal dynamics is differentially driven by global climate models and lake models. *Earth and Space Science Open Archive* [https://doi.org/10.1002/essoar.10512951.2](https://doi.org/10.1002/essoar.10512951.2)
 
 Hounshell, A.G., B. M. D’Acunha, A. Breef-Pilz, M.S. Johnson, R. Quinn Thomas, C.C. Carey.  Eddy covariance data reveal that a small freshwater reservoir emits a substantial amount of carbon dioxide and methane. *Earth and Space Science Open Archive*  [https://doi.org/10.1002/essoar.10510558.1](https://doi.org/10.1002/essoar.10510558.1)
 
@@ -146,12 +156,9 @@ Mary Lofton (Co-mentored with Cayelan Carey)
 Maike Holthuijzen (Co-mentored with Cayelan Carey)  
 Freya Olsson (Co-mentored with Cayelan Carey)  
 
-*PhD Students*
-
-Joshua Rady    
-
 *Alumni*
 
+Joshua Rady (PhD)    
 Benjamin Ahlswede (PhD)      
 Michael Graham (PhD; Geospatial and Environmental Analysis; co-advised with Megan O'Rourke)     
 Kevin J. Horn (Post-doc)    
@@ -167,7 +174,7 @@ John Smith (PhD in Statistics; co-advised with Leah Johnson)
 
 ## Teaching
 
-[FREC 3004: Environmental Informatics](https://github.com/EcoDynForecast/FREC3004_EnvInformatics_Class)  
+[FREC 3044: Environmental Data Science](https://github.com/EcoDynForecast/FREC3004_EnvInformatics_Class)  
 FREC 5884: Ecological Forecasting  
 FREC 3604: Climate Science  
 FREC 5034: Ecosystem Dynamics  
