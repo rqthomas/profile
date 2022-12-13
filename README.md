@@ -36,9 +36,7 @@ Lead PI of an NSF sponsored 5-year project that is leading workshops, conference
 
 *Other current projects*
 
-[DeCODER (Democratized Cyberinfrastructure for Open Discovery to Enable Research)(OAC-2209866)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2209866&HistoricalAwards=false)
-
-[Resilient Water Systems: Integrating Environmental Sensor Networks and Real-Time Forecasting to Adaptively Manage Drinking Water Quality and Build Social Trust (CNS-1737424)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1737424&HistoricalAwards=false)
+[Democratized Cyberinfrastructure for Open Discovery to Enable Research (OAC-2209866)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2209866&HistoricalAwards=false)
 
 [Cyberinfrastructure Enabling End-to-End Workflows for Aquatic Ecosystem Forecasting (DBI-1933016)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1933016&HistoricalAwards=false)
 
@@ -84,11 +82,6 @@ Lead PI of an NSF sponsored 5-year project that is leading workshops, conference
 
 *Recent (2022 - )*
 
-
-
-
-
-
 Ahlswede, B.J., T.L. O’Halloran, J.D. Forsythe, and R.Q. Thomas. 2022. A minimally managed switchgrass ecosystem in a humid subtropical climate is a source of carbon to the atmosphere. *GCB Bioenergy* 14:24-36  [https://doi.org/10.1111/GCBB.12897](https://doi.org/10.1111/GCBB.12897)
 
 Ahlswede, B.J., T.L. O’Halloran, and R.Q. Thomas. 2022. Combined carbon and albedo climate forcing from pine and switchgrass grown for bioenergy. *Frontiers in Forests and Global Change* 5:774067 [https://doi.org/10.3389/ffgc.2022.774067](https://doi.org/10.3389/ffgc.2022.774067)   
@@ -105,19 +98,19 @@ Moore, T.N., R.Q. Thomas, W.M. Woelmer, C.C Carey. 2022. Integrating ecological 
 
 Thomas, R.Q, R.P. McClure, T.N. Moore, W.M. Woelmer, C. Boettiger, R.J. Figueiredo, R.T. Hensley, C.C. Carey. Near-term forecasts of NEON lakes reveal gradients of environmental predictability across the U.S. Accepted *Frontiers in Ecology and Environment*  Pre-print: [https://doi.org/10.1002/essoar.10510642.1](https://doi.org/10.1002/essoar.10510642.1)
 
+Thomas, R.Q., C. Boettiger, C.C. Carey, M.C. Dietze, L.R. Johnson, M.A. Kenney, J.S. Mclachlan, J.A. Peters, E.R. Sokol, J.F. Weltzin, A. Willson, W.M. Woelmer, and Challenge Contributors. The NEON Ecological Forecasting Challenge. Accepted *Frontiers in Ecology and Environment*. Pre-print [https://www.doi.org/10.22541/essoar.167079499.99891914/v1](https://www.doi.org/10.22541/essoar.167079499.99891914/v1)
+
 Woelmer, W., R.Q. Thomas, M. Lofton, R. McClure P, and C.C Carey. 2022. Near-term phytoplankton forecasts reveal the effects of model time step and forecast horizon on predictability. *Ecological Applications* 32: e2642 [https://doi.org/10.1002/eap.2642](https://doi.org/10.1002/eap.2642)   
 
 *Pre-prints undergoing peer-review*    
-
-Thomas, R.Q., C. Boettiger, C.C. Carey, M.C. Dietze, L.R. Johnson, M.A. Kenney, J.S. Mclachlan, J.A. Peters, E.R. Sokol, J.F. Weltzin, A. Willson, W.M. Woelmer, and Challenge Contributors.  2022.  The NEON Ecological Forecasting Challenge.  ESS Open Archive. *Earth and Space Science Open Archive* [https://www.doi.org/10.22541/essoar.167079499.99891914/v1](https://www.doi.org/10.22541/essoar.167079499.99891914/v1)
-
-Wynne, J. H.U, W. M. Woelmer, T. N. Moore, R. Q. Thomas, K C. Weathers, C. C. Carey. Uncertainty in projections of future lake thermal dynamics is differentially driven by global climate models and lake models. *Earth and Space Science Open Archive* [https://doi.org/10.1002/essoar.10512951.2](https://doi.org/10.1002/essoar.10512951.2)
 
 Hounshell, A.G., B. M. D’Acunha, A. Breef-Pilz, M.S. Johnson, R. Quinn Thomas, C.C. Carey.  Eddy covariance data reveal that a small freshwater reservoir emits a substantial amount of carbon dioxide and methane. *Earth and Space Science Open Archive*  [https://doi.org/10.1002/essoar.10510558.1](https://doi.org/10.1002/essoar.10510558.1)
 
 Lofton, M.E., D.W. Howard, R.Q. Thomas, C. C Carey. Progress and opportunities in advancing near-term forecasting of freshwater quality. *Earth and Space Science Open Archive* [https://doi.org/10.1002/essoar.10512426.1](https://doi.org/10.1002/essoar.10512426.1)
 
 Smith, J.W., L.R. Johnson, and R.Q. Thomas.  Assessing Ecosystem State Space Models: Identifiability and Estimation. arXiv [https://arxiv.org/abs/2110.08967](https://arxiv.org/abs/2110.08967)     
+
+Wynne, J. H.U, W. M. Woelmer, T. N. Moore, R. Q. Thomas, K C. Weathers, C. C. Carey. Uncertainty in projections of future lake thermal dynamics is differentially driven by global climate models and lake models. *Earth and Space Science Open Archive* [https://doi.org/10.1002/essoar.10512951.2](https://doi.org/10.1002/essoar.10512951.2)
 
 
 [top](#ecosystem-dynamics-and-forecasting)

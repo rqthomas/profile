@@ -11,14 +11,14 @@ Hounshell, A.G., B. M. D’Acunha, A. Breef-Pilz, M.S. Johnson, R. Quinn Thomas,
 
 Lofton, M.E., D.W. Howard, R.Q. Thomas, C. C Carey. Progress and opportunities in advancing near-term forecasting of freshwater quality. *Earth and Space Science Open Archive* [https://doi.org/10.1002/essoar.10512426.1](https://doi.org/10.1002/essoar.10512426.1)
 
-Smith, J.W., L.R. Johnson, and R.Q. Thomas.  Assessing Ecosystem State Space Models: Identifiability and Estimation. arXiv [https://arxiv.org/abs/2110.08967](https://arxiv.org/abs/2110.08967)     
-
-Thomas, R.Q., C. Boettiger, C.C. Carey, M.C. Dietze, L.R. Johnson, M.A. Kenney, J.S. Mclachlan, J.A. Peters, E.R. Sokol, J.F. Weltzin, A. Willson, W.M. Woelmer, and Challenge Contributors.  2022.  The NEON Ecological Forecasting Challenge.  ESS Open Archive. *Earth and Space Science Open Archive* [https://www.doi.org/10.22541/essoar.167079499.99891914/v1](https://www.doi.org/10.22541/essoar.167079499.99891914/v1)
+Smith, J.W., L.R. Johnson, and R.Q. Thomas.  Assessing Ecosystem State Space Models: Identifiability and Estimation. *arXiv* [https://arxiv.org/abs/2110.08967](https://arxiv.org/abs/2110.08967)     
 
 Wynne, J. H.U, W. M. Woelmer, T. N. Moore, R. Q. Thomas, K C. Weathers, C. C. Carey. Uncertainty in projections of future lake thermal dynamics is differentially driven by global climate models and lake models. *Earth and Space Science Open Archive* [https://doi.org/10.1002/essoar.10512951.2](https://doi.org/10.1002/essoar.10512951.2)
 
 
 ### Accepted or In Press
+
+Thomas, R.Q., C. Boettiger, C.C. Carey, M.C. Dietze, L.R. Johnson, M.A. Kenney, J.S. Mclachlan, J.A. Peters, E.R. Sokol, J.F. Weltzin, A. Willson, W.M. Woelmer, and Challenge Contributors. The NEON Ecological Forecasting Challenge. Accepted *Frontiers in Ecology and Environment*. Pre-print [https://www.doi.org/10.22541/essoar.167079499.99891914/v1](https://www.doi.org/10.22541/essoar.167079499.99891914/v1)
 
 Thomas, R.Q, R.P. McClure, T.N. Moore, W.M. Woelmer, C. Boettiger, R.J. Figueiredo, R.T. Hensley, C.C. Carey. Near-term forecasts of NEON lakes reveal gradients of environmental predictability across the U.S. Accepted *Frontiers in Ecology and Environment*  Pre-print: [https://doi.org/10.1002/essoar.10510642.1](https://doi.org/10.1002/essoar.10510642.1)
 
