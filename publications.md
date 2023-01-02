@@ -13,8 +13,11 @@ Lofton, M.E., D.W. Howard, R.Q. Thomas, C. C Carey. Progress and opportunities i
 
 Smith, J.W., L.R. Johnson, and R.Q. Thomas.  Assessing Ecosystem State Space Models: Identifiability and Estimation. *arXiv* [https://arxiv.org/abs/2110.08967](https://arxiv.org/abs/2110.08967)     
 
-Wynne, J. H.U, W. M. Woelmer, T. N. Moore, R. Q. Thomas, K C. Weathers, C. C. Carey. Uncertainty in projections of future lake thermal dynamics is differentially driven by global climate models and lake models. *Earth and Space Science Open Archive* [https://doi.org/10.1002/essoar.10512951.2](https://doi.org/10.1002/essoar.10512951.2)
+Smith, J.W., L.R. Johnson, and R.Q. Thomas. Embedding positive process models into lognormal Bayesian state space frameworks using moment matching. *arXiv* [https://doi.org/10.48550/arXiv.2212.10697](https://doi.org/10.48550/arXiv.2212.10697)
 
+Willson, A.M., H. Gallo, J.A. Peters, A. Abeyta, N. Bueno Watts, C.C. Carey, T.N. Moore, G. Smies, R.Q. Thomas, W.M. Woelmer, and J.S. McLachlan. Assessing Opportunities and Inequities in Undergraduate Ecological Forecasting Education. *Zenodo* [https://doi.org/10.5281/zenodo.6886540](https://doi.org/10.5281/zenodo.6886540)
+
+Wynne, J. H.U, W. M. Woelmer, T. N. Moore, R. Q. Thomas, K C. Weathers, C. C. Carey. Uncertainty in projections of future lake thermal dynamics is differentially driven by global climate models and lake models. *Earth and Space Science Open Archive* [https://doi.org/10.1002/essoar.10512951.2](https://doi.org/10.1002/essoar.10512951.2)
 
 ### Accepted or In Press
 
@@ -44,9 +47,9 @@ Woelmer, W., R.Q. Thomas, M. Lofton, R. McClure P, and C.C Carey. 2022. Near-ter
 
 McClure, R.P, R.Q. Thomas, M.E. Lofton, W.M. Woelmer and C.C. Carey. 2021. Iterative forecasting improves near-term predictions of methane ebullition rates. *Frontiers in Environmental Science* 9:756603 [https://doi.org/10.3389/fenvs.2021.756603](https://doi.org/10.3389/fenvs.2021.756603)
 
-Daneshmand, V., A. Breef-Pilz, C.C. Carey, Y. Jin, Y.-J. Kun, K.C., R.Q. Thomas, R.J. Figueiredo.  2021 “Edge-to-cloud Virtualized Cyberinfrastructure for Near Real-time Water Quality Forecasting in Lakes and Reservoirs” in 2021 *IEEE 17th International Conference on eScience (eScience)*, Innsbruck, Austria, 2021 pp. 138-148.  [https://doi.org/10.1109/eScience51609.2021.00024](https://doi.org/10.1109/eScience51609.2021.00024)
+Daneshmand, V., A. Breef-Pilz, C.C. Carey, Y. Jin, Y.-J. Kun, K.C., R.Q. Thomas, R.J. Figueiredo.  2021. “Edge-to-cloud Virtualized Cyberinfrastructure for Near Real-time Water Quality Forecasting in Lakes and Reservoirs” in 2021 *IEEE 17th International Conference on eScience (eScience)*, Innsbruck, Austria, 2021 pp. 138-148.  [https://doi.org/10.1109/eScience51609.2021.00024](https://doi.org/10.1109/eScience51609.2021.00024)
 
-Graham, M.W., R.Q. Thomas, D.L. Lombardozzi, and M.E. O’Rourke. In Press. Modest capacity of no-till farming to offset emissions over 21st century. *Environmental Research Letters* 16: 054055 [https://doi.org/10.1088/1748-9326/abe6c6](https://doi.org/10.1088/1748-9326/abe6c6)
+Graham, M.W., R.Q. Thomas, D.L. Lombardozzi, and M.E. O’Rourke. 2021. Modest capacity of no-till farming to offset emissions over 21st century. *Environmental Research Letters* 16: 054055 [https://doi.org/10.1088/1748-9326/abe6c6](https://doi.org/10.1088/1748-9326/abe6c6)
 
 Meyer, M. F., R. Ladwig, H.A. Dugan, A. Anderson, A.R. Bah, B. Boehrer, L. Borre, R.J. Chapina, C. Doyle, E.J. Favot, G. Flaim, P. Forsberg, P.C. Hanson, B.W. Ibelings, P. Isles, F-P Lin, D. Lofton, T.N. Moore, S. Peel, J.A. Peters, D. Peirson, L.N. de Senerpont Domis, J.A. Schloss, M. Shikhani, A.P. Smagula, J.D. Stockwell, P. Thomas, R.Q. Thomas, T. Tietjen, and K.C. Weathers. 2021. Virtual Growing Pains: Initial Lessons Learned from Organizing Virtual Workshops, Summits, Conferences, and Networking Events during a Global Pandemic. *Limnology and Oceanography Bulletin* 30: 1- 11 [https://doi.org/10.1002/lob.10431](https://doi.org/10.1002/lob.10431)
 
