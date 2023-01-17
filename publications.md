@@ -9,17 +9,17 @@ layout: default
 
 Hounshell, A.G., B. M. D’Acunha, A. Breef-Pilz, M.S. Johnson, R. Quinn Thomas, C.C. Carey.  Eddy covariance data reveal that a small freshwater reservoir emits a substantial amount of carbon dioxide and methane. *Earth and Space Science Open Archive*  [https://doi.org/10.1002/essoar.10510558.1](https://doi.org/10.1002/essoar.10510558.1)
 
-Lofton, M.E., D.W. Howard, R.Q. Thomas, C. C Carey. Progress and opportunities in advancing near-term forecasting of freshwater quality. *Earth and Space Science Open Archive* [https://doi.org/10.1002/essoar.10512426.1](https://doi.org/10.1002/essoar.10512426.1)
-
 Smith, J.W., L.R. Johnson, and R.Q. Thomas.  Assessing Ecosystem State Space Models: Identifiability and Estimation. *arXiv* [https://arxiv.org/abs/2110.08967](https://arxiv.org/abs/2110.08967)     
 
-Smith, J.W., L.R. Johnson, and R.Q. Thomas. Embedding positive process models into lognormal Bayesian state space frameworks using moment matching. *arXiv* [https://doi.org/10.48550/arXiv.2212.10697](https://doi.org/10.48550/arXiv.2212.10697)
+Smith, J.W., L.R. Johnson, and R.Q. Thomas. Embedding positive process models into lognormal  Bayesian state space frameworks using moment matching. *arXiv* [https://doi.org/10.48550/arXiv.2212.10697](https://doi.org/10.48550/arXiv.2212.10697)
 
 Willson, A.M., H. Gallo, J.A. Peters, A. Abeyta, N. Bueno Watts, C.C. Carey, T.N. Moore, G. Smies, R.Q. Thomas, W.M. Woelmer, and J.S. McLachlan. Assessing Opportunities and Inequities in Undergraduate Ecological Forecasting Education. *Zenodo* [https://doi.org/10.5281/zenodo.6886540](https://doi.org/10.5281/zenodo.6886540)
 
 Wynne, J. H.U, W. M. Woelmer, T. N. Moore, R. Q. Thomas, K C. Weathers, C. C. Carey. Uncertainty in projections of future lake thermal dynamics is differentially driven by global climate models and lake models. *Earth and Space Science Open Archive* [https://doi.org/10.1002/essoar.10512951.2](https://doi.org/10.1002/essoar.10512951.2)
 
 ### Accepted or In Press
+
+Lofton, M.E., D.W. Howard, R.Q. Thomas, C. C Carey. Progress and opportunities in advancing near-term forecasting of freshwater quality. In Press *Global Change Biology* [https://doi.org/10.1111/gcb.16590](https://doi.org/10.1111/gcb.16590)
 
 Thomas, R.Q., C. Boettiger, C.C. Carey, M.C. Dietze, L.R. Johnson, M.A. Kenney, J.S. Mclachlan, J.A. Peters, E.R. Sokol, J.F. Weltzin, A. Willson, W.M. Woelmer, and Challenge Contributors. The NEON Ecological Forecasting Challenge. Accepted *Frontiers in Ecology and Environment*. Pre-print [https://www.doi.org/10.22541/essoar.167079499.99891914/v1](https://www.doi.org/10.22541/essoar.167079499.99891914/v1)
 
