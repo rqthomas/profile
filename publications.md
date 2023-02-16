@@ -27,6 +27,10 @@ Thomas, R.Q., C. Boettiger, C.C. Carey, M.C. Dietze, L.R. Johnson, M.A. Kenney, 
 
 Thomas, R.Q, R.P. McClure, T.N. Moore, W.M. Woelmer, C. Boettiger, R.J. Figueiredo, R.T. Hensley, C.C. Carey. Near-term forecasts of NEON lakes reveal gradients of environmental predictability across the U.S. Accepted *Frontiers in Ecology and Environment*  Pre-print: [https://doi.org/10.1002/essoar.10510642.1](https://doi.org/10.1002/essoar.10510642.1)
 
+### 2023
+
+Clark, C.M., R.Q. Thomas, and K.J. Horn. 2023. Above-ground tree carbon storage in response to nitrogen deposition in the U.S. is heterogeneous and may have weakened.  *Communications Earth & Environment* 4: 35 [https://doi.org/10.1038/s43247-023-00677-w](https://doi.org/10.1038/s43247-023-00677-w)
+
 ### 2022
 
 Carey, C.C., P.C. Hanson, R.Q. Thomas, A.B. Gerling, A.G. Hounshell, A.S.L Lewis, M.E. Lofton, R.P. McClure, H.L. Wander, W.M. Woelmer, B.R. Niederlehner, M.E. Schreider. 2022. Anoxia decreases the magnitude of the carbon, nitrogen, and phosphorus sink in freshwater ecosystems. *Global Change Biology* 28: 4861-4881 [https://doi.org/10.1111/gcb.16228](https://doi.org/10.1111/gcb.16228)   

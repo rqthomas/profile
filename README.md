@@ -82,6 +82,8 @@ Lead PI of an NSF sponsored 5-year project that is leading workshops, conference
 
 *Recent (2023 - )*
 
+Clark, C.M., R.Q. Thomas, and K.J. Horn. 2023. Above-ground tree carbon storage in response to nitrogen deposition in the U.S. is heterogeneous and may have weakened.  *Communications Earth & Environment* 4: 35 [https://doi.org/10.1038/s43247-023-00677-w](https://doi.org/10.1038/s43247-023-00677-w)
+
 Lofton, M.E., D.W. Howard, R.Q. Thomas, C. C Carey. Progress and opportunities in advancing near-term forecasting of freshwater quality. In Press *Global Change Biology* [https://doi.org/10.1111/gcb.16590](https://doi.org/10.1111/gcb.16590)
 
 Smith, J.W., L.R. Johnson, and R.Q. Thomas. Assessing Ecosystem State Space Models: Identifiability and Estimation. Accepted at *Journal of Agriculture, Biological and Environmental Statistics* Pre-print: [https://doi.org/10.48550/arXiv.2212.10697](https://doi.org/10.48550/arXiv.2212.10697)
