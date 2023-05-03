@@ -82,6 +82,8 @@ Lead PI of an NSF sponsored 5-year project that is leading workshops, conference
 
 *Recent (2023 - )*
 
+Clark, C, J. Phelan; J. Ash, J. Buckley, J. Cajka, K. HornP, R.Q. Thomas, R. Sabo, Future climate change effects on U.S. forest composition may offset benefits of reduced atmospheric deposition of N and S. Accepted at *Global Change Biology* 
+
 Clark, C.M., R.Q. Thomas, and K.J. Horn. 2023. Above-ground tree carbon storage in response to nitrogen deposition in the U.S. is heterogeneous and may have weakened.  *Communications Earth & Environment* 4: 35 [https://doi.org/10.1038/s43247-023-00677-w](https://doi.org/10.1038/s43247-023-00677-w)
 
 Dietze, M., R.Q. Thomas, J. Peters, C. Boettiger, A. Shiklomanov, and J. Ashander. A community convention for ecological forecasting: output files and metadata v1.0. Accepted at *Ecosphere* Pre-print: [https://doi.org/10.32942/osf.io/9dgtq](https://doi.org/10.32942/osf.io/9dgtq)
@@ -96,18 +98,17 @@ Thomas, R.Q., C. Boettiger, C.C. Carey, M.C. Dietze, L.R. Johnson, M.A. Kenney, 
 
 Thomas, R.Q, R.P. McClure, T.N. Moore, W.M. Woelmer, C. Boettiger, R.J. Figueiredo, R.T. Hensley, C.C. Carey. Near-term forecasts of NEON lakes reveal gradients of environmental predictability across the U.S. In Press *Frontiers in Ecology and Environment* [https://doi.org/10.1002/fee.2623](https://doi.org/10.1002/fee.2623)
 
-Willson, A.M., H. Gallo, J.A. Peters, A. Abeyta, N. Bueno Watts, C.C. Carey, T.N. Moore, G. Smies, R.Q. Thomas, W.M. Woelmer, and J.S. McLachlan. Assessing Opportunities and Inequities in Undergraduate Ecological Forecasting Education. Accepted at *Ecology and Evolution* Preprint: [https://doi.org/10.5281/zenodo.6886540](https://doi.org/10.5281/zenodo.6886540)
+Willson, A.M., H. Gallo, J.A. Peters, A. Abeyta, N. Bueno Watts, C.C. Carey, T.N. Moore, G. Smies, R.Q. Thomas, W.M. Woelmer, and J.S. McLachlan. Assessing Opportunities and Inequities in Undergraduate Ecological Forecasting Education. Accepted at *Ecology and Evolution* 13: e10001 [https://doi.org/10.1002/ece3.10001](https://doi.org/10.1002/ece3.10001)
+
+Wynne, J. H., W. M. Woelmer, T. N. Moore, R. Q. Thomas, K C. Weathers, C. C. Carey. Uncertainty in projections of future lake thermal dynamics is differentially driven by global climate models and lake models. *Earth and Space Science Open Archive* [https://doi.org/10.1002/essoar.10512951.2](https://doi.org/10.1002/essoar.10512951.2)
 
 *Pre-prints undergoing peer-review*    
-
 
 Smith, J.W., L.R. Johnson, and R.Q. Thomas. Embedding positive process models into lognormal Bayesian state space frameworks using moment matching. *arXiv* [https://doi.org/10.48550/arXiv.2212.10697](https://doi.org/10.48550/arXiv.2212.10697)
 
 Wheeler, K., M. Dietze, D. LeBauer, J. Peters, A.D. Richardson, R.Q. Thomas, K. Zhu, U. Bhat, S. Munch, R.F Buzbee, M. Chen, B. Goldstein, J.S. Guo, D. Hao, C. Jones, M. Kelly-Fair, H. Liu, C. Malmborg, N. Neupane. D. Pal, A. Ross, V. Shirey, Y. Song, M. Steen, E.A. Vance, W.M. Woelmer, J. Wynne and L. Zachmann. Predicting Spring Phenology in Deciduous Broadleaf Forests: An Open Community Forecast Challenge. *SSRN* [http://dx.doi.org/10.2139/ssrn.4357147](http://dx.doi.org/10.2139/ssrn.4357147)
 
 Woelmer, W.M., T.N. Moore, M.E. Lofton, R.Q. Thomas, and C.C. Carey. Embedding communication concepts in forecasting training increases students' understanding of ecological uncertainty. ESS Open Archive [https://www.authorea.com/doi/full/10.22541/au.167994830.07106605/v1](https://www.authorea.com/doi/full/10.22541/au.167994830.07106605/v1)
-
-Wynne, J. H., W. M. Woelmer, T. N. Moore, R. Q. Thomas, K C. Weathers, C. C. Carey. Uncertainty in projections of future lake thermal dynamics is differentially driven by global climate models and lake models. *Earth and Space Science Open Archive* [https://doi.org/10.1002/essoar.10512951.2](https://doi.org/10.1002/essoar.10512951.2)
 
 [top](#ecosystem-dynamics-and-forecasting)
 
