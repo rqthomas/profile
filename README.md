@@ -82,7 +82,7 @@ Lead PI of an NSF sponsored 5-year project that is leading workshops, conference
 
 *Recent (2023 - )*
 
-Clark, C, J. Phelan; J. Ash, J. Buckley, J. Cajka, K. HornP, R.Q. Thomas, R. Sabo, Future climate change effects on U.S. forest composition may offset benefits of reduced atmospheric deposition of N and S. Accepted at *Global Change Biology* 
+Clark, C, J. Phelan; J. Ash, J. Buckley, J. Cajka, K. Horn, R.Q. Thomas, R. Sabo, Future climate change effects on U.S. forest composition may offset benefits of reduced atmospheric deposition of N and S. Accepted at *Global Change Biology* 
 
 Clark, C.M., R.Q. Thomas, and K.J. Horn. 2023. Above-ground tree carbon storage in response to nitrogen deposition in the U.S. is heterogeneous and may have weakened.  *Communications Earth & Environment* 4: 35 [https://doi.org/10.1038/s43247-023-00677-w](https://doi.org/10.1038/s43247-023-00677-w)
 
@@ -105,6 +105,8 @@ Wynne, J. H., W. M. Woelmer, T. N. Moore, R. Q. Thomas, K C. Weathers, C. C. Car
 *Pre-prints undergoing peer-review*    
 
 Smith, J.W., L.R. Johnson, and R.Q. Thomas. Embedding positive process models into lognormal Bayesian state space frameworks using moment matching. *arXiv* [https://doi.org/10.48550/arXiv.2212.10697](https://doi.org/10.48550/arXiv.2212.10697)
+
+Wander, H.L., R.Q Thomas, T.N. Moore, M.E. Lofton, A. Breef-Pilz, C.C. Carey. Data availability affects forecast skill of 1 to 35-day water temperature forecasts in a eutrophic drinking water reservoir. *ESS Open Archive* [https://doi.org/10.22541/essoar.168500255.59108131/v1](https://doi.org/10.22541/essoar.168500255.59108131/v1)
 
 Wheeler, K., M. Dietze, D. LeBauer, J. Peters, A.D. Richardson, R.Q. Thomas, K. Zhu, U. Bhat, S. Munch, R.F Buzbee, M. Chen, B. Goldstein, J.S. Guo, D. Hao, C. Jones, M. Kelly-Fair, H. Liu, C. Malmborg, N. Neupane. D. Pal, A. Ross, V. Shirey, Y. Song, M. Steen, E.A. Vance, W.M. Woelmer, J. Wynne and L. Zachmann. Predicting Spring Phenology in Deciduous Broadleaf Forests: An Open Community Forecast Challenge. *SSRN* [http://dx.doi.org/10.2139/ssrn.4357147](http://dx.doi.org/10.2139/ssrn.4357147)
 
