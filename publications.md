@@ -21,8 +21,6 @@ Clark, C, J. Phelan; J. Ash, J. Buckley, J. Cajka, K. Horn, R.Q. Thomas, R. Sabo
 
 Dietze, M., R.Q. Thomas, J. Peters, C. Boettiger, A. Shiklomanov, and J. Ashander. A community convention for ecological forecasting: output files and metadata v1.0. Accepted at *Ecosphere* Pre-print:[https://doi.org/10.32942/osf.io/9dgtq](https://doi.org/10.32942/osf.io/9dgtq)
 
-Thomas, R.Q, R.P. McClure, T.N. Moore, W.M. Woelmer, C. Boettiger, R.J. Figueiredo, R.T. Hensley, C.C. Carey. Near-term forecasts of NEON lakes reveal gradients of environmental predictability across the U.S. In Press *Frontiers in Ecology and Environment* [https://doi.org/10.1002/fee.2623](https://doi.org/10.1002/fee.2623)
-
 Wynne, J. H.U, W. M. Woelmer, T. N. Moore, R. Q. Thomas, K C. Weathers, C. C. Carey. Uncertainty in projections of future lake thermal dynamics is differentially driven by global climate models and lake models. *Earth and Space Science Open Archive* [https://doi.org/10.1002/essoar.10512951.2](https://doi.org/10.1002/essoar.10512951.2)
 
 ### 2023
@@ -36,6 +34,8 @@ Lofton, M.E., D.W. Howard, R.Q. Thomas, C. C Carey. 2023. Progress and opportuni
 Smith, J.W., L.R. Johnson, and R.Q. Thomas. 2023. Assessing Ecosystem State Space Models: Identifiability and Estimation. Accepted at *Journal of Agriculture, Biological and Environmental Statistics* [https://doi.org/10.1007/s13253-023-00531-8](https://doi.org/10.1007/s13253-023-00531-8)
 
 Thomas, R.Q., C. Boettiger, C.C. Carey, M.C. Dietze, L.R. Johnson, M.A. Kenney, J.S. Mclachlan, J.A. Peters, E.R. Sokol, J.F. Weltzin, A. Willson, W.M. Woelmer, and Challenge Contributors. 2023. The NEON Ecological Forecasting Challenge. *Frontiers in Ecology and Environment* 21: 112-113 [https://doi.org/10.1002/fee.2616](https://doi.org/10.1002/fee.2616)
+
+Thomas, R.Q, R.P. McClure, T.N. Moore, W.M. Woelmer, C. Boettiger, R.J. Figueiredo, R.T. Hensley, C.C. Carey. Near-term forecasts of NEON lakes reveal gradients of environmental predictability across the U.S. In Press *Frontiers in Ecology and Environment* 21: 220–226[https://doi.org/10.1002/fee.2623](https://doi.org/10.1002/fee.2623)
 
 Willson, A.M., H. Gallo, J.A. Peters, A. Abeyta, N. Bueno Watts, C.C. Carey, T.N. Moore, G. Smies, R.Q. Thomas, W.M. Woelmer, and J.S. McLachlan. Assessing Opportunities and Inequities in Undergraduate Ecological Forecasting Education. Accepted at *Ecology and Evolution* 13: e10001 [https://doi.org/10.1002/ece3.10001](https://doi.org/10.1002/ece3.10001)
 

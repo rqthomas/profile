@@ -96,7 +96,7 @@ Smith, J.W., L.R. Johnson, and R.Q. Thomas. 2023. Assessing Ecosystem State Spac
 
 Thomas, R.Q., C. Boettiger, C.C. Carey, M.C. Dietze, L.R. Johnson, M.A. Kenney, J.S. Mclachlan, J.A. Peters, E.R. Sokol, J.F. Weltzin, A. Willson, W.M. Woelmer, and Challenge Contributors. 2023. The NEON Ecological Forecasting Challenge. *Frontiers in Ecology and Environment* 21: 112-113 [https://doi.org/10.1002/fee.2616](https://doi.org/10.1002/fee.2616)
 
-Thomas, R.Q, R.P. McClure, T.N. Moore, W.M. Woelmer, C. Boettiger, R.J. Figueiredo, R.T. Hensley, C.C. Carey. Near-term forecasts of NEON lakes reveal gradients of environmental predictability across the U.S. In Press *Frontiers in Ecology and Environment* [https://doi.org/10.1002/fee.2623](https://doi.org/10.1002/fee.2623)
+Thomas, R.Q, R.P. McClure, T.N. Moore, W.M. Woelmer, C. Boettiger, R.J. Figueiredo, R.T. Hensley, C.C. Carey. Near-term forecasts of NEON lakes reveal gradients of environmental predictability across the U.S. In Press *Frontiers in Ecology and Environment* 21: 220–226[https://doi.org/10.1002/fee.2623](https://doi.org/10.1002/fee.2623)
 
 Willson, A.M., H. Gallo, J.A. Peters, A. Abeyta, N. Bueno Watts, C.C. Carey, T.N. Moore, G. Smies, R.Q. Thomas, W.M. Woelmer, and J.S. McLachlan. Assessing Opportunities and Inequities in Undergraduate Ecological Forecasting Education. Accepted at *Ecology and Evolution* 13: e10001 [https://doi.org/10.1002/ece3.10001](https://doi.org/10.1002/ece3.10001)
 
