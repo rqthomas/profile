@@ -17,9 +17,9 @@ Woelmer, W.M., T.N. Moore, M.E. Lofton, R.Q. Thomas, and C.C. Carey. Embedding c
 
 Clark, C, J. Phelan; J. Ash, J. Buckley, J. Cajka, K. Horn, R.Q. Thomas, R. Sabo, Future climate change effects on U.S. forest composition may offset benefits of reduced atmospheric deposition of N and S. Accepted at *Global Change Biology* 
 
-Dietze, M., R.Q. Thomas, J. Peters, C. Boettiger, A. Shiklomanov, and J. Ashander. A community convention for ecological forecasting: output files and metadata v1.0. Accepted at *Ecosphere* Pre-print:[https://doi.org/10.32942/osf.io/9dgtq](https://doi.org/10.32942/osf.io/9dgtq)
+Dietze, M., R.Q. Thomas, J. Peters, C. Boettiger, A. Shiklomanov, and J. Ashander. A community convention for ecological forecasting: output files and metadata v1.0. Accepted at *Ecosphere* Pre-print: [https://doi.org/10.32942/osf.io/9dgtq](https://doi.org/10.32942/osf.io/9dgtq)
 
-Smith, J.W., L.R. Johnson, and R.Q. Thomas. Embedding positive process models into lognormal Bayesian state space frameworks using moment matching. Accepted at *Environmental and Ecological Statistics* Pre-print[https://doi.org/10.48550/arXiv.2212.10697](https://doi.org/10.48550/arXiv.2212.10697)
+Smith, J.W., L.R. Johnson, and R.Q. Thomas. Embedding positive process models into lognormal Bayesian state space frameworks using moment matching. Accepted at *Environmental and Ecological Statistics* Pre-print: [https://doi.org/10.48550/arXiv.2212.10697](https://doi.org/10.48550/arXiv.2212.10697)
 
 ### 2023
 
@@ -27,13 +27,13 @@ Clark, C.M., R.Q. Thomas, and K.J. Horn. 2023. Above-ground tree carbon storage 
 
 Hounshell, A.G., B. M. D’Acunha, A. Breef-Pilz, M.S. Johnson, R. Quinn Thomas, C.C. Carey. 2023. Eddy covariance data reveal that a small freshwater reservoir emits a substantial amount of carbon dioxide and methane. *Journal Geophysical Research - Biogeosciences* 128: e2022JG007091 [https://doi.org/10.1029/2022JG007091](https://doi.org/10.1029/2022JG007091)
 
-Lofton, M.E., D.W. Howard, R.Q. Thomas, C. C Carey. 2023. Progress and opportunities in advancing near-term forecasting of freshwater quality. *Global Change Biology* 29: 1691-1714[https://doi.org/10.1111/gcb.16590](https://doi.org/10.1111/gcb.16590)
+Lofton, M.E., D.W. Howard, R.Q. Thomas, C. C Carey. 2023. Progress and opportunities in advancing near-term forecasting of freshwater quality. *Global Change Biology* 29: 1691-1714 [https://doi.org/10.1111/gcb.16590](https://doi.org/10.1111/gcb.16590)
 
 Smith, J.W., L.R. Johnson, and R.Q. Thomas. 2023. Assessing Ecosystem State Space Models: Identifiability and Estimation. Accepted at *Journal of Agriculture, Biological and Environmental Statistics* [https://doi.org/10.1007/s13253-023-00531-8](https://doi.org/10.1007/s13253-023-00531-8)
 
 Thomas, R.Q., C. Boettiger, C.C. Carey, M.C. Dietze, L.R. Johnson, M.A. Kenney, J.S. Mclachlan, J.A. Peters, E.R. Sokol, J.F. Weltzin, A. Willson, W.M. Woelmer, and Challenge Contributors. 2023. The NEON Ecological Forecasting Challenge. *Frontiers in Ecology and Environment* 21: 112-113 [https://doi.org/10.1002/fee.2616](https://doi.org/10.1002/fee.2616)
 
-Thomas, R.Q, R.P. McClure, T.N. Moore, W.M. Woelmer, C. Boettiger, R.J. Figueiredo, R.T. Hensley, C.C. Carey. Near-term forecasts of NEON lakes reveal gradients of environmental predictability across the U.S. *Frontiers in Ecology and Environment* 21: 220–226[https://doi.org/10.1002/fee.2623](https://doi.org/10.1002/fee.2623)
+Thomas, R.Q, R.P. McClure, T.N. Moore, W.M. Woelmer, C. Boettiger, R.J. Figueiredo, R.T. Hensley, C.C. Carey. Near-term forecasts of NEON lakes reveal gradients of environmental predictability across the U.S. *Frontiers in Ecology and Environment* 21: 220–226 [https://doi.org/10.1002/fee.2623](https://doi.org/10.1002/fee.2623)
 
 Willson, A.M., H. Gallo, J.A. Peters, A. Abeyta, N. Bueno Watts, C.C. Carey, T.N. Moore, G. Smies, R.Q. Thomas, W.M. Woelmer, and J.S. McLachlan. 2023. Assessing opportunities and inequities in undergraduate ecological forecasting education. *Ecology and Evolution* 13: e10001. [https://doi.org/10.1002/ece3.10001](https://doi.org/10.1002/ece3.10001)
 
