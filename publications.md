@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-## Publications
+# Publications
 
 [back](./)
 
-### Pre-prints undergoing peer-review
+## Pre-prints undergoing peer-review
 
 Wander, H.L., R.Q Thomas, T.N. Moore, M.E. Lofton, A. Breef-Pilz, C.C. Carey. Data availability affects forecast skill of 1 to 35-day water temperature forecasts in a eutrophic drinking water reservoir. *ESS Open Archive* [https://doi.org/10.22541/essoar.168500255.59108131/v1](https://doi.org/10.22541/essoar.168500255.59108131/v1)
 
@@ -13,15 +13,15 @@ Wheeler, K., M. Dietze, D. LeBauer, J. Peters, A.D. Richardson, R.Q. Thomas, K. 
 
 Woelmer, W.M., T.N. Moore, M.E. Lofton, R.Q. Thomas, and C.C. Carey. Embedding communication concepts in forecasting training increases students' understanding of ecological uncertainty. *ESS Open Archive* [https://www.authorea.com/doi/full/10.22541/au.167994830.07106605/v1](https://www.authorea.com/doi/full/10.22541/au.167994830.07106605/v1)
 
-### Accepted or In Press
+## Accepted or In Press
 
-Clark, C, J. Phelan; J. Ash, J. Buckley, J. Cajka, K. Horn, R.Q. Thomas, R. Sabo, Future climate change effects on U.S. forest composition may offset benefits of reduced atmospheric deposition of N and S. Accepted at *Global Change Biology* 
+Clark, C, J. Phelan, J. Ash, J. Buckley, J. Cajka, K. Horn, R.Q. Thomas, R. Sabo, Future climate change effects on U.S. forest composition may offset benefits of reduced atmospheric deposition of N and S. Accepted at *Global Change Biology* 
 
 Dietze, M., R.Q. Thomas, J. Peters, C. Boettiger, A. Shiklomanov, and J. Ashander. A community convention for ecological forecasting: output files and metadata v1.0. Accepted at *Ecosphere* Pre-print: [https://doi.org/10.32942/osf.io/9dgtq](https://doi.org/10.32942/osf.io/9dgtq)
 
 Smith, J.W., L.R. Johnson, and R.Q. Thomas. Embedding positive process models into lognormal Bayesian state space frameworks using moment matching. Accepted at *Environmental and Ecological Statistics* Pre-print: [https://doi.org/10.48550/arXiv.2212.10697](https://doi.org/10.48550/arXiv.2212.10697)
 
-### 2023
+## 2023
 
 Clark, C.M., R.Q. Thomas, and K.J. Horn. 2023. Above-ground tree carbon storage in response to nitrogen deposition in the U.S. is heterogeneous and may have weakened.  *Communications Earth & Environment* 4: 35 [https://doi.org/10.1038/s43247-023-00677-w](https://doi.org/10.1038/s43247-023-00677-w)
 
@@ -39,7 +39,7 @@ Willson, A.M., H. Gallo, J.A. Peters, A. Abeyta, N. Bueno Watts, C.C. Carey, T.N
 
 Wynne, J. H., W. M. Woelmer, T. N. Moore, R.Q. Thomas, K C. Weathers, C. C. Carey. 2023. Uncertainty in projections of future lake thermal dynamics is differentially driven by global climate models and lake models. *PeerJ* 11:e15445 [https://doi.org/10.7717/peerj.15445](https://doi.org/10.7717/peerj.15445)
 
-### 2022
+## 2022
 
 Carey, C.C., P.C. Hanson, R.Q. Thomas, A.B. Gerling, A.G. Hounshell, A.S.L Lewis, M.E. Lofton, R.P. McClure, H.L. Wander, W.M. Woelmer, B.R. Niederlehner, M.E. Schreider. 2022. Anoxia decreases the magnitude of the carbon, nitrogen, and phosphorus sink in freshwater ecosystems. *Global Change Biology* 28: 4861-4881 [https://doi.org/10.1111/gcb.16228](https://doi.org/10.1111/gcb.16228)   
 
@@ -57,7 +57,7 @@ Kyker-Snowman, E., D.L. Lombardozzi, G.B. Bonan, S.J. Cheng, J.S. Dukes, S.D. Fr
 
 Woelmer, W., R.Q. Thomas, M. Lofton, R. McClure P, and C.C Carey. 2022. Near-term phytoplankton forecasts reveal the effects of model time step and forecast horizon on predictability. *Ecological Applications* 32: e2642 [https://doi.org/10.1002/eap.2642](https://doi.org/10.1002/eap.2642)   
 
-### 2021
+## 2021
 
 McClure, R.P, R.Q. Thomas, M.E. Lofton, W.M. Woelmer and C.C. Carey. 2021. Iterative forecasting improves near-term predictions of methane ebullition rates. *Frontiers in Environmental Science* 9:756603 [https://doi.org/10.3389/fenvs.2021.756603](https://doi.org/10.3389/fenvs.2021.756603)
 
@@ -73,7 +73,7 @@ Koplitz, S.N., C.G. Nolte, R.D. Sabo, C.M. Clark, K.J. Horn, R.Q. Thomas, and T.
 
 Thomas, V.A., R.H. Wynne, J. Kauffman, W. McCurdy, E.B. Brooks, R.Q. Thomas, and J. Rakestraw. 2021. Mapping thins to identify active forest management in southern pine plantations using Landsat time series stacks. *Remote Sensing of Environment* 252: 112127. [https://doi.org/10.1016/j.rse.2020.112127](https://doi.org/10.1016/j.rse.2020.112127)
 
-### 2020
+## 2020
 
 Thomas R.Q, R.J. Figueiredo, V. Daneshmand, B.J. Bookout, L.K. Puckett, and C.C. Carey. 2020. A near‐term iterative forecasting system successfully predicts reservoir hydrodynamics and partitions uncertainty in real time. *Water Resources Research* 56: e2019WR026138. [https://doi.org/10.1029/2019WR026138](https://doi.org/10.1029/2019WR026138) 
 
@@ -81,7 +81,7 @@ Daw, A., R.Q. Thomas, C.C. Carey, J.S. Read, A.P. Appling, and A. Karpatne. 2020
 
 Weaver, E.A., K. Kolivras, V.A. Thomas, R.Q. Thomas, and K. Abbas. 2020. Environmental factors affecting ecological niche of *Coccidioides* (spp.) and spatial dynamics of valley fever in the United States. *Spatial and Spatio-temporal Epidemiology* 32: 100317. [https://doi.org/10.1016/j.sste.2019.100317](https://doi.org/10.1016/j.sste.2019.100317)
 
-### 2019
+## 2019
 
 Lawrence, D.M., et al. [52 authors including R.Q. Thomas]. 2019. The Community Land Model version 5: Description of new features, benchmarking, and impact of forcing uncertainty. *Journal of Advances in Modeling Earth Systems* 11: 4245-4287. [https://doi.org/10.1029/2018MS001583](https://doi.org/10.1029/2018MS001583)
 
@@ -95,7 +95,7 @@ Cheng, S.J., P. Hess, W.R. Wieder, R.Q. Thomas, K.J. Nadelhoffer, and C.L. Gooda
 
 Van Houtven, G., J.N. Phelan, C.M. Clark, R. Sabo, J. Buckley, R.Q. Thomas, K.J. Horn, and S.D. LeDuc. 2019. Nitrogen deposition and climate change effects on tree species composition and ecosystem services: A cohort analysis. *Ecological Monographs* 89: e01345. [https://doi.org/10.1002/ecm.1345](https://doi.org/10.1002/ecm.1345)
 
-### 2018
+## 2018
 
 Jinshi, J., M.K. Steele, S. Day, and R.Q. Thomas. 2018. Future global soil respiration rates will swell despite regional decreases in temperature sensitivity caused by rising temperatures. *Earth’s Future* 6: 1539 – 1554. [https://doi.org/10.1029/2018EF000937](https://doi.org/10.1029/2018EF000937)
 
@@ -109,19 +109,19 @@ Jian, J., M.K. Steele, S.D. Day, R.Q. Thomas, and S.C. Hodges. 2018. Measurement
 
 Jian, J., M.K. Steele, R.Q. Thomas, S. Day, and S. Hodges. 2018. Constraining global soil respiration by quantifying sources of uncertainty. *Global Change Biology* 24: 4143- 4159. [https://doi.org/10.1111/gcb.14301](https://doi.org/10.1111/gcb.14301)
 
-### 2017
+## 2017
 
 Ahlswede, B.J., and R.Q. Thomas. 2017. Community Earth system model simulations reveal the relative importance of afforestation and forest management to surface temperature in eastern North America.  *Forests* 8: 499. [https://doi.org/10.3390/f8120499](https://doi.org/10.3390/f8120499)
 
 Thomas, R.Q., E.B. Brooks, A.L. Jersild, E.J. Ward, R.H. Wynne, T.J. Albaugh, H.D. Aldridge, H.E. Burkhart, J.-C. Domec, T.R. Fox, C.A. Gonzalez-Benecke, T.M. Martin, A. Noormets, D.A. Sampson, and R.O. Teskey. 2017. Leveraging 35 years of *Pinus taeda* research in the southeastern US to constrain forest carbon cycle predictions: regional data assimilation using ecosystem experiments. *Biogeosciences* 14: 3525 – 3547. [https://doi.org/10.5194/bg-14-3525-2017](https://doi.org/10.5194/bg-14-3525-2017)
 
-### 2016
+## 2016
 
 Niu, S., A.T. Classen, J. Dukes, P. Kardol, L. Liu, Y. Luo, L. Rustad, J. Tang, P.H. Templer, R.Q. Thomas, D. Tian, S. Vicca, Y.-P. Wang, J. Xia, and S. Zaehle. 2016. Global Patterns and Fundamental Mechanisms of the Terrestrial Nitrogen Cycle. *Ecology Letters* 19: 697-709. [https://doi.org/10.1111/ele.12591](https://doi.org/10.1111/ele.12591)
 
 Hurtt, G.C., R.Q. Thomas, J. Fisk, R. Dubayah, and S. Sheldon. 2016. The impact of fine-scale disturbances on the predictability of vegetation dynamics and carbon flux. *PLoS ONE* 11: e0152883. [https://doi.org/10.1371/journal.pone.0152883](https://doi.org/10.1371/journal.pone.0152883)
 
-### 2015
+## 2015
 
 Burd, A.B., S. Frey, A. Cabre, T. Ito, N.M. Levine, C. Lønborg, M. Long, M. Mauritz, R.Q. Thomas, B. Stevens, T. Vanwallenghem, and N. Zeng. 2016. Terrestrial and marine perspectives on modeling organic matter degradation pathways and controls. *Global Change Biology* 22, 121–136. [https://doi.org/10.1111/gcb.12987](https://doi.org/10.1111/gcb.12987)
 
@@ -129,11 +129,11 @@ Bracco, A.B., M.C. Long, N.M. Levine, R.Q. Thomas, C. Deutsch, and G.A. McKinley
 
 Thomas, R.Q., E.N.J. Brookshire, S. Gerber. 2015. Nitrogen limitation on land: how can it occur in Earth system models?  *Global Change Biology* 21: 1777–1793. [https://doi.org/10.1111/gcb.12813](https://doi.org/10.1111/gcb.12813)
 
-### 2014
+## 2014
 
 Thomas, R.Q., and M. Williams. 2014. A model using marginal efficiency of investment to analyze carbon and nitrogen interactions in terrestrial ecosystems (ACONITE Version 1). *Geoscientific Model Development* 7: 2015-2037. [https://doi.org/10.5194/gmd-7-2015-2014](https://doi.org/10.5194/gmd-7-2015-2014)
 
-### 2013
+## 2013
 
 Thomas, R.Q, G.A. McKinley, and M.C. Long. 2013. Examining Uncertainties in Representations of the Carbon Cycle in Earth System Models. *EOS, Transactions American Geophysical Union* 94: 460. [https://doi.org/10.1002/2013EO480006](https://doi.org/10.1002/2013EO480006)
 
@@ -147,17 +147,17 @@ Thomas, R.Q., G.B. Bonan, and C.L. Goodale. 2013. Insights into mechanisms gover
 
 Rastetter, E.B., R.D. Yanai, R.Q. Thomas, M.A. Vadeboncoeur, T.J. Fahey, M.C. Fisk, B.L. Kwiatkowski, and S.P. Hamburg. 2013. Recovery from disturbance requires resynchronization of ecosystem nutrient cycles. *Ecological Applications* 23:621–642. [https://doi.org/10.1890/12-0751.1](https://doi.org/10.1890/12-0751.1)
 
-### 2012
+## 2012
 
 Carey, C.C., H.A. Ewing, K.L. Cottingham, K.C. Weathers, R.Q. Thomas, and J.F. Haney. 2012. Occurrence, toxicity, and potential ecological consequences of the cyanobacterium Gloeotrichia echinulata for low-nutrient lakes in the northeastern United States. *Aquatic Ecology* 46: 395–409. [https://doi.org/10.1007/s10452-012-9409-9](https://doi.org/10.1007/s10452-012-9409-9)
 
 Raciti, S.M., T.J. Fahey, R.Q. Thomas, P.B. Woodbury, C.T. Driscoll, F.J. Carranti, D.R. Foster, P.S. Gwyther, B.R. Hall, S.P. Hamburg, J.C. Jenkins, C. Neill, B.W. Peery, E.E. Quigley, R. Sherman, M.A. Vadeboncoeur, D.A. Weinstein, and G. Wilson. 2012. Local scale carbon budgets and mitigation opportunities for the northeastern United States. *Bioscience* 62: 23-38. [https://doi.org/10.1525/bio.2012.62.1.7](https://doi.org/10.1525/bio.2012.62.1.7)
 
-### 2011
+## 2011
 
 Leuzinger, S., and R.Q Thomas. 2011. How do we improve Earth system models? Integrating Earth system models, ecosystem models, experiments and long-term data. *New Phytologist* 191: 15–18. [https://doi.org/10.1111/j.1469-8137.2011.03778.x](https://doi.org/10.1111/j.1469-8137.2011.03778.x)
 
-### 2010
+## 2010
 
 Thomas, R.Q., C.D. Canham, K.C. Weathers, and C.L. Goodale. 2010. Increased tree carbon storage in response to nitrogen deposition in the U.S. *Nature Geosciences* 3: 13-17. [https://doi.org/10.1038/ngeo721](https://doi.org/10.1038/ngeo721)
 
@@ -165,12 +165,12 @@ Hurtt, G.C., J. Fisk, R.Q. Thomas, R. Dubayah, P. Moorcroft, and H. Shugart. 201
 
 Canham, C.D. and R.Q. Thomas. 2010. Local frequency but not relative abundance of temperate tree species varies along climate gradients in eastern North America. *Ecology* 91: 3433 – 3440. [https://doi.org/10.1890/10-0312.1](https://doi.org/10.1890/10-0312.1)
 
-### 2008
+## 2008
 
 Thomas, R.Q., G.C. Hurtt, R. Dubayah, and M. Schilz. 2008. Using lidar data and a height structured ecosystem model to improve estimates forest carbon stocks and fluxes over mountainous terrain. *Canadian Journal of Remote Sensing* 34: S351-S363. [https://doi.org/10.5589/m08-036](https://doi.org/10.5589/m08-036)
 
 Fisher, J., G.C. Hurtt, R.Q. Thomas, and J.Q. Chambers. 2008. Clustered disturbances lead to bias in large-scale estimates based on forest sample plots. *Ecology Letters* 11: 554-563. [https://doi.org/10.1111/j.1461-0248.2008.01169.x](https://doi.org/10.1111/j.1461-0248.2008.01169.x)
 
-### Data Sets
+## Data Sets
 
 Seyednasrollah, B. et al. [115 authors included R.Q. Thomas]. 2019. PhenoCam Dataset v2.0: Vegetation Phenology from Digital Camera Imagery, 2000-2018. ORNL DAAC, Oak Ridge, Tennessee, USA. [https://doi.org/10.3334/ORNLDAAC/1674](https://doi.org/10.3334/ORNLDAAC/1674)

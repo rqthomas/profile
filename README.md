@@ -166,7 +166,7 @@ John Smith (PhD in Statistics; co-advised with Leah Johnson)
 
 ## Teaching
 
-[FREC 3044: Environmental Data Science](https://github.com/EcoDynForecast/FREC3004_EnvInformatics_Class)  
+[FREC 3044: Environmental Data Science](https://github.com/frec-3044)  
 FREC 5884: Ecological Forecasting  
 FREC 3604: Climate Science  
 FREC 5034: Ecosystem Dynamics  
