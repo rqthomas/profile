@@ -36,6 +36,8 @@ Lead PI of an NSF sponsored 5-year project that is leading workshops, conference
 
 *Other current projects*
 
+[LTREB: Integrating real-time open data pipelines and forecasting to quantify ecosystem predictability at day to decadal scales](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2327030&HistoricalAwards=false)
+
 [Democratized Cyberinfrastructure for Open Discovery to Enable Research (OAC-2209866)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2209866&HistoricalAwards=false)
 
 [Cyberinfrastructure Enabling End-to-End Workflows for Aquatic Ecosystem Forecasting (DBI-1933016)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1933016&HistoricalAwards=false)
@@ -82,7 +84,7 @@ Lead PI of an NSF sponsored 5-year project that is leading workshops, conference
 
 *Recent (2023 - )*
 
-Clark, C.M., J. Phelan, J. Ash, J. Buckley, J. Cajka, K. Horn, R.Q. Thomas, R. Sabo, Future climate change effects on U.S. forest composition may offset benefits of reduced atmospheric deposition of N and S. Accepted at *Global Change Biology* 
+Clark, C.M., J. Phelan, J. Ash, J. Buckley, J. Cajka, K. Horn, R.Q. Thomas, R. Sabo, Future climate change effects on U.S. forest composition may offset benefits of reduced atmospheric deposition of N and S. In Press at *Global Change Biology* [https://doi.org/10.1111/gcb.16817]( https://doi.org/10.1111/gcb.16817)
 
 Clark, C.M., R.Q. Thomas, and K.J. Horn. 2023. Above-ground tree carbon storage in response to nitrogen deposition in the U.S. is heterogeneous and may have weakened.  *Communications Earth & Environment* 4: 35 [https://doi.org/10.1038/s43247-023-00677-w](https://doi.org/10.1038/s43247-023-00677-w)
 
@@ -117,7 +119,7 @@ Wheeler, K., M. Dietze, D. LeBauer, J. Peters, A.D. Richardson, R.Q. Thomas, K. 
 
 ## Bio
 
-[Click for full C.V.](assets/RQ_Thomas_CV.pdf)
+<!---[Click for full C.V.](assets/RQ_Thomas_CV.pdf)-->
 
 A.B. Dartmouth College, Hanover, NH (2001 - 2005)  
 
