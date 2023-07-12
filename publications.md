@@ -17,7 +17,7 @@ Clark, C.M., J. Phelan, J. Ash, J. Buckley, J. Cajka, K. Horn, R.Q. Thomas, R. S
 
 Dietze, M., R.Q. Thomas, J. Peters, C. Boettiger, A. Shiklomanov, and J. Ashander. A community convention for ecological forecasting: output files and metadata v1.0. Accepted at *Ecosphere* Pre-print: [https://doi.org/10.32942/osf.io/9dgtq](https://doi.org/10.32942/osf.io/9dgtq)
 
-Woelmer, W.M., T.N. Moore, M.E. Lofton, R.Q. Thomas, and C.C. Carey. Embedding communication concepts in forecasting training increases students' understanding of ecological uncertainty. Accepted at *Ecosphere* Pre-print: [https://www.authorea.com/doi/full/10.22541/au.167994830.07106605/v1](https://www.authorea.com/doi/full/10.22541/au.167994830.07106605/v1)
+Woelmer, W.M., T.N. Moore, M.E. Lofton, R.Q. Thomas, and C.C. Carey. Embedding communication concepts in forecasting training increases students' understanding of ecological uncertainty. In Press at *Ecosphere* [https://doi.org/10.1002/ecs2.4628](https://doi.org/10.1002/ecs2.4628)
 
 Smith, J.W., L.R. Johnson, and R.Q. Thomas. Embedding positive process models into lognormal Bayesian state space frameworks using moment matching. Accepted at *Environmental and Ecological Statistics* Pre-print: [https://doi.org/10.48550/arXiv.2212.10697](https://doi.org/10.48550/arXiv.2212.10697)
 

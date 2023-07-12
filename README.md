@@ -104,7 +104,7 @@ Thomas, R.Q, R.P. McClure, T.N. Moore, W.M. Woelmer, C. Boettiger, R.J. Figueire
 
 Willson, A.M., H. Gallo, J.A. Peters, A. Abeyta, N. Bueno Watts, C.C. Carey, T.N. Moore, G. Smies, R.Q. Thomas, W.M. Woelmer, and J.S. McLachlan. 2023. Assessing opportunities and inequities in undergraduate ecological forecasting education. *Ecology and Evolution* 13: e10001. [https://doi.org/10.1002/ece3.10001](https://doi.org/10.1002/ece3.10001)
 
-Woelmer, W.M., T.N. Moore, M.E. Lofton, R.Q. Thomas, and C.C. Carey. Embedding communication concepts in forecasting training increases students' understanding of ecological uncertainty. Accepted at *Ecosphere* Pre-print: [https://www.authorea.com/doi/full/10.22541/au.167994830.07106605/v1](https://www.authorea.com/doi/full/10.22541/au.167994830.07106605/v1)
+Woelmer, W.M., T.N. Moore, M.E. Lofton, R.Q. Thomas, and C.C. Carey. Embedding communication concepts in forecasting training increases students' understanding of ecological uncertainty. In Press at *Ecosphere* [https://doi.org/10.1002/ecs2.4628](https://doi.org/10.1002/ecs2.4628)
 
 Wynne, J. H., W. M. Woelmer, T. N. Moore, R.Q. Thomas, K C. Weathers, C. C. Carey. 2023. Uncertainty in projections of future lake thermal dynamics is differentially driven by global climate models and lake models. *PeerJ* 11:e15445 [https://doi.org/10.7717/peerj.15445](https://doi.org/10.7717/peerj.15445)
 
