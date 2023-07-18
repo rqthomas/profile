@@ -94,9 +94,9 @@ Hounshell, A.G., B. M. D’Acunha, A. Breef-Pilz, M.S. Johnson, R. Quinn Thomas,
 
 Lofton, M.E., D.W. Howard, R.Q. Thomas, C. C Carey. 2023. Progress and opportunities in advancing near-term forecasting of freshwater quality. *Global Change Biology* 29: 1691-1714 [https://doi.org/10.1111/gcb.16590](https://doi.org/10.1111/gcb.16590)
 
-Smith, J.W., L.R. Johnson, and R.Q. Thomas. 2023. Assessing Ecosystem State Space Models: Identifiability and Estimation. Accepted at *Journal of Agriculture, Biological and Environmental Statistics* [https://doi.org/10.1007/s13253-023-00531-8](https://doi.org/10.1007/s13253-023-00531-8)
+Smith, J.W., L.R. Johnson, and R.Q. Thomas. 2023. Assessing Ecosystem State Space Models: Identifiability and Estimation. Accepted at *Journal of Agriculture, Biological and Environmental Statistics* Awaiting issue. [https://doi.org/10.1007/s13253-023-00531-8](https://doi.org/10.1007/s13253-023-00531-8)
 
-Smith, J.W., L.R. Johnson, and R.Q. Thomas. Embedding positive process models into lognormal Bayesian state space frameworks using moment matching. Accepted at *Environmental and Ecological Statistics* Pre-print: [https://doi.org/10.48550/arXiv.2212.10697](https://doi.org/10.48550/arXiv.2212.10697)
+Smith, J.W., L.R. Johnson, and R.Q. Thomas. 2023. Parameterizing Lognormal state space models using moment matching. *Environmental and Ecological Statistics* Awaiting issue. [https://doi.org/10.1007/s10651-023-00570-x](https://doi.org/10.1007/s10651-023-00570-x)
 
 Thomas, R.Q., C. Boettiger, C.C. Carey, M.C. Dietze, L.R. Johnson, M.A. Kenney, J.S. Mclachlan, J.A. Peters, E.R. Sokol, J.F. Weltzin, A. Willson, W.M. Woelmer, and Challenge Contributors. 2023. The NEON Ecological Forecasting Challenge. *Frontiers in Ecology and Environment* 21: 112-113. [https://doi.org/10.1002/fee.2616](https://doi.org/10.1002/fee.2616)
 
