@@ -7,7 +7,7 @@ layout: default
 
 ## Pre-prints undergoing peer-review
 
-Olsson, F, T.N. Moore, C.C. Carey, A. Breef-Pilz, and R.Q. Thomas. 2023. A multi-model ensemble of baseline and process-based models improves the predictive skill of near-term lake forecasts. *ESS Open Archive*
+Olsson, F, T.N. Moore, C.C. Carey, A. Breef-Pilz, and R.Q. Thomas. 2023. A multi-model ensemble of baseline and process-based models improves the predictive skill of near-term lake forecasts. *ESS Open Archive* [https://doi.org/10.22541/essoar.169049097.75300247/v1](https://doi.org/10.22541/essoar.169049097.75300247/v1)
 
 Wander, H.L., R.Q Thomas, T.N. Moore, M.E. Lofton, A. Breef-Pilz, C.C. Carey. Data availability affects forecast skill of 1 to 35-day water temperature forecasts in a eutrophic drinking water reservoir. *ESS Open Archive* [https://doi.org/10.22541/essoar.168500255.59108131/v1](https://doi.org/10.22541/essoar.168500255.59108131/v1)
 
@@ -15,13 +15,12 @@ Wheeler, K., M. Dietze, D. LeBauer, J. Peters, A.D. Richardson, R.Q. Thomas, K. 
 
 ## Accepted or In Press
 
-Clark, C.M., J. Phelan, J. Ash, J. Buckley, J. Cajka, K. Horn, R.Q. Thomas, R. Sabo, Future climate change effects on U.S. forest composition may offset benefits of reduced atmospheric deposition of N and S. In Press at *Global Change Biology* [http://doi.org/10.1111/gcb.16817]( http://doi.org/10.1111/gcb.16817)
-
 Dietze, M., R.Q. Thomas, J. Peters, C. Boettiger, A. Shiklomanov, and J. Ashander. A community convention for ecological forecasting: output files and metadata v1.0. Accepted at *Ecosphere* Pre-print: [https://doi.org/10.32942/osf.io/9dgtq](https://doi.org/10.32942/osf.io/9dgtq)
 
-Woelmer, W.M., T.N. Moore, M.E. Lofton, R.Q. Thomas, and C.C. Carey. Embedding communication concepts in forecasting training increases students' understanding of ecological uncertainty. In Press at *Ecosphere* [https://doi.org/10.1002/ecs2.4628](https://doi.org/10.1002/ecs2.4628)
 
 ## 2023
+
+Clark, C.M., J. Phelan, J. Ash, J. Buckley, J. Cajka, K. Horn, R.Q. Thomas, R. Sabo. 2023. Future climate change effects on U.S. forest composition may offset benefits of reduced atmospheric deposition of N and S. *Global Change Biology* 29:4793-4810 [http://doi.org/10.1111/gcb.16817]( http://doi.org/10.1111/gcb.16817)
 
 Clark, C.M., R.Q. Thomas, and K.J. Horn. 2023. Above-ground tree carbon storage in response to nitrogen deposition in the U.S. is heterogeneous and may have weakened.  *Communications Earth & Environment* 4: 35 [https://doi.org/10.1038/s43247-023-00677-w](https://doi.org/10.1038/s43247-023-00677-w)
 
@@ -38,6 +37,8 @@ Thomas, R.Q., C. Boettiger, C.C. Carey, M.C. Dietze, L.R. Johnson, M.A. Kenney, 
 Thomas, R.Q, R.P. McClure, T.N. Moore, W.M. Woelmer, C. Boettiger, R.J. Figueiredo, R.T. Hensley, C.C. Carey. Near-term forecasts of NEON lakes reveal gradients of environmental predictability across the U.S. *Frontiers in Ecology and Environment* 21: 220–226 [https://doi.org/10.1002/fee.2623](https://doi.org/10.1002/fee.2623)
 
 Willson, A.M., H. Gallo, J.A. Peters, A. Abeyta, N. Bueno Watts, C.C. Carey, T.N. Moore, G. Smies, R.Q. Thomas, W.M. Woelmer, and J.S. McLachlan. 2023. Assessing opportunities and inequities in undergraduate ecological forecasting education. *Ecology and Evolution* 13: e10001. [https://doi.org/10.1002/ece3.10001](https://doi.org/10.1002/ece3.10001)
+
+Woelmer, W.M., T.N. Moore, M.E. Lofton, R.Q. Thomas, and C.C. Carey. 2023. Embedding communication concepts in forecasting training increases students' understanding of ecological uncertainty *Ecosphere* 14: e4628 [https://doi.org/10.1002/ecs2.4628](https://doi.org/10.1002/ecs2.4628)
 
 Wynne, J. H., W. M. Woelmer, T. N. Moore, R.Q. Thomas, K C. Weathers, C. C. Carey. 2023. Uncertainty in projections of future lake thermal dynamics is differentially driven by global climate models and lake models. *PeerJ* 11:e15445 [https://doi.org/10.7717/peerj.15445](https://doi.org/10.7717/peerj.15445)
 

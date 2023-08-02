@@ -36,7 +36,7 @@ Lead PI of an NSF sponsored 5-year project that is leading workshops, conference
 
 *Other current projects*
 
-[LTREB: Integrating real-time open data pipelines and forecasting to quantify ecosystem predictability at day to decadal scales](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2327030&HistoricalAwards=false)
+[LTREB: Integrating real-time open data pipelines and forecasting to quantify ecosystem predictability at day to decadal scales (DEB-2327030)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2327030&HistoricalAwards=false)
 
 [Democratized Cyberinfrastructure for Open Discovery to Enable Research (OAC-2209866)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2209866&HistoricalAwards=false)
 
@@ -84,7 +84,7 @@ Lead PI of an NSF sponsored 5-year project that is leading workshops, conference
 
 *Recent (2023 - )*
 
-Clark, C.M., J. Phelan, J. Ash, J. Buckley, J. Cajka, K. Horn, R.Q. Thomas, R. Sabo, Future climate change effects on U.S. forest composition may offset benefits of reduced atmospheric deposition of N and S. In Press at *Global Change Biology* [https://doi.org/10.1111/gcb.16817]( https://doi.org/10.1111/gcb.16817)
+Clark, C.M., J. Phelan, J. Ash, J. Buckley, J. Cajka, K. Horn, R.Q. Thomas, R. Sabo. 2023. Future climate change effects on U.S. forest composition may offset benefits of reduced atmospheric deposition of N and S. *Global Change Biology* 29:4793-4810 [http://doi.org/10.1111/gcb.16817]( http://doi.org/10.1111/gcb.16817)
 
 Clark, C.M., R.Q. Thomas, and K.J. Horn. 2023. Above-ground tree carbon storage in response to nitrogen deposition in the U.S. is heterogeneous and may have weakened.  *Communications Earth & Environment* 4: 35 [https://doi.org/10.1038/s43247-023-00677-w](https://doi.org/10.1038/s43247-023-00677-w)
 
@@ -104,7 +104,7 @@ Thomas, R.Q, R.P. McClure, T.N. Moore, W.M. Woelmer, C. Boettiger, R.J. Figueire
 
 Willson, A.M., H. Gallo, J.A. Peters, A. Abeyta, N. Bueno Watts, C.C. Carey, T.N. Moore, G. Smies, R.Q. Thomas, W.M. Woelmer, and J.S. McLachlan. 2023. Assessing opportunities and inequities in undergraduate ecological forecasting education. *Ecology and Evolution* 13: e10001. [https://doi.org/10.1002/ece3.10001](https://doi.org/10.1002/ece3.10001)
 
-Woelmer, W.M., T.N. Moore, M.E. Lofton, R.Q. Thomas, and C.C. Carey. Embedding communication concepts in forecasting training increases students' understanding of ecological uncertainty. In Press at *Ecosphere* [https://doi.org/10.1002/ecs2.4628](https://doi.org/10.1002/ecs2.4628)
+Woelmer, W.M., T.N. Moore, M.E. Lofton, R.Q. Thomas, and C.C. Carey. 2023. Embedding communication concepts in forecasting training increases students' understanding of ecological uncertainty *Ecosphere* 14: e4628 [https://doi.org/10.1002/ecs2.4628](https://doi.org/10.1002/ecs2.4628)
 
 Wynne, J. H., W. M. Woelmer, T. N. Moore, R.Q. Thomas, K C. Weathers, and C. C. Carey. 2023. Uncertainty in projections of future lake thermal dynamics is differentially driven by global climate models and lake models. *PeerJ* 11:e15445 [https://doi.org/10.7717/peerj.15445](https://doi.org/10.7717/peerj.15445)
 
