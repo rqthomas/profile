@@ -94,7 +94,7 @@ Hounshell, A.G., B. M. D’Acunha, A. Breef-Pilz, M.S. Johnson, R. Quinn Thomas,
 
 Lofton, M.E., D.W. Howard, R.Q. Thomas, C. C Carey. 2023. Progress and opportunities in advancing near-term forecasting of freshwater quality. *Global Change Biology* 29: 1691-1714 [https://doi.org/10.1111/gcb.16590](https://doi.org/10.1111/gcb.16590)
 
-Smith, J.W., L.R. Johnson, and R.Q. Thomas. 2023. Assessing Ecosystem State Space Models: Identifiability and Estimation. *Journal of Agriculture, Biological and Environmental Statistics*. Awaiting issue. [https://doi.org/10.1007/s13253-023-00531-8](https://doi.org/10.1007/s13253-023-00531-8)
+Smith, J.W., L.R. Johnson, and R.Q. Thomas. 2023. Assessing Ecosystem State Space Models: Identifiability and Estimation. *Journal of Agriculture, Biological and Environmental Statistics* 28: 442–465 [https://doi.org/10.1007/s13253-023-00531-8](https://doi.org/10.1007/s13253-023-00531-8)
 
 Smith, J.W., L.R. Johnson, and R.Q. Thomas. 2023. Parameterizing Lognormal state space models using moment matching. *Environmental and Ecological Statistics*. Awaiting issue. [https://doi.org/10.1007/s10651-023-00570-x](https://doi.org/10.1007/s10651-023-00570-x)
 
