@@ -36,6 +36,8 @@ Lead PI of an NSF sponsored 5-year project that is leading workshops, conference
 
 *Other current projects*
 
+[Collaborative Research: URoL:ASC: Applying rules of life to forecast emergent behavior of phytoplankton and advance water quality management (EF-2318861)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2318861)
+
 [LTREB: Integrating real-time open data pipelines and forecasting to quantify ecosystem predictability at day to decadal scales (DEB-2327030)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2327030&HistoricalAwards=false)
 
 [Democratized Cyberinfrastructure for Open Discovery to Enable Research (OAC-2209866)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2209866&HistoricalAwards=false)
