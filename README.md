@@ -50,6 +50,8 @@ Lead PI of an NSF sponsored 5-year project that is leading workshops, conference
 
 ## In the news
 
+[Scientists spurred by a thirst to transform the field of phytoplankton forecasting - VT News](https://news.vt.edu/articles/2023/08/flsi-nsf-grant-cayelan-carey.html?utm_source=cmpgn_news&utm_medium=email&utm_campaign=vtUnirelNewsDailyCMP_080923-fs)
+
 [Building the tools to make environmental data more accessible and forecasts more accurate - VT News](https://vtx.vt.edu/articles/2022/10/cnre-thomas-nsf-grant.html?utm_campaign=vtUnirelNewsDailyCMP_101722-fs&utm_medium=email&utm_source=cmpgn_news)   
 
 [A vicious cycle of oxygen loss threatens water quality in lakes - VT News](https://vtx.vt.edu/articles/2022/05/science-freshwater_lakes_losing_oxygen.html)   
