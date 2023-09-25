@@ -46,6 +46,8 @@ Lead PI of an NSF sponsored 5-year project that is leading workshops, conference
 
 [Macrosystems EDDIE: An undergraduate training program in macrosystems science and ecological forecasting (DEB-1926050)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1926050&HistoricalAwards=false)
 
+[Global Centers Track 2: Building the Global Center for Forecasting Freshwater Futures (OISE-2330211)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2330211&HistoricalAwards=false)
+
 [top](#ecosystem-dynamics-and-forecasting)
 
 ## In the news
@@ -100,7 +102,7 @@ Lofton, M.E., D.W. Howard, R.Q. Thomas, C. C Carey. 2023. Progress and opportuni
 
 Smith, J.W., L.R. Johnson, and R.Q. Thomas. 2023. Assessing Ecosystem State Space Models: Identifiability and Estimation. *Journal of Agriculture, Biological and Environmental Statistics* 28: 442–465 [https://doi.org/10.1007/s13253-023-00531-8](https://doi.org/10.1007/s13253-023-00531-8)
 
-Smith, J.W., L.R. Johnson, and R.Q. Thomas. 2023. Parameterizing Lognormal state space models using moment matching. *Environmental and Ecological Statistics*. Awaiting issue. [https://doi.org/10.1007/s10651-023-00570-x](https://doi.org/10.1007/s10651-023-00570-x)
+Smith, J.W., L.R. Johnson, and R.Q. Thomas. 2023. Parameterizing Lognormal state space models using moment matching. *Environmental and Ecological Statistics* 30: 385-419. [https://doi.org/10.1007/s10651-023-00570-x](https://doi.org/10.1007/s10651-023-00570-x)
 
 Thomas, R.Q., C. Boettiger, C.C. Carey, M.C. Dietze, L.R. Johnson, M.A. Kenney, J.S. Mclachlan, J.A. Peters, E.R. Sokol, J.F. Weltzin, A. Willson, W.M. Woelmer, and Challenge Contributors. 2023. The NEON Ecological Forecasting Challenge. *Frontiers in Ecology and Environment* 21: 112-113. [https://doi.org/10.1002/fee.2616](https://doi.org/10.1002/fee.2616)
 
