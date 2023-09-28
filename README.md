@@ -50,15 +50,17 @@ Lead PI of an NSF sponsored 5-year project that is leading workshops, conference
 
 [top](#ecosystem-dynamics-and-forecasting)
 
-## In the news
+## In The News
 
-[Scientists spurred by a thirst to transform the field of phytoplankton forecasting - VT News](https://news.vt.edu/articles/2023/08/flsi-nsf-grant-cayelan-carey.html?utm_source=cmpgn_news&utm_medium=email&utm_campaign=vtUnirelNewsDailyCMP_080923-fs)
+[Researchers cross international boundaries to predict better water quality - VT News](https://news.vt.edu/articles/2023/09/flsi-cayelan-carey-quinn-thomas-nsf-global-center-design-grant.html)
 
-[Building the tools to make environmental data more accessible and forecasts more accurate - VT News](https://vtx.vt.edu/articles/2022/10/cnre-thomas-nsf-grant.html?utm_campaign=vtUnirelNewsDailyCMP_101722-fs&utm_medium=email&utm_source=cmpgn_news)   
+[Scientists spurred by a thirst to transform the field of phytoplankton forecasting - VT News](https://news.vt.edu/articles/2023/08/flsi-nsf-grant-cayelan-carey.html)
+
+[Building the tools to make environmental data more accessible and forecasts more accurate - VT News](https://vtx.vt.edu/articles/2022/10/cnre-thomas-nsf-grant.html)   
 
 [A vicious cycle of oxygen loss threatens water quality in lakes - VT News](https://vtx.vt.edu/articles/2022/05/science-freshwater_lakes_losing_oxygen.html)   
 
-[Fewer ticks, cleaner water, and more carbon intake: Fellowship recipient Quinn Thomas plans to use data to predict our environment - VT News](https://vtx.vt.edu/articles/2021/12/cnre-quinn-thomas-data-science-fellowship.html?utm_source=cmpgn_news&utm_medium=email&utm_campaign=vtUnirelNewsDailyCMP_011022-fs)   
+[Fewer ticks, cleaner water, and more carbon intake: Fellowship recipient Quinn Thomas plans to use data to predict our environment - VT News](https://vtx.vt.edu/articles/2021/12/cnre-quinn-thomas-data-science-fellowship.html)   
 
 [Virginia Tech pioneers smart reservoirs - Roanoke Times](https://roanoke.com/news/local/virginia-tech-pioneers-smart-reservoirs/article_b7b7330e-35a5-11eb-a443-b3f621f19df6.html#tracking-source=home-top-story-1)
 
