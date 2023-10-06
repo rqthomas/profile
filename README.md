@@ -52,7 +52,7 @@ Lead PI of an NSF sponsored 5-year project that is leading workshops, conference
 
 ## In The News
 
-[Diving Into the Future of Freshwater Forecasting - NEON Science][https://www.neonscience.org/impact/observatory-blog/diving-future-freshwater-forecasting]
+[Diving Into the Future of Freshwater Forecasting - NEON Science](https://www.neonscience.org/impact/observatory-blog/diving-future-freshwater-forecasting)
 
 [Researchers cross international boundaries to predict better water quality - VT News](https://news.vt.edu/articles/2023/09/flsi-cayelan-carey-quinn-thomas-nsf-global-center-design-grant.html)
 
