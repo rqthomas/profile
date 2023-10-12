@@ -17,6 +17,8 @@ Wheeler, K., M. Dietze, D. LeBauer, J. Peters, A.D. Richardson, R.Q. Thomas, K. 
 
 Dietze, M., R.Q. Thomas, J. Peters, C. Boettiger, A. Shiklomanov, and J. Ashander. A community convention for ecological forecasting: output files and metadata v1.0. Accepted at *Ecosphere* Pre-print: [https://doi.org/10.32942/osf.io/9dgtq](https://doi.org/10.32942/osf.io/9dgtq)
 
+McNellis, R., N. Smith, R.Q. Thomas, and N. van Gestel. Winter cover cropping increases albedo and latent heat flux in a Texas High Plains agro-ecosystem. Accepted at *Ecosphere*. 
+
 
 ## 2023
 
