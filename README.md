@@ -98,13 +98,15 @@ Clark, C.M., J. Phelan, J. Ash, J. Buckley, J. Cajka, K. Horn, R.Q. Thomas, R. S
 
 Clark, C.M., R.Q. Thomas, and K.J. Horn. 2023. Above-ground tree carbon storage in response to nitrogen deposition in the U.S. is heterogeneous and may have weakened.  *Communications Earth & Environment* 4: 35 [https://doi.org/10.1038/s43247-023-00677-w](https://doi.org/10.1038/s43247-023-00677-w)
 
-Dietze, M., R.Q. Thomas, J. Peters, C. Boettiger, A. Shiklomanov, and J. Ashander. A community convention for ecological forecasting: output files and metadata v1.0. Accepted at *Ecosphere* Pre-print: [https://doi.org/10.32942/osf.io/9dgtq](https://doi.org/10.32942/osf.io/9dgtq)
+Dietze, M., R.Q. Thomas, J. Peters, C. Boettiger, A. Shiklomanov, and J. Ashander. A community convention for ecological forecasting: output files and metadata v1.0. Accepted at *Ecosphere* [https://doi.org/10.1002/ecs2.4686](https://doi.org/10.1002/ecs2.4686)
 
 Hounshell, A.G., B. M. D’Acunha, A. Breef-Pilz, M.S. Johnson, R. Quinn Thomas, C.C. Carey. 2023. Eddy covariance data reveal that a small freshwater reservoir emits a substantial amount of carbon dioxide and methane. *Journal Geophysical Research - Biogeosciences* 128: e2022JG007091 [https://doi.org/10.1029/2022JG007091](https://doi.org/10.1029/2022JG007091)
 
 Lofton, M.E., D.W. Howard, R.Q. Thomas, C. C Carey. 2023. Progress and opportunities in advancing near-term forecasting of freshwater quality. *Global Change Biology* 29: 1691-1714 [https://doi.org/10.1111/gcb.16590](https://doi.org/10.1111/gcb.16590)
 
 McNellis, R., N. Smith, R.Q. Thomas, and N. van Gestel. Winter cover cropping increases albedo and latent heat flux in a Texas High Plains agro-ecosystem. Accepted at *Ecosphere*. 
+
+Meyer, M.F., M.E. Harlan, R.T. Hensley, Q. Zhan, N.S. Börekçi, T. Bucak, A.N. Cramer, J.Feldbauer, R. Ladwig, J.P. Mesman, I.A. Oleksy, R.M. Pilla, J.A. Zwart, E. Calamita, N.J. Gubbins, M.E. Lofton, D.A. Maciel, N.S. Marzolf, F. Olsson, A.N. Thellman, R.Q.Thomas, M.J. Vlah. 2023. Hacking Limnology Workshops and DSOS23: Growing a Workforce for the Nexus of Data Science, Open Science, and the Aquatic Sciences. Limnology and Oceanography Bulletin. [https://doi.org/10.1002/lob.10607](https://doi.org/10.1002/lob.10607)
 
 Smith, J.W., L.R. Johnson, and R.Q. Thomas. 2023. Assessing Ecosystem State Space Models: Identifiability and Estimation. *Journal of Agriculture, Biological and Environmental Statistics* 28: 442–465 [https://doi.org/10.1007/s13253-023-00531-8](https://doi.org/10.1007/s13253-023-00531-8)
 
@@ -159,11 +161,19 @@ Data Science Faculty Fellow, College of Science, Virginia Tech, Blacksburg, VA (
 
 ## Team Members
 
+*Ph.D. students*
+
+Bibek Kandel
+
 *Post-docs*
 
 Mary Lofton (Co-mentored with Cayelan Carey)  
 Maike Holthuijzen (Co-mentored with Cayelan Carey)  
 Freya Olsson (Co-mentored with Cayelan Carey)  
+
+*Data Scientist*
+
+Austin Delany
 
 *Alumni*
 

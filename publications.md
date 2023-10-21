@@ -15,10 +15,11 @@ Wheeler, K., M. Dietze, D. LeBauer, J. Peters, A.D. Richardson, R.Q. Thomas, K. 
 
 ## Accepted or In Press
 
-Dietze, M., R.Q. Thomas, J. Peters, C. Boettiger, A. Shiklomanov, and J. Ashander. A community convention for ecological forecasting: output files and metadata v1.0. Accepted at *Ecosphere* Pre-print: [https://doi.org/10.32942/osf.io/9dgtq](https://doi.org/10.32942/osf.io/9dgtq)
+Dietze, M., R.Q. Thomas, J. Peters, C. Boettiger, A. Shiklomanov, and J. Ashander. A community convention for ecological forecasting: output files and metadata v1.0. Accepted at *Ecosphere* [https://doi.org/10.1002/ecs2.4686](https://doi.org/10.1002/ecs2.4686)
 
 McNellis, R., N. Smith, R.Q. Thomas, and N. van Gestel. Winter cover cropping increases albedo and latent heat flux in a Texas High Plains agro-ecosystem. Accepted at *Ecosphere*. 
 
+Meyer, M.F., M.E. Harlan, R.T. Hensley, Q. Zhan, N.S. Börekçi, T. Bucak, A.N. Cramer, J.Feldbauer, R. Ladwig, J.P. Mesman, I.A. Oleksy, R.M. Pilla, J.A. Zwart, E. Calamita, N.J. Gubbins, M.E. Lofton, D.A. Maciel, N.S. Marzolf, F. Olsson, A.N. Thellman, R.Q.Thomas, M.J. Vlah. 2023. Hacking Limnology Workshops and DSOS23: Growing a Workforce for the Nexus of Data Science, Open Science, and the Aquatic Sciences. Limnology and Oceanography Bulletin. [https://doi.org/10.1002/lob.10607](https://doi.org/10.1002/lob.10607)
 
 ## 2023
 
