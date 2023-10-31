@@ -9,8 +9,6 @@ layout: default
 
 Olsson, F, T.N. Moore, C.C. Carey, A. Breef-Pilz, and R.Q. Thomas. 2023. A multi-model ensemble of baseline and process-based models improves the predictive skill of near-term lake forecasts. *ESS Open Archive* [https://doi.org/10.22541/essoar.169049097.75300247/v1](https://doi.org/10.22541/essoar.169049097.75300247/v1)
 
-Wander, H.L., R.Q Thomas, T.N. Moore, M.E. Lofton, A. Breef-Pilz, C.C. Carey. Data availability affects forecast skill of 1 to 35-day water temperature forecasts in a eutrophic drinking water reservoir. *ESS Open Archive* [https://doi.org/10.22541/essoar.168500255.59108131/v1](https://doi.org/10.22541/essoar.168500255.59108131/v1)
-
 Wheeler, K., M. Dietze, D. LeBauer, J. Peters, A.D. Richardson, R.Q. Thomas, K. Zhu, U. Bhat, S. Munch, R.F Buzbee, M. Chen, B. Goldstein, J.S. Guo, D. Hao, C. Jones, M. Kelly-Fair, H. Liu, C. Malmborg, N. Neupane. D. Pal, A. Ross, V. Shirey, Y. Song, M. Steen, E.A. Vance, W.M. Woelmer, J. Wynne and L. Zachmann. Predicting Spring Phenology in Deciduous Broadleaf Forests: An Open Community Forecast Challenge. *SSRN* [http://dx.doi.org/10.2139/ssrn.4357147](http://dx.doi.org/10.2139/ssrn.4357147)
 
 ## Accepted or In Press
@@ -20,6 +18,8 @@ Dietze, M., R.Q. Thomas, J. Peters, C. Boettiger, A. Shiklomanov, and J. Ashande
 McNellis, R., N. Smith, R.Q. Thomas, and N. van Gestel. Winter cover cropping increases albedo and latent heat flux in a Texas High Plains agro-ecosystem. Accepted at *Ecosphere*. 
 
 Meyer, M.F., M.E. Harlan, R.T. Hensley, Q. Zhan, N.S. Börekçi, T. Bucak, A.N. Cramer, J.Feldbauer, R. Ladwig, J.P. Mesman, I.A. Oleksy, R.M. Pilla, J.A. Zwart, E. Calamita, N.J. Gubbins, M.E. Lofton, D.A. Maciel, N.S. Marzolf, F. Olsson, A.N. Thellman, R.Q.Thomas, M.J. Vlah. 2023. Hacking Limnology Workshops and DSOS23: Growing a Workforce for the Nexus of Data Science, Open Science, and the Aquatic Sciences. Limnology and Oceanography Bulletin. [https://doi.org/10.1002/lob.10607](https://doi.org/10.1002/lob.10607)
+
+Wander, H.L., R.Q Thomas, T.N. Moore, M.E. Lofton, A. Breef-Pilz, C.C. Carey. Data assimilation experiments inform monitoring needs for near-term ecological forecasts in a eutrophic reservoir. Accepted at *Ecosphere* Pre-print: [https://doi.org/10.22541/essoar.168500255.59108131/v1](https://doi.org/10.22541/essoar.168500255.59108131/v1)
 
 ## 2023
 

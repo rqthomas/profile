@@ -116,6 +116,8 @@ Thomas, R.Q., C. Boettiger, C.C. Carey, M.C. Dietze, L.R. Johnson, M.A. Kenney, 
 
 Thomas, R.Q, R.P. McClure, T.N. Moore, W.M. Woelmer, C. Boettiger, R.J. Figueiredo, R.T. Hensley, C.C. Carey. Near-term forecasts of NEON lakes reveal gradients of environmental predictability across the U.S. *Frontiers in Ecology and Environment* 21: 220–226. [https://doi.org/10.1002/fee.2623](https://doi.org/10.1002/fee.2623)
 
+Wander, H.L., R.Q Thomas, T.N. Moore, M.E. Lofton, A. Breef-Pilz, C.C. Carey. Data assimilation experiments inform monitoring needs for near-term ecological forecasts in a eutrophic reservoir. Accepted at *Ecosphere* Pre-print: [https://doi.org/10.22541/essoar.168500255.59108131/v1](https://doi.org/10.22541/essoar.168500255.59108131/v1)
+
 Willson, A.M., H. Gallo, J.A. Peters, A. Abeyta, N. Bueno Watts, C.C. Carey, T.N. Moore, G. Smies, R.Q. Thomas, W.M. Woelmer, and J.S. McLachlan. 2023. Assessing opportunities and inequities in undergraduate ecological forecasting education. *Ecology and Evolution* 13: e10001. [https://doi.org/10.1002/ece3.10001](https://doi.org/10.1002/ece3.10001)
 
 Woelmer, W.M., T.N. Moore, M.E. Lofton, R.Q. Thomas, and C.C. Carey. 2023. Embedding communication concepts in forecasting training increases students' understanding of ecological uncertainty *Ecosphere* 14: e4628 [https://doi.org/10.1002/ecs2.4628](https://doi.org/10.1002/ecs2.4628)
@@ -125,8 +127,6 @@ Wynne, J. H., W. M. Woelmer, T. N. Moore, R.Q. Thomas, K C. Weathers, and C. C. 
 *Pre-prints undergoing peer-review*    
 
 Olsson, F, T.N. Moore, C.C. Carey, A. Breef-Pilz, and R.Q. Thomas. 2023. A multi-model ensemble of baseline and process-based models improves the predictive skill of near-term lake forecasts. *ESS Open Archive* [https://doi.org/10.22541/essoar.169049097.75300247/v1](https://doi.org/10.22541/essoar.169049097.75300247/v1)
-
-Wander, H.L., R.Q Thomas, T.N. Moore, M.E. Lofton, A. Breef-Pilz, C.C. Carey. Data availability affects forecast skill of 1 to 35-day water temperature forecasts in a eutrophic drinking water reservoir. *ESS Open Archive* [https://doi.org/10.22541/essoar.168500255.59108131/v1](https://doi.org/10.22541/essoar.168500255.59108131/v1)
 
 Wheeler, K., M. Dietze, D. LeBauer, J. Peters, A.D. Richardson, R.Q. Thomas, K. Zhu, U. Bhat, S. Munch, R.F Buzbee, M. Chen, B. Goldstein, J.S. Guo, D. Hao, C. Jones, M. Kelly-Fair, H. Liu, C. Malmborg, N. Neupane. D. Pal, A. Ross, V. Shirey, Y. Song, M. Steen, E.A. Vance, W.M. Woelmer, J. Wynne and L. Zachmann. Predicting Spring Phenology in Deciduous Broadleaf Forests: An Open Community Forecast Challenge. *SSRN* [http://dx.doi.org/10.2139/ssrn.4357147](http://dx.doi.org/10.2139/ssrn.4357147)
 
