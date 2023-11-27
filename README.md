@@ -130,8 +130,6 @@ Wynne, J. H., W. M. Woelmer, T. N. Moore, R.Q. Thomas, K C. Weathers, and C. C. 
 
 Olsson, F, T.N. Moore, C.C. Carey, A. Breef-Pilz, and R.Q. Thomas. 2023. A multi-model ensemble of baseline and process-based models improves the predictive skill of near-term lake forecasts. *ESS Open Archive* [https://doi.org/10.22541/essoar.169049097.75300247/v1](https://doi.org/10.22541/essoar.169049097.75300247/v1)
 
-Wheeler, K., M. Dietze, D. LeBauer, J. Peters, A.D. Richardson, R.Q. Thomas, K. Zhu, U. Bhat, S. Munch, R.F Buzbee, M. Chen, B. Goldstein, J.S. Guo, D. Hao, C. Jones, M. Kelly-Fair, H. Liu, C. Malmborg, N. Neupane. D. Pal, A. Ross, V. Shirey, Y. Song, M. Steen, E.A. Vance, W.M. Woelmer, J. Wynne and L. Zachmann. Predicting Spring Phenology in Deciduous Broadleaf Forests: An Open Community Forecast Challenge. *SSRN* [http://dx.doi.org/10.2139/ssrn.4357147](http://dx.doi.org/10.2139/ssrn.4357147)
-
 
 [top](#ecosystem-dynamics-and-forecasting)
 
