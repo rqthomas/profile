@@ -25,7 +25,7 @@ Clark, C.M., J. Phelan, J. Ash, J. Buckley, J. Cajka, K. Horn, R.Q. Thomas, R. S
 
 Clark, C.M., R.Q. Thomas, and K.J. Horn. 2023. Above-ground tree carbon storage in response to nitrogen deposition in the U.S. is heterogeneous and may have weakened.  *Communications Earth & Environment* 4: 35 [https://doi.org/10.1038/s43247-023-00677-w](https://doi.org/10.1038/s43247-023-00677-w)
 
-Dietze, M., R.Q. Thomas, J. Peters, C. Boettiger, A. Shiklomanov, and J. Ashander. 2023. A community convention for ecological forecasting: output files and metadata v1.0. *Ecosphere* 14: e4686[https://doi.org/10.1002/ecs2.4686](https://doi.org/10.1002/ecs2.4686)
+Dietze, M., R.Q. Thomas, J. Peters, C. Boettiger, A. Shiklomanov, and J. Ashander. 2023. A community convention for ecological forecasting: output files and metadata v1.0. *Ecosphere* 14: e4686 [https://doi.org/10.1002/ecs2.4686](https://doi.org/10.1002/ecs2.4686)
 
 Hounshell, A.G., B. M. D’Acunha, A. Breef-Pilz, M.S. Johnson, R. Quinn Thomas, C.C. Carey. 2023. Eddy covariance data reveal that a small freshwater reservoir emits a substantial amount of carbon dioxide and methane. *Journal Geophysical Research - Biogeosciences* 128: e2022JG007091 [https://doi.org/10.1029/2022JG007091](https://doi.org/10.1029/2022JG007091)
 
