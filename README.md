@@ -130,6 +130,7 @@ Wynne, J. H., W. M. Woelmer, T. N. Moore, R.Q. Thomas, K C. Weathers, and C. C. 
 
 Olsson, F, T.N. Moore, C.C. Carey, A. Breef-Pilz, and R.Q. Thomas. 2023. A multi-model ensemble of baseline and process-based models improves the predictive skill of near-term lake forecasts. *ESS Open Archive* [https://doi.org/10.22541/essoar.169049097.75300247/v1](https://doi.org/10.22541/essoar.169049097.75300247/v1)
 
+Woelmer, W.M., R.Q. Thomas, F. Olsson, B.G. Steele, K.C. Weathers, and C.C. Carey.  2024. Process-Based Forecasts of Lake Water Temperature and Dissolved Oxygen Outperform Null Models, with Variability Over Time and Depth. SSRN. [http://dx.doi.org/10.2139/ssrn.4699835](http://dx.doi.org/10.2139/ssrn.4699835)
 
 [top](#ecosystem-dynamics-and-forecasting)
 
