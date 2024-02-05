@@ -108,6 +108,8 @@ McNellis, R., N. Smith, R.Q. Thomas, and N. van Gestel. Winter cover cropping in
 
 Meyer, M.F., M.E. Harlan, R.T. Hensley, Q. Zhan, N.S. Börekçi, T. Bucak, A.N. Cramer, J.Feldbauer, R. Ladwig, J.P. Mesman, I.A. Oleksy, R.M. Pilla, J.A. Zwart, E. Calamita, N.J. Gubbins, M.E. Lofton, D.A. Maciel, N.S. Marzolf, F. Olsson, A.N. Thellman, R.Q.Thomas, M.J. Vlah. 2023. Hacking Limnology Workshops and DSOS23: Growing a Workforce for the Nexus of Data Science, Open Science, and the Aquatic Sciences. *Limnology and Oceanography Bulletin*. [https://doi.org/10.1002/lob.10607](https://doi.org/10.1002/lob.10607)
 
+Olsson, F, T.N. Moore, C.C. Carey, A. Breef-Pilz, and R.Q. Thomas. 2024. A multi-model ensemble of baseline and process-based models improves the predictive skill of near-term lake forecasts. Accepted at *Water Resources Research* Pre-print: [https://doi.org/10.22541/essoar.169049097.75300247/v1](https://doi.org/10.22541/essoar.169049097.75300247/v1)
+
 Smith, J.W., L.R. Johnson, and R.Q. Thomas. 2023. Assessing Ecosystem State Space Models: Identifiability and Estimation. *Journal of Agriculture, Biological and Environmental Statistics* 28: 442–465 [https://doi.org/10.1007/s13253-023-00531-8](https://doi.org/10.1007/s13253-023-00531-8)
 
 Smith, J.W., L.R. Johnson, and R.Q. Thomas. 2023. Parameterizing Lognormal state space models using moment matching. *Environmental and Ecological Statistics* 30: 385-419. [https://doi.org/10.1007/s10651-023-00570-x](https://doi.org/10.1007/s10651-023-00570-x)
@@ -127,8 +129,6 @@ Woelmer, W.M., T.N. Moore, M.E. Lofton, R.Q. Thomas, and C.C. Carey. 2023. Embed
 Wynne, J. H., W. M. Woelmer, T. N. Moore, R.Q. Thomas, K C. Weathers, and C. C. Carey. 2023. Uncertainty in projections of future lake thermal dynamics is differentially driven by global climate models and lake models. *PeerJ* 11:e15445 [https://doi.org/10.7717/peerj.15445](https://doi.org/10.7717/peerj.15445)
 
 *Pre-prints undergoing peer-review*    
-
-Olsson, F, T.N. Moore, C.C. Carey, A. Breef-Pilz, and R.Q. Thomas. 2023. A multi-model ensemble of baseline and process-based models improves the predictive skill of near-term lake forecasts. *ESS Open Archive* [https://doi.org/10.22541/essoar.169049097.75300247/v1](https://doi.org/10.22541/essoar.169049097.75300247/v1)
 
 Woelmer, W.M., R.Q. Thomas, F. Olsson, B.G. Steele, K.C. Weathers, and C.C. Carey.  2024. Process-Based Forecasts of Lake Water Temperature and Dissolved Oxygen Outperform Null Models, with Variability Over Time and Depth. SSRN. [http://dx.doi.org/10.2139/ssrn.4699835](http://dx.doi.org/10.2139/ssrn.4699835)
 
