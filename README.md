@@ -7,7 +7,7 @@
 **Forecasting:**  We predict the future of ecosystems by combining observations and ecosystem models using statistical techniques.
 
 Data Science Faculty Fellow  
-[Co-lead of the Ecological Forecasting Project at Virginia Tech](https://ecoforecastprojectVT.org)   
+[Co-director of the Virginia Tech Center for Ecosystem Forecasting](https://ecoforecastprojectVT.org)   
 [Department of Forest Resources and Environmental Conservation &](https://frec.vt.edu) 
 [Department of Biological Sciences](https://biol.vt.edu)    
 [Virginia Tech](https://vt.edu)   
@@ -92,41 +92,15 @@ Lead PI of an NSF sponsored 5-year project that is leading workshops, conference
 
 [Click for a full list of publications](./publications.html)
 
-*Recent (2023 - )*
-
-Clark, C.M., J. Phelan, J. Ash, J. Buckley, J. Cajka, K. Horn, R.Q. Thomas, R. Sabo. 2023. Future climate change effects on U.S. forest composition may offset benefits of reduced atmospheric deposition of N and S. *Global Change Biology* 29:4793-4810 [http://doi.org/10.1111/gcb.16817]( http://doi.org/10.1111/gcb.16817)
-
-Clark, C.M., R.Q. Thomas, and K.J. Horn. 2023. Above-ground tree carbon storage in response to nitrogen deposition in the U.S. is heterogeneous and may have weakened.  *Communications Earth & Environment* 4: 35 [https://doi.org/10.1038/s43247-023-00677-w](https://doi.org/10.1038/s43247-023-00677-w)
-
-Dietze, M., R.Q. Thomas, J. Peters, C. Boettiger, A. Shiklomanov, and J. Ashander. 2023. A community convention for ecological forecasting: output files and metadata v1.0. *Ecosphere* 14: e4686 [https://doi.org/10.1002/ecs2.4686](https://doi.org/10.1002/ecs2.4686)
-
-Hounshell, A.G., B. M. D’Acunha, A. Breef-Pilz, M.S. Johnson, R. Quinn Thomas, C.C. Carey. 2023. Eddy covariance data reveal that a small freshwater reservoir emits a substantial amount of carbon dioxide and methane. *Journal Geophysical Research - Biogeosciences* 128: e2022JG007091 [https://doi.org/10.1029/2022JG007091](https://doi.org/10.1029/2022JG007091)
-
-Lofton, M.E., D.W. Howard, R.Q. Thomas, C. C Carey. 2023. Progress and opportunities in advancing near-term forecasting of freshwater quality. *Global Change Biology* 29: 1691-1714 [https://doi.org/10.1111/gcb.16590](https://doi.org/10.1111/gcb.16590)
+*Recent (2024 - )*
 
 McNellis, R., N. Smith, R.Q. Thomas, and N. van Gestel. Winter cover cropping increases albedo and latent heat flux in a Texas High Plains agro-ecosystem. Accepted at *Ecosphere*. 
 
-Meyer, M.F., M.E. Harlan, R.T. Hensley, Q. Zhan, N.S. Börekçi, T. Bucak, A.N. Cramer, J.Feldbauer, R. Ladwig, J.P. Mesman, I.A. Oleksy, R.M. Pilla, J.A. Zwart, E. Calamita, N.J. Gubbins, M.E. Lofton, D.A. Maciel, N.S. Marzolf, F. Olsson, A.N. Thellman, R.Q.Thomas, M.J. Vlah. 2023. Hacking Limnology Workshops and DSOS23: Growing a Workforce for the Nexus of Data Science, Open Science, and the Aquatic Sciences. *Limnology and Oceanography Bulletin*. [https://doi.org/10.1002/lob.10607](https://doi.org/10.1002/lob.10607)
-
 Olsson, F, T.N. Moore, C.C. Carey, A. Breef-Pilz, and R.Q. Thomas. 2024. A multi-model ensemble of baseline and process-based models improves the predictive skill of near-term lake forecasts. Accepted at *Water Resources Research* Pre-print: [https://doi.org/10.22541/essoar.169049097.75300247/v1](https://doi.org/10.22541/essoar.169049097.75300247/v1)
-
-Smith, J.W., L.R. Johnson, and R.Q. Thomas. 2023. Assessing Ecosystem State Space Models: Identifiability and Estimation. *Journal of Agriculture, Biological and Environmental Statistics* 28: 442–465 [https://doi.org/10.1007/s13253-023-00531-8](https://doi.org/10.1007/s13253-023-00531-8)
-
-Smith, J.W., L.R. Johnson, and R.Q. Thomas. 2023. Parameterizing Lognormal state space models using moment matching. *Environmental and Ecological Statistics* 30: 385-419. [https://doi.org/10.1007/s10651-023-00570-x](https://doi.org/10.1007/s10651-023-00570-x)
-
-Thomas, R.Q., C. Boettiger, C.C. Carey, M.C. Dietze, L.R. Johnson, M.A. Kenney, J.S. Mclachlan, J.A. Peters, E.R. Sokol, J.F. Weltzin, A. Willson, W.M. Woelmer, and Challenge Contributors. 2023. The NEON Ecological Forecasting Challenge. *Frontiers in Ecology and Environment* 21: 112-113. [https://doi.org/10.1002/fee.2616](https://doi.org/10.1002/fee.2616)
-
-Thomas, R.Q, R.P. McClure, T.N. Moore, W.M. Woelmer, C. Boettiger, R.J. Figueiredo, R.T. Hensley, C.C. Carey. Near-term forecasts of NEON lakes reveal gradients of environmental predictability across the U.S. *Frontiers in Ecology and Environment* 21: 220–226. [https://doi.org/10.1002/fee.2623](https://doi.org/10.1002/fee.2623)
-
-Wander, H.L., R.Q Thomas, T.N. Moore, M.E. Lofton, A. Breef-Pilz, C.C. Carey. Data assimilation experiments inform monitoring needs for near-term ecological forecasts in a eutrophic reservoir. Accepted at *Ecosphere* Pre-print: [https://doi.org/10.22541/essoar.168500255.59108131/v1](https://doi.org/10.22541/essoar.168500255.59108131/v1)
-
-Willson, A.M., H. Gallo, J.A. Peters, A. Abeyta, N. Bueno Watts, C.C. Carey, T.N. Moore, G. Smies, R.Q. Thomas, W.M. Woelmer, and J.S. McLachlan. 2023. Assessing opportunities and inequities in undergraduate ecological forecasting education. *Ecology and Evolution* 13: e10001. [https://doi.org/10.1002/ece3.10001](https://doi.org/10.1002/ece3.10001) 
 
 Wheeler, K., M. Dietze, D. LeBauer, J. Peters, A.D. Richardson, R.Q. Thomas, K. Zhu, U. Bhat, S. Munch, R.F Buzbee, M. Chen, B. Goldstein, J.S. Guo, D. Hao, C. Jones, M. Kelly-Fair, H. Liu, C. Malmborg, N. Neupane. D. Pal, A. Ross, V. Shirey, Y. Song, M. Steen, E.A. Vance, W.M. Woelmer, J. Wynne and L. Zachmann. 2024. Predicting Spring Phenology in Deciduous Broadleaf Forests: An Open Community Forecast Challenge. *Agricultural and Forest Meteorology* 345: 09810 [https://doi.org/10.1016/j.agrformet.2023.109810](https://doi.org/10.1016/j.agrformet.2023.109810)
 
-Woelmer, W.M., T.N. Moore, M.E. Lofton, R.Q. Thomas, and C.C. Carey. 2023. Embedding communication concepts in forecasting training increases students' understanding of ecological uncertainty *Ecosphere* 14: e4628 [https://doi.org/10.1002/ecs2.4628](https://doi.org/10.1002/ecs2.4628)
-
-Wynne, J. H., W. M. Woelmer, T. N. Moore, R.Q. Thomas, K C. Weathers, and C. C. Carey. 2023. Uncertainty in projections of future lake thermal dynamics is differentially driven by global climate models and lake models. *PeerJ* 11:e15445 [https://doi.org/10.7717/peerj.15445](https://doi.org/10.7717/peerj.15445)
+Wander, H.L., R.Q Thomas, T.N. Moore, M.E. Lofton, A. Breef-Pilz, C.C. Carey. 2024. Data assimilation experiments inform monitoring needs for near-term ecological forecasts in a eutrophic reservoir. *Ecosphere* 15: e4752. [https://doi.org/10.1002/ecs2.4752](https://doi.org/10.1002/ecs2.4752) 
 
 *Pre-prints undergoing peer-review*    
 
