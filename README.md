@@ -26,13 +26,13 @@ rqthomas@vt.edu
 
 [Ecological Forecasting Initiative Research Coordination Network](https://ecoforecast.org/rcn/) [(DEB-1926388)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1926388&HistoricalAwards=false)
 
-Lead PI of an NSF sponsored 5-year project that is leading workshops, conferences, and collaborative software development to address the following objectives:
-1. Define [community standards](https://ecoforecast.org/wp-content/uploads/2020/06/Forecasting-Standards-Draft-v0.1-2020-05.pdf) and [best practices](https://ecoforecast.org/reproducible-forecasting-workflows/) for developing, sharing, and archiving forecasts and models
-2. Increase the number and diversity of NEON-enabled [(National Ecological Observatory Network)](https://www.neonscience.org) forecasts by developing and hosting the [NEON Ecological Forecasting Challenge](https://ecoforecast.org/efi-rcn-forecast-challenges/)
-3. Create educational materials to empower scientists at all career stages to forecast using NEON data products
+Lead PI of an NSF-sponsored 5-year project that is leading workshops, conferences, and collaborative software development to address the following objectives:
+1. Define [community standards](https://doi.org/10.1002/ecs2.4686) and [best practices](https://doi.org/10.1002/eap.2500) for developing, sharing, and archiving forecasts and models
+2. Increase the number and diversity of NEON-enabled [(National Ecological Observatory Network)](https://www.neonscience.org) forecasts by developing and hosting the [NEON Ecological Forecasting Challenge](https://doi.org/10.1002/fee.2616)
+3. Create [educational materials](https://doi.org/10.1002/ece3.10001) to empower scientists at all career stages to forecast using NEON data products.
 4. Support the creation of [software](https://github.com/eco4cast) to produce NEON-enabled forecasts at intensive and collaborative coding-focused workshops
-5. Align forecast outputs and decision support with the needs of forecast users at mission-driven agencies to guide decision making, and
-6. Synthesize forecasts to examine how limits to forecastability vary across ecological systems and scales.
+5. Align forecast outputs and decision support with the needs of forecast users at mission-driven agencies to guide decision-making, and
+6. Synthesize forecasts to examine how limits to forecastability vary across ecological systems and scales (e.g., [canopy phenology](https://doi.org/10.1016/j.agrformet.2023.109810), [lake water temperature](https://doi.org/10.1002/fee.2623)).
 
 *Other current projects*
 
