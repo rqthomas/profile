@@ -31,7 +31,7 @@ Lead PI of an NSF-sponsored 5-year project that is leading workshops, conference
 2. Increase the number and diversity of NEON-enabled [(National Ecological Observatory Network)](https://www.neonscience.org) forecasts by developing and hosting the [NEON Ecological Forecasting Challenge](https://doi.org/10.1002/fee.2616)
 3. Create [educational materials](https://doi.org/10.1002/ece3.10001) to empower scientists at all career stages to forecast using NEON data products.
 4. Support the creation of [software](https://github.com/eco4cast) to produce NEON-enabled forecasts at intensive and collaborative coding-focused workshops
-5. Align forecast outputs and decision support with the needs of forecast users at mission-driven agencies to guide decision-making, and
+5. Align forecast outputs and decision support with the needs of forecast users at [mission-driven agencies](https://projects.ecoforecast.org/usgsrc4cast-ci/) to guide decision-making, and
 6. Synthesize forecasts to examine how limits to forecastability vary across ecological systems and scales (e.g., [canopy phenology](https://doi.org/10.1016/j.agrformet.2023.109810), [lake water temperature](https://doi.org/10.1002/fee.2623)).
 
 *Other current projects*
