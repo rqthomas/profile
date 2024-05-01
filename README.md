@@ -7,7 +7,7 @@
 **Forecasting:**  We predict the future of ecosystems by combining observations and ecosystem models using statistical techniques.
 
 Data Science Faculty Fellow  
-[Co-director of the Virginia Tech Center for Ecosystem Forecasting](https://ecoforecastprojectVT.org)   
+[Co-director of the Virginia Tech Center for Ecosystem Forecasting](https://ecoforecast.centers.vt.edu)   
 [Department of Forest Resources and Environmental Conservation &](https://frec.vt.edu) 
 [Department of Biological Sciences](https://biol.vt.edu)    
 [Virginia Tech](https://vt.edu)   
@@ -44,6 +44,8 @@ Lead PI of an NSF-sponsored 5-year project that is leading workshops, conference
 
 [Cyberinfrastructure Enabling End-to-End Workflows for Aquatic Ecosystem Forecasting (DBI-1933016)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1933016&HistoricalAwards=false)
 
+[FaaSr: Enabling Cloud-native Event-driven Function-as-a-Service Computing Workflows in R](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2311124&HistoricalAwards=false)
+
 [Macrosystems EDDIE: An undergraduate training program in macrosystems science and ecological forecasting (DEB-1926050)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1926050&HistoricalAwards=false)
 
 [Global Centers Track 2: Building the Global Center for Forecasting Freshwater Futures (OISE-2330211)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2330211&HistoricalAwards=false)
@@ -51,6 +53,8 @@ Lead PI of an NSF-sponsored 5-year project that is leading workshops, conference
 [top](#ecosystem-dynamics-and-forecasting)
 
 ## In The News
+
+[New center showcases Virginia Tech's strengths in global sustainability](https://news.vt.edu/articles/2024/04/cayelan-carey-quinn-thomas-center-ecosystem-forecasting-new.html)
 
 [Researchers receive National Science Foundation grant for long-term data research - VT News](https://news.vt.edu/articles/2024/02/flsi-ltreb-nsf-grant.html)
 
@@ -102,6 +106,8 @@ Meyer, M.F., M.E. Harlan, R.T. Hensley, Q. Zhan, N.S. Börekçi, T. Bucak, A.N. 
 
 Olsson, F, T.N. Moore, C.C. Carey, A. Breef-Pilz, and R.Q. Thomas. 2024. A multi-model ensemble of baseline and process-based models improves the predictive skill of near-term lake forecasts. *Water Resources Research* 60: e2023WR035901 [https://doi.org/10.1029/2023WR035901](https://doi.org/10.1029/2023WR035901)
 
+Phelan J, G. Van Houtven, C Clark, J. Buckley, J. Cajka, A. Hargrave, K. Horn, R.Q. Thomas, and R. Sabo. Climate Change Could Negate U.S. Forest Ecosystem Services Benefits Gained Through Reductions in Nitrogen and Sulfur Deposition. Accepted at *Scientific Reports* 
+
 Wheeler, K., M. Dietze, D. LeBauer, J. Peters, A.D. Richardson, R.Q. Thomas, K. Zhu, U. Bhat, S. Munch, R.F Buzbee, M. Chen, B. Goldstein, J.S. Guo, D. Hao, C. Jones, M. Kelly-Fair, H. Liu, C. Malmborg, N. Neupane. D. Pal, A. Ross, V. Shirey, Y. Song, M. Steen, E.A. Vance, W.M. Woelmer, J. Wynne and L. Zachmann. 2024. Predicting Spring Phenology in Deciduous Broadleaf Forests: An Open Community Forecast Challenge. *Agricultural and Forest Meteorology* 345: 09810 [https://doi.org/10.1016/j.agrformet.2023.109810](https://doi.org/10.1016/j.agrformet.2023.109810)
 
 Wander, H.L., R.Q Thomas, T.N. Moore, M.E. Lofton, A. Breef-Pilz, C.C. Carey. 2024. Data assimilation experiments inform monitoring needs for near-term ecological forecasts in a eutrophic reservoir. *Ecosphere* 15: e4752. [https://doi.org/10.1002/ecs2.4752](https://doi.org/10.1002/ecs2.4752) 
@@ -109,6 +115,8 @@ Wander, H.L., R.Q Thomas, T.N. Moore, M.E. Lofton, A. Breef-Pilz, C.C. Carey. 20
 *Pre-prints undergoing peer review*    
 
 Lofton, M.E., T.N. Moore, W.M. Woelmer, R.Q. Thomas, and C.C. Carey. A modular curriculum to teach undergraduates ecological forecasting improves student and instructor confidence in their data science skills. ESS Open Archive. [https://doi.org/10.22541/essoar.171269260.08508117/v1](https://doi.org/10.22541/essoar.171269260.08508117/v1)
+
+Olsson, F., C.C. Carey, C. Boettiger, G. Harrison, R. Ladwig, M.F. Lapeyrolerie, A.S.L. Lewis, M.E. Lofton, F. Motealegre-Mora, J.S. Rebaey, C.J. Robbins. X. Yang, and R.Q. Thomas. What can we learn from 100,000 freshwater forecasts? A synthesis from the NEON Ecological Forecasting Challenge. ESS Open Archive. 
 
 Woelmer, W.M., R.Q. Thomas, F. Olsson, B.G. Steele, K.C. Weathers, and C.C. Carey.  2024. Process-Based Forecasts of Lake Water Temperature and Dissolved Oxygen Outperform Null Models, with Variability Over Time and Depth. SSRN. [http://dx.doi.org/10.2139/ssrn.4699835](http://dx.doi.org/10.2139/ssrn.4699835)
 
