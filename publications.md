@@ -17,9 +17,6 @@ Woelmer, W.M., R.Q. Thomas, F. Olsson, B.G. Steele, K.C. Weathers, and C.C. Care
 
 Figueiredo, R.J., C.C. Carey, and R.Q. Thomas. Translational Edge and Cloud Computing to Advance Lake Water Quality Forecasting.  Accepted at *Computing in Science & Engineering*.
 
-Phelan J, G. Van Houtven, C Clark, J. Buckley, J. Cajka, A. Hargrave, K. Horn, R.Q. Thomas, and R. Sabo. Climate Change Could Negate U.S. Forest Ecosystem Services Benefits Gained Through Reductions in Nitrogen and Sulfur Deposition. Accepted at *Scientific Reports* 
-
-
 ## 2024
 
 McNellis, R., N. Smith, R.Q. Thomas, and N. van Gestel. 2024. Winter cover cropping increases albedo and latent heat flux in a Texas High Plains agro-ecosystem. *Ecosphere* 15:e4753 [https://doi.org/10.1002/ecs2.4753](https://doi.org/10.1002/ecs2.4753)
@@ -27,6 +24,8 @@ McNellis, R., N. Smith, R.Q. Thomas, and N. van Gestel. 2024. Winter cover cropp
 Meyer, M.F., M.E. Harlan, R.T. Hensley, Q. Zhan, N.S. Börekçi, T. Bucak, A.N. Cramer, J.Feldbauer, R. Ladwig, J.P. Mesman, I.A. Oleksy, R.M. Pilla, J.A. Zwart, E. Calamita, N.J. Gubbins, M.E. Lofton, D.A. Maciel, N.S. Marzolf, F. Olsson, A.N. Thellman, R.Q.Thomas, M.J. Vlah. 2024. Hacking Limnology Workshops and DSOS23: Growing a Workforce for the Nexus of Data Science, Open Science, and the Aquatic Sciences. *Limnology and Oceanography Bulletin* 33: 35-38. [https://doi.org/10.1002/lob.10607](https://doi.org/10.1002/lob.10607)
 
 Olsson, F, T.N. Moore, C.C. Carey, A. Breef-Pilz, and R.Q. Thomas. 2024. A multi-model ensemble of baseline and process-based models improves the predictive skill of near-term lake forecasts. *Water Resources Research* 60: e2023WR035901 [https://doi.org/10.1029/2023WR035901](https://doi.org/10.1029/2023WR035901)
+
+Phelan J, G. Van Houtven, C Clark, J. Buckley, J. Cajka, A. Hargrave, K. Horn, R.Q. Thomas, and R. Sabo. 2024. Climate Change Could Negate U.S. Forest Ecosystem Services Benefits Gained Through Reductions in Nitrogen and Sulfur Deposition. *Scientific Reports* 14: 10767 <https://doi.org/10.1038/s41598-024-60652-z> 
 
 Wander, H.L., R.Q Thomas, T.N. Moore, M.E. Lofton, A. Breef-Pilz, C.C. Carey. 2024. Data assimilation experiments inform monitoring needs for near-term ecological forecasts in a eutrophic reservoir. *Ecosphere* 15: e4752. [https://doi.org/10.1002/ecs2.4752](https://doi.org/10.1002/ecs2.4752) 
 
