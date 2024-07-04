@@ -106,7 +106,7 @@ Meyer, M.F., M.E. Harlan, R.T. Hensley, Q. Zhan, N.S. Börekçi, T. Bucak, A.N. 
 
 Olsson, F, T.N. Moore, C.C. Carey, A. Breef-Pilz, and R.Q. Thomas. 2024. A multi-model ensemble of baseline and process-based models improves the predictive skill of near-term lake forecasts. *Water Resources Research* 60: e2023WR035901 [https://doi.org/10.1029/2023WR035901](https://doi.org/10.1029/2023WR035901)
 
-Phelan J, G. Van Houtven, C Clark, J. Buckley, J. Cajka, A. Hargrave, K. Horn, R.Q. Thomas, and R. Sabo. Climate Change Could Negate U.S. Forest Ecosystem Services Benefits Gained Through Reductions in Nitrogen and Sulfur Deposition. Accepted at *Scientific Reports* 
+Phelan J, G. Van Houtven, C Clark, J. Buckley, J. Cajka, A. Hargrave, K. Horn, R.Q. Thomas, and R. Sabo. Climate Change Could Negate U.S. Forest Ecosystem Services Benefits Gained Through Reductions in Nitrogen and Sulfur Deposition. *Scientific Reports* 14: 10767 <https://doi.org/10.1038/s41598-024-60652-z> 
 
 Wheeler, K., M. Dietze, D. LeBauer, J. Peters, A.D. Richardson, R.Q. Thomas, K. Zhu, U. Bhat, S. Munch, R.F Buzbee, M. Chen, B. Goldstein, J.S. Guo, D. Hao, C. Jones, M. Kelly-Fair, H. Liu, C. Malmborg, N. Neupane. D. Pal, A. Ross, V. Shirey, Y. Song, M. Steen, E.A. Vance, W.M. Woelmer, J. Wynne and L. Zachmann. 2024. Predicting Spring Phenology in Deciduous Broadleaf Forests: An Open Community Forecast Challenge. *Agricultural and Forest Meteorology* 345: 09810 [https://doi.org/10.1016/j.agrformet.2023.109810](https://doi.org/10.1016/j.agrformet.2023.109810)
 
@@ -115,6 +115,8 @@ Wander, H.L., R.Q Thomas, T.N. Moore, M.E. Lofton, A. Breef-Pilz, C.C. Carey. 20
 *Pre-prints undergoing peer review*    
 
 Lofton, M.E., T.N. Moore, W.M. Woelmer, R.Q. Thomas, and C.C. Carey. A modular curriculum to teach undergraduates ecological forecasting improves student and instructor confidence in their data science skills. ESS Open Archive. [https://doi.org/10.22541/essoar.171269260.08508117/v1](https://doi.org/10.22541/essoar.171269260.08508117/v1)
+
+Holthuijzen, M.F., R.B. Gramacy, C.C. Carey, D.M. Higdon, and R.Q. Thomas. Synthesizing data products, mathematical models, and observational measurements for lake temperature forecasting. arXiv. <https://doi.org/10.48550/arXiv.2407.03312>
 
 Olsson, F., C.C. Carey, C. Boettiger, G. Harrison, R. Ladwig, M.F. Lapeyrolerie, A.S.L. Lewis, M.E. Lofton, F. Motealegre-Mora, J.S. Rebaey, C.J. Robbins. X. Yang, and R.Q. Thomas. What can we learn from 100,000 freshwater forecasts? A synthesis from the NEON Ecological Forecasting Challenge. ESS Open Archive [https://doi.org/10.22541/essoar.171458144.44104603/v1](https://doi.org/10.22541/essoar.171458144.44104603/v1) 
 
