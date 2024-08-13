@@ -102,6 +102,8 @@ Lead PI of an NSF-sponsored 5-year project that is leading workshops, conference
 
 Figueiredo, R.J., C.C. Carey, and R.Q. Thomas. Translational Edge and Cloud Computing to Advance Lake Water Quality Forecasting. Accepted at *Computing in Science & Engineering.*
 
+Lofton, M.E., T.N. Moore, W.M. Woelmer, R.Q. Thomas, and C.C. Carey. A modular curriculum to teach undergraduates ecological forecasting improves student and instructor confidence in their data science skills. Accept at *Bioscience*. Preprint: [https://doi.org/10.22541/essoar.171269260.08508117/v1](https://doi.org/10.22541/essoar.171269260.08508117/v1)
+
 McNellis, R., N. Smith, R.Q. Thomas, and N. van Gestel. 2024. Winter cover cropping increases albedo and latent heat flux in a Texas High Plains agro-ecosystem. *Ecosphere* 15:e4753 [https://doi.org/10.1002/ecs2.4753](https://doi.org/10.1002/ecs2.4753)
 
 Meyer, M.F., M.E. Harlan, R.T. Hensley, Q. Zhan, N.S. Börekçi, T. Bucak, A.N. Cramer, J.Feldbauer, R. Ladwig, J.P. Mesman, I.A. Oleksy, R.M. Pilla, J.A. Zwart, E. Calamita, N.J. Gubbins, M.E. Lofton, D.A. Maciel, N.S. Marzolf, F. Olsson, A.N. Thellman, R.Q.Thomas, M.J. Vlah. 2024. Hacking Limnology Workshops and DSOS23: Growing a Workforce for the Nexus of Data Science, Open Science, and the Aquatic Sciences. *Limnology and Oceanography Bulletin* 33: 35-38. [https://doi.org/10.1002/lob.10607](https://doi.org/10.1002/lob.10607)
@@ -115,8 +117,6 @@ Wheeler, K., M. Dietze, D. LeBauer, J. Peters, A.D. Richardson, R.Q. Thomas, K. 
 Wander, H.L., R.Q Thomas, T.N. Moore, M.E. Lofton, A. Breef-Pilz, C.C. Carey. 2024. Data assimilation experiments inform monitoring needs for near-term ecological forecasts in a eutrophic reservoir. *Ecosphere* 15: e4752. [https://doi.org/10.1002/ecs2.4752](https://doi.org/10.1002/ecs2.4752) 
 
 *Pre-prints undergoing peer review*    
-
-Lofton, M.E., T.N. Moore, W.M. Woelmer, R.Q. Thomas, and C.C. Carey. A modular curriculum to teach undergraduates ecological forecasting improves student and instructor confidence in their data science skills. ESS Open Archive. [https://doi.org/10.22541/essoar.171269260.08508117/v1](https://doi.org/10.22541/essoar.171269260.08508117/v1)
 
 Holthuijzen, M.F., R.B. Gramacy, C.C. Carey, D.M. Higdon, and R.Q. Thomas. Synthesizing data products, mathematical models, and observational measurements for lake temperature forecasting. arXiv. <https://doi.org/10.48550/arXiv.2407.03312>
 
