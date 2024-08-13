@@ -102,7 +102,7 @@ Lead PI of an NSF-sponsored 5-year project that is leading workshops, conference
 
 Figueiredo, R.J., C.C. Carey, and R.Q. Thomas. Translational Edge and Cloud Computing to Advance Lake Water Quality Forecasting. Accepted at *Computing in Science & Engineering.*
 
-Lofton, M.E., T.N. Moore, W.M. Woelmer, R.Q. Thomas, and C.C. Carey. A modular curriculum to teach undergraduates ecological forecasting improves student and instructor confidence in their data science skills. Accept at *Bioscience*. Preprint: [https://doi.org/10.22541/essoar.171269260.08508117/v1](https://doi.org/10.22541/essoar.171269260.08508117/v1)
+Lofton, M.E., T.N. Moore, W.M. Woelmer, R.Q. Thomas, and C.C. Carey. A modular curriculum to teach undergraduates ecological forecasting improves student and instructor confidence in their data science skills. Accepted at *Bioscience*. Preprint: [https://doi.org/10.22541/essoar.171269260.08508117/v1](https://doi.org/10.22541/essoar.171269260.08508117/v1)
 
 McNellis, R., N. Smith, R.Q. Thomas, and N. van Gestel. 2024. Winter cover cropping increases albedo and latent heat flux in a Texas High Plains agro-ecosystem. *Ecosphere* 15:e4753 [https://doi.org/10.1002/ecs2.4753](https://doi.org/10.1002/ecs2.4753)
 
