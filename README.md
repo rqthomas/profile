@@ -142,15 +142,19 @@ Post-doc, National Center for Atmospheric Research, Boulder, CO (2012 - 2013)
  
 Assistant Professor, Department of Forest Resources and Environmental Conservation, Virginia Tech, Blacksburg, VA (2013 - 2019) 
  
-Associate Professor, Department of Forest Resources and Environmental Conservation, Virginia Tech, Blacksburg, VA (2019 - present)  
+Associate Professor, Department of Forest Resources and Environmental Conservation, Virginia Tech, Blacksburg, VA (2019 - 2024)  
 
-Associate Professor, Department of Biological Sciences, Virginia Tech, Blacksburg, VA (2021 - present)  
+Associate Professor, Department of Biological Sciences, Virginia Tech, Blacksburg, VA (2021 - 2024)  
 
 Visiting Scholar, Dartmouth College, Hanover, NH (2021 - 2022)
 
-Visiting Scientist, Terrestrial Ecosystem Research Network, University of Queensland, Brisbane, QLD, Australia (2022 - present)
+Visiting Scientist, Terrestrial Ecosystem Research Network, University of Queensland, Brisbane, QLD, Australia (2022)
 
 Data Science Faculty Fellow, College of Science, Virginia Tech, Blacksburg, VA (2022 - present)
+
+Professor, Department of Forest Resources and Environmental Conservation, Virginia Tech, Blacksburg, VA (2024 - present)  
+
+Professor, Department of Biological Sciences, Virginia Tech, Blacksburg, VA (2024 - present)  
 
 [top](#ecosystem-dynamics-and-forecasting)
 
