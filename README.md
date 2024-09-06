@@ -100,6 +100,8 @@ Lead PI of an NSF-sponsored 5-year project that is leading workshops, conference
 
 *Recent (2024 - )*
 
+Carey, C.C., R. S.D. Calder, R.J. Figueiredo, R.B. Gramacy, M.E. Lofton, M.E. Schreiber and R.Q. Thomas.  A framework for developing a real-time lake phytoplankton forecasting system to support water quality management in the face of global change.  Accepted at *Ambio.*
+
 Figueiredo, R.J., C.C. Carey, and R.Q. Thomas. Translational Edge and Cloud Computing to Advance Lake Water Quality Forecasting. Accepted at *Computing in Science & Engineering.*
 
 Lofton, M.E., T.N. Moore, W.M. Woelmer, R.Q. Thomas, and C.C. Carey. A modular curriculum to teach undergraduates ecological forecasting improves student and instructor confidence in their data science skills. Accepted at *Bioscience*. Preprint: [https://doi.org/10.22541/essoar.171269260.08508117/v1](https://doi.org/10.22541/essoar.171269260.08508117/v1)
