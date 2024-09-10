@@ -114,9 +114,11 @@ Olsson, F, T.N. Moore, C.C. Carey, A. Breef-Pilz, and R.Q. Thomas. 2024. A multi
 
 Phelan J, G. Van Houtven, C Clark, J. Buckley, J. Cajka, A. Hargrave, K. Horn, R.Q. Thomas, and R. Sabo. 2024. Climate Change Could Negate U.S. Forest Ecosystem Services Benefits Gained Through Reductions in Nitrogen and Sulfur Deposition. *Scientific Reports* 14: 10767 <https://doi.org/10.1038/s41598-024-60652-z> 
 
+Wander, H.L., R.Q Thomas, T.N. Moore, M.E. Lofton, A. Breef-Pilz, C.C. Carey. 2024. Data assimilation experiments inform monitoring needs for near-term ecological forecasts in a eutrophic reservoir. *Ecosphere* 15: e4752. [https://doi.org/10.1002/ecs2.4752](https://doi.org/10.1002/ecs2.4752) 
+
 Wheeler, K., M. Dietze, D. LeBauer, J. Peters, A.D. Richardson, R.Q. Thomas, K. Zhu, U. Bhat, S. Munch, R.F Buzbee, M. Chen, B. Goldstein, J.S. Guo, D. Hao, C. Jones, M. Kelly-Fair, H. Liu, C. Malmborg, N. Neupane. D. Pal, A. Ross, V. Shirey, Y. Song, M. Steen, E.A. Vance, W.M. Woelmer, J. Wynne and L. Zachmann. 2024. Predicting Spring Phenology in Deciduous Broadleaf Forests: An Open Community Forecast Challenge. *Agricultural and Forest Meteorology* 345: 09810 [https://doi.org/10.1016/j.agrformet.2023.109810](https://doi.org/10.1016/j.agrformet.2023.109810)
 
-Wander, H.L., R.Q Thomas, T.N. Moore, M.E. Lofton, A. Breef-Pilz, C.C. Carey. 2024. Data assimilation experiments inform monitoring needs for near-term ecological forecasts in a eutrophic reservoir. *Ecosphere* 15: e4752. [https://doi.org/10.1002/ecs2.4752](https://doi.org/10.1002/ecs2.4752) 
+Woelmer, W.M., R.Q. Thomas, F. Olsson, B.G. Steele, K.C. Weathers, and C.C. Carey. Process-Based Forecasts of Lake Water Temperature and Dissolved Oxygen Outperform Null Models, with Variability Over Time and Depth. Accepted at *Ecological Informatics*. Pre-print: [http://dx.doi.org/10.2139/ssrn.4699835](http://dx.doi.org/10.2139/ssrn.4699835)
 
 *Pre-prints undergoing peer review*    
 
@@ -125,8 +127,6 @@ Holthuijzen, M.F., R.B. Gramacy, C.C. Carey, D.M. Higdon, and R.Q. Thomas. Synth
 Olsson, F., C.C. Carey, C. Boettiger, G. Harrison, R. Ladwig, M.F. Lapeyrolerie, A.S.L. Lewis, M.E. Lofton, F. Motealegre-Mora, J.S. Rebaey, C.J. Robbins. X. Yang, and R.Q. Thomas. What can we learn from 100,000 freshwater forecasts? A synthesis from the NEON Ecological Forecasting Challenge. ESS Open Archive [https://doi.org/10.22541/essoar.171458144.44104603/v1](https://doi.org/10.22541/essoar.171458144.44104603/v1) 
 
 Paíza, R., R.Q. Thomas, C. C. Carey, E. de Eyto, A. Delany, R. Poole, P. Nixon, M. Dillane, I.D. Jones, D.C. Pierson, V. McCarthy, S. Linnane, E. Jennings. Near-term lake water temperature forecasts can be used to anticipate the ecological dynamics of freshwater species. SSRN. <http://dx.doi.org/10.2139/ssrn.4888712>.
-
-Woelmer, W.M., R.Q. Thomas, F. Olsson, B.G. Steele, K.C. Weathers, and C.C. Carey. Process-Based Forecasts of Lake Water Temperature and Dissolved Oxygen Outperform Null Models, with Variability Over Time and Depth. SSRN. [http://dx.doi.org/10.2139/ssrn.4699835](http://dx.doi.org/10.2139/ssrn.4699835)
 
 [top](#ecosystem-dynamics-and-forecasting)
 
