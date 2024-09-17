@@ -21,8 +21,6 @@ Figueiredo, R.J., C.C. Carey, and R.Q. Thomas. Translational Edge and Cloud Comp
 
 Lofton, M.E., T.N. Moore, W.M. Woelmer, R.Q. Thomas, and C.C. Carey. A modular curriculum to teach undergraduates ecological forecasting improves student and instructor confidence in their data science skills. Accepted at *Bioscience*. Preprint: [https://doi.org/10.22541/essoar.171269260.08508117/v1](https://doi.org/10.22541/essoar.171269260.08508117/v1)
 
-Woelmer, W.M., R.Q. Thomas, F. Olsson, B.G. Steele, K.C. Weathers, and C.C. Carey. Process-Based Forecasts of Lake Water Temperature and Dissolved Oxygen Outperform Null Models, with Variability Over Time and Depth. Accepted at *Ecological Informatics*. Pre-print: [http://dx.doi.org/10.2139/ssrn.4699835](http://dx.doi.org/10.2139/ssrn.4699835)
-
 ## 2024
 
 McNellis, R., N. Smith, R.Q. Thomas, and N. van Gestel. 2024. Winter cover cropping increases albedo and latent heat flux in a Texas High Plains agro-ecosystem. *Ecosphere* 15:e4753 [https://doi.org/10.1002/ecs2.4753](https://doi.org/10.1002/ecs2.4753)
@@ -36,6 +34,8 @@ Phelan J, G. Van Houtven, C Clark, J. Buckley, J. Cajka, A. Hargrave, K. Horn, R
 Wander, H.L., R.Q Thomas, T.N. Moore, M.E. Lofton, A. Breef-Pilz, C.C. Carey. 2024. Data assimilation experiments inform monitoring needs for near-term ecological forecasts in a eutrophic reservoir. *Ecosphere* 15: e4752. [https://doi.org/10.1002/ecs2.4752](https://doi.org/10.1002/ecs2.4752) 
 
 Wheeler, K., M. Dietze, D. LeBauer, J. Peters, A.D. Richardson, R.Q. Thomas, K. Zhu, U. Bhat, S. Munch, R.F Buzbee, M. Chen, B. Goldstein, J.S. Guo, D. Hao, C. Jones, M. Kelly-Fair, H. Liu, C. Malmborg, N. Neupane. D. Pal, A. Ross, V. Shirey, Y. Song, M. Steen, E.A. Vance, W.M. Woelmer, J. Wynne and L. Zachmann. 2024. Predicting Spring Phenology in Deciduous Broadleaf Forests: An Open Community Forecast Challenge. *Agricultural and Forest Meteorology* 345: 09810 [https://doi.org/10.1016/j.agrformet.2023.109810](https://doi.org/10.1016/j.agrformet.2023.109810)
+
+Woelmer, W.M., R.Q. Thomas, F. Olsson, B.G. Steele, K.C. Weathers, and C.C. Carey. 2024. Process-Based Forecasts of Lake Water Temperature and Dissolved Oxygen Outperform Null Models, with Variability Over Time and Depth. *Ecological Informatics* 83: 102825. <https://doi.org/10.1016/j.ecoinf.2024.102825>
 
 ## 2023
 
