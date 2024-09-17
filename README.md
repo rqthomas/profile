@@ -118,7 +118,7 @@ Wander, H.L., R.Q Thomas, T.N. Moore, M.E. Lofton, A. Breef-Pilz, C.C. Carey. 20
 
 Wheeler, K., M. Dietze, D. LeBauer, J. Peters, A.D. Richardson, R.Q. Thomas, K. Zhu, U. Bhat, S. Munch, R.F Buzbee, M. Chen, B. Goldstein, J.S. Guo, D. Hao, C. Jones, M. Kelly-Fair, H. Liu, C. Malmborg, N. Neupane. D. Pal, A. Ross, V. Shirey, Y. Song, M. Steen, E.A. Vance, W.M. Woelmer, J. Wynne and L. Zachmann. 2024. Predicting Spring Phenology in Deciduous Broadleaf Forests: An Open Community Forecast Challenge. *Agricultural and Forest Meteorology* 345: 09810 [https://doi.org/10.1016/j.agrformet.2023.109810](https://doi.org/10.1016/j.agrformet.2023.109810)
 
-Woelmer, W.M., R.Q. Thomas, F. Olsson, B.G. Steele, K.C. Weathers, and C.C. Carey. Process-Based Forecasts of Lake Water Temperature and Dissolved Oxygen Outperform Null Models, with Variability Over Time and Depth. Accepted at *Ecological Informatics*. Pre-print: [http://dx.doi.org/10.2139/ssrn.4699835](http://dx.doi.org/10.2139/ssrn.4699835)
+Woelmer, W.M., R.Q. Thomas, F. Olsson, B.G. Steele, K.C. Weathers, and C.C. Carey. 2024. Process-Based Forecasts of Lake Water Temperature and Dissolved Oxygen Outperform Null Models, with Variability Over Time and Depth. *Ecological Informatics* 83: 102825. <https://doi.org/10.1016/j.ecoinf.2024.102825>
 
 *Pre-prints undergoing peer review*    
 
