@@ -15,7 +15,7 @@ Paíza, R., R.Q. Thomas, C. C. Carey, E. de Eyto, A. Delany, R. Poole, P. Nixo
 
 ## Accepted or In Press
 
-Carey, C.C., R. S.D. Calder, R.J. Figueiredo, R.B. Gramacy, M.E. Lofton, M.E. Schreiber and R.Q. Thomas.  A framework for developing a real-time lake phytoplankton forecasting system to support water quality management in the face of global change.  Accepted at *Ambio.*
+Carey, C.C., R. S.D. Calder, R.J. Figueiredo, R.B. Gramacy, M.E. Lofton, M.E. Schreiber and R.Q. Thomas. 2024. A framework for developing a real-time lake phytoplankton forecasting system to support water quality management in the face of global change. *Ambio.*: awaiting issue <https://doi.org/10.1007/s13280-024-02076-7>
 
 Figueiredo, R.J., C.C. Carey, and R.Q. Thomas. Translational Edge and Cloud Computing to Advance Lake Water Quality Forecasting.  Accepted at *Computing in Science & Engineering*.
 
