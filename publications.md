@@ -29,6 +29,8 @@ Meyer, M.F., M.E. Harlan, R.T. Hensley, Q. Zhan, N.S. Börekçi, T. Bucak, A.N. 
 
 Olsson, F, T.N. Moore, C.C. Carey, A. Breef-Pilz, and R.Q. Thomas. 2024. A multi-model ensemble of baseline and process-based models improves the predictive skill of near-term lake forecasts. *Water Resources Research* 60: e2023WR035901 [https://doi.org/10.1029/2023WR035901](https://doi.org/10.1029/2023WR035901)
 
+Park, S., R.Q. Thomas, C.C. Carey, A.D. Delany, Y.-J. Ku, M.E. Lofton, and R.J. Figueiredo.  2024. “FaaSr: Middleware for Serverless and Cross-Platform Function-as-a-Service Scientific Workflows in R”  in 2024 IEEE 20th International Conference on e-Science (e-Science), Osaka, Japan, 2024 pp. 1-10. <https://10.1109/e-Science62913.2024.10678660> 
+
 Phelan J, G. Van Houtven, C Clark, J. Buckley, J. Cajka, A. Hargrave, K. Horn, R.Q. Thomas, and R. Sabo. 2024. Climate Change Could Negate U.S. Forest Ecosystem Services Benefits Gained Through Reductions in Nitrogen and Sulfur Deposition. *Scientific Reports* 14: 10767 <https://doi.org/10.1038/s41598-024-60652-z> 
 
 Wander, H.L., R.Q Thomas, T.N. Moore, M.E. Lofton, A. Breef-Pilz, C.C. Carey. 2024. Data assimilation experiments inform monitoring needs for near-term ecological forecasts in a eutrophic reservoir. *Ecosphere* 15: e4752. [https://doi.org/10.1002/ecs2.4752](https://doi.org/10.1002/ecs2.4752) 
