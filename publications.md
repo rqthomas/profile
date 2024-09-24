@@ -11,7 +11,7 @@ Holthuijzen, M.F., R.B. Gramacy, C.C. Carey, D.M. Higdon, and R.Q. Thomas. Synth
 
 Olsson, F., C.C. Carey, C. Boettiger, G. Harrison, R. Ladwig, M.F. Lapeyrolerie, A.S.L. Lewis, M.E. Lofton, F. Motealegre-Mora, J.S. Rebaey, C.J. Robbins. X. Yang, and R.Q. Thomas. What can we learn from 100,000 freshwater forecasts? A synthesis from the NEON Ecological Forecasting Challenge. *ESS Open Archive* [https://doi.org/10.22541/essoar.171458144.44104603/v1](https://doi.org/10.22541/essoar.171458144.44104603/v1) 
 
-Paíza, R., R.Q. Thomas, C. C. Carey, E. de Eyto, A. Delany, R. Poole, P. Nixon, M. Dillane, I.D. Jones, D.C. Pierson, V. McCarthy, S. Linnane, E. Jennings. Near-term lake water temperature forecasts can be used to anticipate the ecological dynamics of freshwater species. *SSRN*. <http://dx.doi.org/10.2139/ssrn.4888712>.
+Paíz, R., R.Q. Thomas, C. C. Carey, E. de Eyto, A. Delany, R. Poole, P. Nixon, M. Dillane, I.D. Jones, D.C. Pierson, V. McCarthy, S. Linnane, E. Jennings. Near-term lake water temperature forecasts can be used to anticipate the ecological dynamics of freshwater species. *SSRN*. <http://dx.doi.org/10.2139/ssrn.4888712>.
 
 ## Accepted or In Press
 
