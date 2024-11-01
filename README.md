@@ -54,6 +54,8 @@ Lead PI of an NSF-sponsored 5-year project that is leading workshops, conference
 
 ## In The News
 
+[Undergraduate curriculum in ecological forecasting builds student and instructors’ quantitative literacy and data science skills] (https://news.vt.edu/articles/2024/10/center-for-ecosystem-forecasting-eddie-training-modules.html)
+
 [New center showcases Virginia Tech's strengths in global sustainability](https://news.vt.edu/articles/2024/04/cayelan-carey-quinn-thomas-center-ecosystem-forecasting-new.html)
 
 [Researchers receive National Science Foundation grant for long-term data research - VT News](https://news.vt.edu/articles/2024/02/flsi-ltreb-nsf-grant.html)
