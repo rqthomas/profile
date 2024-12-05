@@ -108,7 +108,7 @@ Carey, C.C., R. S.D. Calder, R.J. Figueiredo, R.B. Gramacy, M.E. Lofton, M.E. Sc
 
 Dalton, J.N. Miller, T.L. Greaver, R.D. Sabo, K. G. Austin, J.N. Phelan, R.Q. Thomas and C. Clark. 2024. Regional variation in growth and survival responses to atmospheric nitrogen and sulfur deposition for 140 tree species across the United States. *Frontiers in Forests and Global Change* 7:1426644. <https://doi.org/10.3389/ffgc.2024.1426644> 
 
-Dietze, M., E.P. White, A. Abeyta, C. Boettiger, N. Bueno Watts, C.C. Carey, R. Chaplin-Kramer, R.E. Emanuel, S.K. Morgan Ernest, R. Figueiredo, M.D, Gerst, L.R. Johnson, M.A. Kenney, J.S. McLachlan, I.C. Paschalidis, J.A. Peters, C.R. Rollinson, J. Simonis, K. Sullivan-Way, R. Q. Thomas, G.M. Wardle, A. Willson, J. Zwart. 2024. Near-term Ecological Forecasting for Climate Change Action. *Nature Climate Change:* Awaiting Issue. <https://doi.org/10.1038/s41558-024-02182-0>
+Dietze, M., E.P. White, A. Abeyta, C. Boettiger, N. Bueno Watts, C.C. Carey, R. Chaplin-Kramer, R.E. Emanuel, S.K. Morgan Ernest, R. Figueiredo, M.D, Gerst, L.R. Johnson, M.A. Kenney, J.S. McLachlan, I.C. Paschalidis, J.A. Peters, C.R. Rollinson, J. Simonis, K. Sullivan-Way, R. Q. Thomas, G.M. Wardle, A. Willson, J. Zwart. 2024. Near-term Ecological Forecasting for Climate Change Action. *Nature Climate Change:* 14: 1236–1244 <https://doi.org/10.1038/s41558-024-02182-0>
 
 Figueiredo, R.J., C.C. Carey, and R.Q. Thomas. Translational Edge and Cloud Computing to Advance Lake Water Quality Forecasting. Accepted at *Computing in Science & Engineering.*
 
