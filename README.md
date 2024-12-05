@@ -110,7 +110,7 @@ Dalton, J.N. Miller, T.L. Greaver, R.D. Sabo, K. G. Austin, J.N. Phelan, R.Q. Th
 
 Dietze, M., E.P. White, A. Abeyta, C. Boettiger, N. Bueno Watts, C.C. Carey, R. Chaplin-Kramer, R.E. Emanuel, S.K. Morgan Ernest, R. Figueiredo, M.D, Gerst, L.R. Johnson, M.A. Kenney, J.S. McLachlan, I.C. Paschalidis, J.A. Peters, C.R. Rollinson, J. Simonis, K. Sullivan-Way, R. Q. Thomas, G.M. Wardle, A. Willson, J. Zwart. 2024. Near-term Ecological Forecasting for Climate Change Action. *Nature Climate Change:* 14: 1236–1244 <https://doi.org/10.1038/s41558-024-02182-0>
 
-Figueiredo, R.J., C.C. Carey, and R.Q. Thomas. Translational Edge and Cloud Computing to Advance Lake Water Quality Forecasting. Accepted at *Computing in Science & Engineering.*
+Figueiredo, R.J., C.C. Carey, and R.Q. Thomas. 2024. Translational Edge and Cloud Computing to Advance Lake Water Quality Forecasting. *Computing in Science & Engineering.* 26: 68-72. <https://doi.org/10.1109/MCSE.2024.3430148> 
 
 Lofton, M.E., T.N. Moore, W.M. Woelmer, R.Q. Thomas, and C.C. Carey. 2024. A modular curriculum to teach undergraduates ecological forecasting improves student and instructor confidence in their data science skills. *Bioscience*: Awaiting issue. <https://doi.org/10.1093/biosci/biae089>
 
