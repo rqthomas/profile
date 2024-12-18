@@ -146,29 +146,29 @@ Paíz, R., R.Q. Thomas, C. C. Carey, E. de Eyto, A. Delany, R. Poole, P. Nixon
 
 <!---[Click for full C.V.](assets/RQ_Thomas_CV.pdf)-->
 
-A.B. Dartmouth College, Hanover, NH (2001 - 2005)  
-
-M.S. University of New Hampshire, Durham, NH (2005 - 2007)  
-
-Ph.D. Cornell University, Ithaca, NY (2007 - 2012) 
-  
-Post-doc, National Center for Atmospheric Research, Boulder, CO (2012 - 2013) 
- 
-Assistant Professor, Department of Forest Resources and Environmental Conservation, Virginia Tech, Blacksburg, VA (2013 - 2019) 
- 
-Associate Professor, Department of Forest Resources and Environmental Conservation, Virginia Tech, Blacksburg, VA (2019 - 2024)  
-
-Associate Professor, Department of Biological Sciences, Virginia Tech, Blacksburg, VA (2021 - 2024)  
-
-Visiting Scholar, Dartmouth College, Hanover, NH (2021 - 2022)
-
-Visiting Scientist, Terrestrial Ecosystem Research Network, University of Queensland, Brisbane, QLD, Australia (2022)
-
-Data Science Faculty Fellow, College of Science, Virginia Tech, Blacksburg, VA (2022 - present)
-
 Professor, Department of Forest Resources and Environmental Conservation, Virginia Tech, Blacksburg, VA (2024 - present)  
 
 Professor, Department of Biological Sciences, Virginia Tech, Blacksburg, VA (2024 - present)  
+
+Data Science Faculty Fellow, College of Science, Virginia Tech, Blacksburg, VA (2022 - present)
+
+Visiting Scientist, Terrestrial Ecosystem Research Network, University of Queensland, Brisbane, QLD, Australia (2022)
+
+Visiting Scholar, Dartmouth College, Hanover, NH (2021 - 2022)
+
+Associate Professor, Department of Biological Sciences, Virginia Tech, Blacksburg, VA (2021 - 2024)  
+
+Associate Professor, Department of Forest Resources and Environmental Conservation, Virginia Tech, Blacksburg, VA (2019 - 2024)  
+
+Assistant Professor, Department of Forest Resources and Environmental Conservation, Virginia Tech, Blacksburg, VA (2013 - 2019) 
+
+Post-doc, National Center for Atmospheric Research, Boulder, CO (2012 - 2013) 
+
+Ph.D. Cornell University, Ithaca, NY (2007 - 2012) 
+
+M.S. University of New Hampshire, Durham, NH (2005 - 2007)  
+
+A.B. Dartmouth College, Hanover, NH (2001 - 2005)  
 
 [top](#ecosystem-dynamics-and-forecasting)
 
