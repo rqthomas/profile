@@ -106,6 +106,8 @@ Lead PI of an NSF-sponsored 5-year project that is leading workshops, conference
 
 Carey, C.C., R. S.D. Calder, R.J. Figueiredo, R.B. Gramacy, M.E. Lofton, M.E. Schreiber and R.Q. Thomas. 2024. A framework for developing a real-time lake phytoplankton forecasting system to support water quality management in the face of global change. *Ambio*: awaiting issue <https://doi.org/10.1007/s13280-024-02076-7>
 
+Clark, C. M., J. G. Coughlin, J. Phelan, K. Austin, M. Salem, G. Martin, R. Sabo, K. Horn, R.Q. Thomas, and R. Dalton. 2024. Winners and losers in the climate roulette: A national analysis of tree growth and survival responses to temperature and precipitation. Global Change Biology 30: e17597. <https://doi.org/10.1111/gcb.17597>
+
 Dalton, J.N. Miller, T.L. Greaver, R.D. Sabo, K. G. Austin, J.N. Phelan, R.Q. Thomas and C. Clark. 2024. Regional variation in growth and survival responses to atmospheric nitrogen and sulfur deposition for 140 tree species across the United States. *Frontiers in Forests and Global Change* 7:1426644. <https://doi.org/10.3389/ffgc.2024.1426644> 
 
 Dietze, M., E.P. White, A. Abeyta, C. Boettiger, N. Bueno Watts, C.C. Carey, R. Chaplin-Kramer, R.E. Emanuel, S.K. Morgan Ernest, R. Figueiredo, M.D, Gerst, L.R. Johnson, M.A. Kenney, J.S. McLachlan, I.C. Paschalidis, J.A. Peters, C.R. Rollinson, J. Simonis, K. Sullivan-Way, R. Q. Thomas, G.M. Wardle, A. Willson, J. Zwart. 2024. Near-term Ecological Forecasting for Climate Change Action. *Nature Climate Change:* 14: 1236–1244 <https://doi.org/10.1038/s41558-024-02182-0>
