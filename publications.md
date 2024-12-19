@@ -21,7 +21,7 @@ Olsson, F., C.C. Carey, C. Boettiger, G. Harrison, R. Ladwig, M.F. Lapeyrolerie,
 
 ## 2024
 
-Clark, C. M., J. G. Coughlin, J. Phelan, K. Austin, M. Salem, G. Martin, R. Sabo, K. Horn, R.Q. Thomas, and R. Dalton. 2024. Winners and losers in the climate roulette: A national analysis of tree growth and survival responses to temperature and precipitation. Global Change Biology 30: e17597. <https://doi.org/10.1111/gcb.17597>
+Clark, C. M., J. G. Coughlin, J. Phelan, K. Austin, M. Salem, G. Martin, R. Sabo, K. Horn, R.Q. Thomas, and R. Dalton. 2024. Winners and losers in the climate roulette: A national analysis of tree growth and survival responses to temperature and precipitation. *Global Change Biology* 30: e17597. <https://doi.org/10.1111/gcb.17597>
 
 Dalton, J.N. Miller, T.L. Greaver, R.D. Sabo, K. G. Austin, J.N. Phelan, R.Q. Thomas and C. Clark. 2024. Regional variation in growth and survival responses to atmospheric nitrogen and sulfur deposition for 140 tree species across the United States. *Frontiers in Forests and Global Change* 7:1426644. <https://doi.org/10.3389/ffgc.2024.1426644> 
 
