@@ -122,6 +122,8 @@ Meyer, M.F., M.E. Harlan, R.T. Hensley, Q. Zhan, N.S. Börekçi, T. Bucak, A.N. 
 
 Olsson, F., C.C. Carey, C. Boettiger, G. Harrison, R. Ladwig, M.F. Lapeyrolerie, A.S.L. Lewis, M.E. Lofton, F. Motealegre-Mora, J.S. Rebaey, C.J. Robbins. X. Yang, and R.Q. Thomas. What can we learn from 100,000 freshwater forecasts? A synthesis from the NEON Ecological Forecasting Challenge. Accepted at *Ecological Applications*.  Pre-print: [https://doi.org/10.22541/essoar.171458144.44104603/v1](https://doi.org/10.22541/essoar.171458144.44104603/v1) 
 
+Olsson F, C. Boettiger, C.C. Carey, M. Lofton and R.Q. Thomas. 2024. Can you predict the future? A tutorial for the National Ecological Observatory Network Ecological Forecasting Challenge. *Journal of Open Source Education* 7: 259. <https://doi.org/10.21105/jose.00259> 
+
 Olsson, F, T.N. Moore, C.C. Carey, A. Breef-Pilz, and R.Q. Thomas. 2024. A multi-model ensemble of baseline and process-based models improves the predictive skill of near-term lake forecasts. *Water Resources Research* 60: e2023WR035901 [https://doi.org/10.1029/2023WR035901](https://doi.org/10.1029/2023WR035901)
 
 Park, S., R.Q. Thomas, C.C. Carey, A.D. Delany, Y.-J. Ku, M.E. Lofton, and R.J. Figueiredo.  2024. “FaaSr: Middleware for Serverless and Cross-Platform Function-as-a-Service Scientific Workflows in R”  in 2024 IEEE 20th International Conference on e-Science (e-Science), Osaka, Japan, 2024 pp. 1-10. <https://10.1109/e-Science62913.2024.10678660> 
