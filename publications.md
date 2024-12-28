@@ -37,7 +37,7 @@ Olsson F, C. Boettiger, C.C. Carey, M. Lofton and R.Q. Thomas. 2024. Can you pre
 
 Olsson, F, T.N. Moore, C.C. Carey, A. Breef-Pilz, and R.Q. Thomas. 2024. A multi-model ensemble of baseline and process-based models improves the predictive skill of near-term lake forecasts. *Water Resources Research* 60: e2023WR035901 [https://doi.org/10.1029/2023WR035901](https://doi.org/10.1029/2023WR035901)
 
-Park, S., R.Q. Thomas, C.C. Carey, A.D. Delany, Y.-J. Ku, M.E. Lofton, and R.J. Figueiredo.  2024. “FaaSr: Middleware for Serverless and Cross-Platform Function-as-a-Service Scientific Workflows in R”  in 2024 IEEE 20th International Conference on e-Science (e-Science), Osaka, Japan, 2024 pp. 1-10. <https://10.1109/e-Science62913.2024.10678660> 
+Park, S., R.Q. Thomas, C.C. Carey, A.D. Delany, Y.-J. Ku, M.E. Lofton, and R.J. Figueiredo.  2024. “FaaSr: cross-platform function-as-a-service serverless scientific workflows in R”  in 2024 IEEE 20th International Conference on e-Science (e-Science), Osaka, Japan, 2024 pp. 1-10. <https://10.1109/e-Science62913.2024.10678660> 
 
 Park, S., Y.-J. Ku, V. Daneshmand, R.Q. Thomas, C.C. Carey, R.J. Figuerido. 2024. FaaSr: R package for Function-as-a-Service. *Journal of Open Source Software* 9: 7027 <https://doi.org/10.21105/joss.07027> 
 
