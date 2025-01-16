@@ -6,7 +6,8 @@
 
 **Forecasting:**  We predict the future of ecosystems by combining observations and ecosystem models using statistical techniques.
 
-Data Science Faculty Fellow  
+Professor\
+[Data Science Faculty Fellow](https://data.science.vt.edu/about/data-science-faculty-fellows.html)  
 [Co-director of the Virginia Tech Center for Ecosystem Forecasting](https://ecoforecast.centers.vt.edu)   
 [Department of Forest Resources and Environmental Conservation &](https://frec.vt.edu) 
 [Department of Biological Sciences](https://biol.vt.edu)    
@@ -41,13 +42,19 @@ Lead PI of an NSF-sponsored 5-year project that is leading workshops, conference
 
 [Democratized Cyberinfrastructure for Open Discovery to Enable Research (OAC-2209866)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2209866&HistoricalAwards=false)
 
-[Cyberinfrastructure Enabling End-to-End Workflows for Aquatic Ecosystem Forecasting (DBI-1933016)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1933016&HistoricalAwards=false)
-
 [FaaSr: Enabling Cloud-native Event-driven Function-as-a-Service Computing Workflows in R (OAC-2311124)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2311124&HistoricalAwards=false)
+
+[Global Centers Track 2: Building the Global Center for Forecasting Freshwater Futures (OISE-2330211)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2330211&HistoricalAwards=false)
+
+*Completed projects*
 
 [Macrosystems EDDIE: An undergraduate training program in macrosystems science and ecological forecasting (DEB-1926050)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1926050&HistoricalAwards=false)
 
-[Global Centers Track 2: Building the Global Center for Forecasting Freshwater Futures (OISE-2330211)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2330211&HistoricalAwards=false)
+[Cyberinfrastructure Enabling End-to-End Workflows for Aquatic Ecosystem Forecasting (DBI-1933016)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1933016&HistoricalAwards=false)
+
+Decadal prediction of sustainable agricultural and forest management — Earth system prediction differs from climate prediction (USDA-NIFA 2015-67003-2348)
+
+[SCC-IRG Track 2: Resilient Water Systems: Integrating Environmental Sensor Networks and Real-Time Forecasting to Adaptively Manage Drinking Water Quality and Build Social Trust (CSE-1737424)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1737424&HistoricalAwards=false)
 
 [top](#ecosystem-dynamics-and-forecasting)
 
