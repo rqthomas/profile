@@ -2,7 +2,7 @@
 
 **Ecosystem:**  We study the forest and freshwater ecosystems upon which society depends
 
-**Dynamics:**  We model how ecosystems change over time in response to land-use, climate change, atmospheric deposition, and management.  We measure carbon, water, and energy exchange between ecosystems and the atmosphere using eddy-covariance and biometeorology sensors.
+**Dynamics:**  We model how ecosystems change over time in response to land-use, climate change, atmospheric deposition, and management.  
 
 **Forecasting:**  We predict the future of ecosystems by combining observations and ecosystem models using statistical techniques.
 
@@ -17,7 +17,6 @@ Room 315B
 1015 Life Science Circle  
 Blacksburg, VA 24061   
 rqthomas@vt.edu  
-[@rquinnthomas](https://twitter.com/rquinnthomas)  
 [Google Scholar](https://scholar.google.com/citations?user=8q-msz4AAAAJ&hl=en)   
 [ORCID](https://orcid.org/0000-0003-1282-7825)   
 [GitHub](https://github.com/rqthomas)
@@ -29,9 +28,9 @@ rqthomas@vt.edu
 Lead PI of an NSF-sponsored 5-year project that is leading workshops, conferences, and collaborative software development to address the following objectives:
 1. Define [community standards](https://doi.org/10.1002/ecs2.4686) and [best practices](https://doi.org/10.1002/eap.2500) for developing, sharing, and archiving forecasts and models
 2. Increase the number and diversity of NEON-enabled [(National Ecological Observatory Network)](https://www.neonscience.org) forecasts by developing and hosting the [NEON Ecological Forecasting Challenge](https://doi.org/10.1002/fee.2616)
-3. Create [educational materials](https://doi.org/10.1002/ece3.10001) to empower scientists at all career stages to forecast using NEON data products.
-4. Support the creation of [software](https://github.com/eco4cast) to produce NEON-enabled forecasts at intensive and collaborative coding-focused workshops
-5. Align forecast outputs and decision support with the needs of forecast users at [mission-driven agencies](https://projects.ecoforecast.org/usgsrc4cast-ci/) to guide decision-making, and
+3. Create educational materials ([here](https://doi.org/10.1002/ece3.10001) and [here](https://doi.org/10.21105/jose.00259))to empower scientists at all career stages to forecast using NEON data products.
+4. Support the creation of [software](https://github.com/eco4cast) to produce NEON-enabled forecasts at intensive and [collaborative coding-focused workshops](https://ecoforecast.org/efi-rcn-unconference-2023/).
+5. Align forecast outputs and decision support with the needs of forecast users at [mission-driven agencies](https://projects.ecoforecast.org/usgsrc4cast-ci/) to guide decision-making.
 6. Synthesize forecasts to examine how limits to forecastability vary across ecological systems and scales (e.g., [canopy phenology](https://doi.org/10.1016/j.agrformet.2023.109810), [lake water temperature](https://doi.org/10.1002/fee.2623)).
 
 *Other current projects*
@@ -100,7 +99,7 @@ Lead PI of an NSF-sponsored 5-year project that is leading workshops, conference
  
 ## Publications
 
-[Click for a full list of publications](./publications.html)
+[Click for a complete list of publications](./publications.html)
 
 *Recent (2024 - )*
 
