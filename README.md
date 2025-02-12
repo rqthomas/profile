@@ -108,41 +108,13 @@ Decadal prediction of sustainable agricultural and forest management — Earth s
 
 [Click for a complete list of publications](./publications.html)
 
-*Recent (2024 - )*
+*Recent (2025 - )*
 
-Carey, C.C., R. S.D. Calder, R.J. Figueiredo, R.B. Gramacy, M.E. Lofton, M.E. Schreiber and R.Q. Thomas. 2024. A framework for developing a real-time lake phytoplankton forecasting system to support water quality management in the face of global change. *Ambio*: awaiting issue <https://doi.org/10.1007/s13280-024-02076-7>
+Carey, C.C., R. S.D. Calder, R.J. Figueiredo, R.B. Gramacy, M.E. Lofton, M.E. Schreiber and R.Q. Thomas. 2025. A framework for developing a real-time lake phytoplankton forecasting system to support water quality management in the face of global change. *Ambio* 25: 475–487. <https://doi.org/10.1007/s13280-024-02076-7>
 
-Clark, C. M., J. G. Coughlin, J. Phelan, K. Austin, M. Salem, G. Martin, R. Sabo, K. Horn, R.Q. Thomas, and R. Dalton. 2024. Winners and losers in the climate roulette: A national analysis of tree growth and survival responses to temperature and precipitation. *Global Change Biology* 30: e17597. <https://doi.org/10.1111/gcb.17597>
+Lofton, M.E., T.N. Moore, W.M. Woelmer, R.Q. Thomas, and C.C. Carey. A modular curriculum to teach undergraduates ecological forecasting improves student and instructor confidence in their data science skills. *Bioscience*: Awaiting issue. <https://doi.org/10.1093/biosci/biae089>
 
-Dalton, J.N. Miller, T.L. Greaver, R.D. Sabo, K. G. Austin, J.N. Phelan, R.Q. Thomas and C. Clark. 2024. Regional variation in growth and survival responses to atmospheric nitrogen and sulfur deposition for 140 tree species across the United States. *Frontiers in Forests and Global Change* 7:1426644. <https://doi.org/10.3389/ffgc.2024.1426644> 
-
-Dietze, M., E.P. White, A. Abeyta, C. Boettiger, N. Bueno Watts, C.C. Carey, R. Chaplin-Kramer, R.E. Emanuel, S.K. Morgan Ernest, R. Figueiredo, M.D, Gerst, L.R. Johnson, M.A. Kenney, J.S. McLachlan, I.C. Paschalidis, J.A. Peters, C.R. Rollinson, J. Simonis, K. Sullivan-Way, R. Q. Thomas, G.M. Wardle, A. Willson, J. Zwart. 2024. Near-term Ecological Forecasting for Climate Change Action. *Nature Climate Change:* 14: 1236–1244 <https://doi.org/10.1038/s41558-024-02182-0>
-
-Figueiredo, R.J., C.C. Carey, and R.Q. Thomas. 2024. Translational Edge and Cloud Computing to Advance Lake Water Quality Forecasting. *Computing in Science & Engineering.* 26: 68-72. <https://doi.org/10.1109/MCSE.2024.3430148> 
-
-Lofton, M.E., T.N. Moore, W.M. Woelmer, R.Q. Thomas, and C.C. Carey. 2024. A modular curriculum to teach undergraduates ecological forecasting improves student and instructor confidence in their data science skills. *Bioscience*: Awaiting issue. <https://doi.org/10.1093/biosci/biae089>
-
-McNellis, R., N. Smith, R.Q. Thomas, and N. van Gestel. 2024. Winter cover cropping increases albedo and latent heat flux in a Texas High Plains agro-ecosystem. *Ecosphere* 15:e4753 [https://doi.org/10.1002/ecs2.4753](https://doi.org/10.1002/ecs2.4753)
-
-Meyer, M.F., M.E. Harlan, R.T. Hensley, Q. Zhan, N.S. Börekçi, T. Bucak, A.N. Cramer, J.Feldbauer, R. Ladwig, J.P. Mesman, I.A. Oleksy, R.M. Pilla, J.A. Zwart, E. Calamita, N.J. Gubbins, M.E. Lofton, D.A. Maciel, N.S. Marzolf, F. Olsson, A.N. Thellman, R.Q.Thomas, M.J. Vlah. 2024. Hacking Limnology Workshops and DSOS23: Growing a Workforce for the Nexus of Data Science, Open Science, and the Aquatic Sciences. *Limnology and Oceanography Bulletin* 33: 35-38. [https://doi.org/10.1002/lob.10607](https://doi.org/10.1002/lob.10607)
-
-Olsson, F., C.C. Carey, C. Boettiger, G. Harrison, R. Ladwig, M.F. Lapeyrolerie, A.S.L. Lewis, M.E. Lofton, F. Motealegre-Mora, J.S. Rebaey, C.J. Robbins. X. Yang, and R.Q. Thomas. What can we learn from 100,000 freshwater forecasts? A synthesis from the NEON Ecological Forecasting Challenge. Accepted at *Ecological Applications*.  Pre-print: [https://doi.org/10.22541/essoar.171458144.44104603/v1](https://doi.org/10.22541/essoar.171458144.44104603/v1) 
-
-Olsson F, C. Boettiger, C.C. Carey, M. Lofton and R.Q. Thomas. 2024. Can you predict the future? A tutorial for the National Ecological Observatory Network Ecological Forecasting Challenge. *Journal of Open Source Education* 7: 259. <https://doi.org/10.21105/jose.00259> 
-
-Olsson, F, T.N. Moore, C.C. Carey, A. Breef-Pilz, and R.Q. Thomas. 2024. A multi-model ensemble of baseline and process-based models improves the predictive skill of near-term lake forecasts. *Water Resources Research* 60: e2023WR035901 [https://doi.org/10.1029/2023WR035901](https://doi.org/10.1029/2023WR035901)
-
-Park, S., R.Q. Thomas, C.C. Carey, A.D. Delany, Y.-J. Ku, M.E. Lofton, and R.J. Figueiredo.  2024. “FaaSr: cross-platform function-as-a-service serverless scientific workflows in R”  in 2024 IEEE 20th International Conference on e-Science (e-Science), Osaka, Japan, 2024 pp. 1-10. <https://10.1109/e-Science62913.2024.10678660> 
-
-Park, S., Y.-J. Ku, V. Daneshmand, R.Q. Thomas, C.C. Carey, R.J. Figuerido. 2024. FaaSr: R package for Function-as-a-Service. *Journal of Open Source Software* 9: 7027 <https://doi.org/10.21105/joss.07027> 
-
-Phelan J, G. Van Houtven, C Clark, J. Buckley, J. Cajka, A. Hargrave, K. Horn, R.Q. Thomas, and R. Sabo. 2024. Climate Change Could Negate U.S. Forest Ecosystem Services Benefits Gained Through Reductions in Nitrogen and Sulfur Deposition. *Scientific Reports* 14: 10767 <https://doi.org/10.1038/s41598-024-60652-z> 
-
-Wander, H.L., R.Q Thomas, T.N. Moore, M.E. Lofton, A. Breef-Pilz, C.C. Carey. 2024. Data assimilation experiments inform monitoring needs for near-term ecological forecasts in a eutrophic reservoir. *Ecosphere* 15: e4752. [https://doi.org/10.1002/ecs2.4752](https://doi.org/10.1002/ecs2.4752) 
-
-Wheeler, K., M. Dietze, D. LeBauer, J. Peters, A.D. Richardson, R.Q. Thomas, K. Zhu, U. Bhat, S. Munch, R.F Buzbee, M. Chen, B. Goldstein, J.S. Guo, D. Hao, C. Jones, M. Kelly-Fair, H. Liu, C. Malmborg, N. Neupane. D. Pal, A. Ross, V. Shirey, Y. Song, M. Steen, E.A. Vance, W.M. Woelmer, J. Wynne and L. Zachmann. 2024. Predicting Spring Phenology in Deciduous Broadleaf Forests: An Open Community Forecast Challenge. *Agricultural and Forest Meteorology* 345: 09810 [https://doi.org/10.1016/j.agrformet.2023.109810](https://doi.org/10.1016/j.agrformet.2023.109810)
-
-Woelmer, W.M., R.Q. Thomas, F. Olsson, B.G. Steele, K.C. Weathers, and C.C. Carey. 2024. Process-Based Forecasts of Lake Water Temperature and Dissolved Oxygen Outperform Null Models, with Variability Over Time and Depth. *Ecological Informatics* 83: 102825. <https://doi.org/10.1016/j.ecoinf.2024.102825>
+Olsson, F., C.C. Carey, C. Boettiger, G. Harrison, R. Ladwig, M.F. Lapeyrolerie, A.S.L. Lewis, M.E. Lofton, F. Motealegre-Mora, J.S. Rebaey, C.J. Robbins. X. Yang, and R.Q. Thomas. 2025. What can we learn from 100,000 freshwater forecasts? A synthesis from the NEON Ecological Forecasting Challenge. Accepted at *Ecological Applications* 35:e70004 <https://doi.org/10.1002/eap.70004>
 
 *Pre-prints undergoing peer review*    
 
