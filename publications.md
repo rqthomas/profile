@@ -7,11 +7,11 @@ layout: default
 
 ## Pre-prints undergoing peer review
 
-Holthuijzen, M.F., R.B. Gramacy, C.C. Carey, D.M. Higdon, and R.Q. Thomas. Synthesizing data products, mathematical models, and observational measurements for lake temperature forecasting. *arXiv*. <https://doi.org/10.48550/arXiv.2407.03312>
-
 Paíz, R., R.Q. Thomas, C. C. Carey, E. de Eyto, A. Delany, R. Poole, P. Nixon, M. Dillane, I.D. Jones, D.C. Pierson, V. McCarthy, S. Linnane, E. Jennings. Near-term lake water temperature forecasts can be used to anticipate the ecological dynamics of freshwater species. *SSRN*. <http://dx.doi.org/10.2139/ssrn.4888712>.
 
 ## Accepted or In Press
+
+Holthuijzen, M.F., R.B. Gramacy, C.C. Carey, D.M. Higdon, and R.Q. Thomas. Synthesizing data products, mathematical models, and observational measurements for lake temperature forecasting. Accepted at *Annals of Applied Statistics*. 
 
 Lofton, M.E., T.N. Moore, W.M. Woelmer, R.Q. Thomas, and C.C. Carey. 2024. A modular curriculum to teach undergraduates ecological forecasting improves student and instructor confidence in their data science skills. *Bioscience*: Awaiting issue. <https://doi.org/10.1093/biosci/biae089>
 
