@@ -136,7 +136,7 @@ Professor (joint appointment), Department of Biological Sciences, Virginia Tech,
 
 Data Science Faculty Fellow, College of Science, Virginia Tech, Blacksburg, VA (2022 - present)
 
-Visiting Scientist, Terrestrial Ecosystem Research Network, University of Queensland, Brisbane, QLD, Australia (2022)
+Visiting Scientist, Terrestrial Ecosystem Research Network, University of Queensland, Brisbane, Queensland, Australia (2022)
 
 Visiting Scholar, Dartmouth College, Hanover, NH (2021 - 2022)
 
