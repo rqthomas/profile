@@ -122,6 +122,8 @@ Olsson, F., C.C. Carey, C. Boettiger, G. Harrison, R. Ladwig, M.F. Lapeyrolerie,
 
 Carey, C.C., F. Olsson, A. Breef-Pilz, R.Q. Thomas. High-frequency monitoring data reveal substantial variability in the intrinsic predictability of ecosystem dynamics. *ESS Open Archive* <http://dx.doi.org/10.22541/essoar.174231657.71904682/v1>
 
+Howard, D. W , M.E. Lofton, R.Q. Thomas, A.D. Delany, A. Breef-Pilz, C.C Carey. Near-term forecasts of dissolved organic matter exhibit consistent patterns of accuracy across multiple freshwater reservoirs. *ESS Open Archive.*  <http://dx.doi.org/10.22541/essoar.174715172.29580093/v1>
+
 Paíz, R., R.Q. Thomas, C. C. Carey, E. de Eyto, A. Delany, R. Poole, P. Nixon, M. Dillane, I.D. Jones, D.C. Pierson, V. McCarthy, S. Linnane, E. Jennings. Near-term lake water temperature forecasts can be used to anticipate the ecological dynamics of freshwater species. *SSRN.* <http://dx.doi.org/10.2139/ssrn.4888712>.
 
 [top](#ecosystem-dynamics-and-forecasting)
