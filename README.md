@@ -60,6 +60,8 @@ Decadal prediction of sustainable agricultural and forest management — Earth s
 
 ## In The News
 
+[Inaugural winners of new research awards named - VT News](https://news.vt.edu/articles/2025/05/research-inaugural-award-winners.html)
+
 [Scientists suggest amping up efforts to mitigate effects of climate change - VT News](https://news.vt.edu/articles/2024/11/ecological-forecasting-nature-climate-change-ecosystem-forecasting.html)
 
 [Undergraduate curriculum in ecological forecasting builds student and instructors’ quantitative literacy and data science skills - VT News](https://news.vt.edu/articles/2024/10/center-for-ecosystem-forecasting-eddie-training-modules.html)
