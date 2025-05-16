@@ -36,6 +36,8 @@ Lead PI of an NSF-sponsored 5-year project that is leading workshops, conference
 
 *Other current projects*
 
+[RAISE: Building resilience to Earth system hazards: forecasting drinking water quality with real-time integrated catchment modeling (RISE: 2438447)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2438447&HistoricalAwards=false)
+
 [Collaborative Research: URoL:ASC: Applying rules of life to forecast emergent behavior of phytoplankton and advance water quality management (EF-2318861)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2318861)
 
 [LTREB: Integrating real-time open data pipelines and forecasting to quantify ecosystem predictability at day to decadal scales (DEB-2327030)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2327030&HistoricalAwards=false)
