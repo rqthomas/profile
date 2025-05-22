@@ -122,13 +122,13 @@ Lofton, M.E., T.N. Moore, W.M. Woelmer, R.Q. Thomas, and C.C. Carey. 2025. A mod
 
 Olsson, F., C.C. Carey, C. Boettiger, G. Harrison, R. Ladwig, M.F. Lapeyrolerie, A.S.L. Lewis, M.E. Lofton, F. Motealegre-Mora, J.S. Rebaey, C.J. Robbins. X. Yang, and R.Q. Thomas. 2025. What can we learn from 100,000 freshwater forecasts? A synthesis from the NEON Ecological Forecasting Challenge. *Ecological Applications* 35:e70004 <https://doi.org/10.1002/eap.70004>
 
+Paíz, R., R.Q. Thomas, C. C. Carey, E. de Eyto, A. Delany, R. Poole, P. Nixon, M. Dillane, I.D. Jones, D.C. Pierson, V. McCarthy, S. Linnane, E. Jennings. Near-term lake water temperature forecasts can be used to anticipate the ecological dynamics of freshwater species. Accepted at *Ecosphere*.  Pre-print at: <http://dx.doi.org/10.2139/ssrn.4888712>.
+
 *Pre-prints undergoing peer review*    
 
 Carey, C.C., F. Olsson, A. Breef-Pilz, R.Q. Thomas. High-frequency monitoring data reveal substantial variability in the intrinsic predictability of ecosystem dynamics. *ESS Open Archive* <http://dx.doi.org/10.22541/essoar.174231657.71904682/v1>
 
 Howard, D. W , M.E. Lofton, R.Q. Thomas, A.D. Delany, A. Breef-Pilz, C.C Carey. Near-term forecasts of dissolved organic matter exhibit consistent patterns of accuracy across multiple freshwater reservoirs. *ESS Open Archive.*  <http://dx.doi.org/10.22541/essoar.174715172.29580093/v1>
-
-Paíz, R., R.Q. Thomas, C. C. Carey, E. de Eyto, A. Delany, R. Poole, P. Nixon, M. Dillane, I.D. Jones, D.C. Pierson, V. McCarthy, S. Linnane, E. Jennings. Near-term lake water temperature forecasts can be used to anticipate the ecological dynamics of freshwater species. *SSRN.* <http://dx.doi.org/10.2139/ssrn.4888712>.
 
 Wander, H.L., M.E. Lofton, J.P. Doubek, D.W. Howard, M.R. Hipsey, R.Q. Thomas, and C.C Carey. Warming air temperatures alter the timing and magnitude of reservoir zooplankton biomass. *ESS Open Archive.*  <http://dx.doi.org/10.22541/essoar.174361377.71642554/v1>
 
