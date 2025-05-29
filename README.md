@@ -116,7 +116,7 @@ Decadal prediction of sustainable agricultural and forest management — Earth s
 
 Carey, C.C., R. S.D. Calder, R.J. Figueiredo, R.B. Gramacy, M.E. Lofton, M.E. Schreiber and R.Q. Thomas. 2025. A framework for developing a real-time lake phytoplankton forecasting system to support water quality management in the face of global change. *Ambio* 25: 475–487. <https://doi.org/10.1007/s13280-024-02076-7>
 
-Holthuijzen, M.F., R.B. Gramacy, C.C. Carey, D.M. Higdon, and R.Q. Thomas. Synthesizing data products, mathematical models, and observational measurements for lake temperature forecasting. Accepted at *Annals of Applied Statistics*. 
+Holthuijzen, M.F., R.B. Gramacy, C.C. Carey, D.M. Higdon, and R.Q. Thomas. Synthesizing data products, mathematical models, and observational measurements for lake temperature forecasting. *Annals of Applied Statistics* 19: 1127-1146 <https://doi.org/10.1214/25-AOAS2027>.  Also available on [arXiv](https://doi.org/10.48550/arXiv.2407.03312).
 
 Lofton, M.E., T.N. Moore, W.M. Woelmer, R.Q. Thomas, and C.C. Carey. 2025. A modular curriculum to teach undergraduates ecological forecasting improves student and instructor confidence in their data science skills. *Bioscience* 75: 127-138 <https://doi.org/10.1093/biosci/biae089>
 
