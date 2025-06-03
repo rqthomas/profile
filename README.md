@@ -1,10 +1,10 @@
 # Ecosystem Dynamics and Forecasting
 
-**Ecosystem:**  We study the forest and freshwater ecosystems upon which society depends
+**Ecosystem:**  Studying the forest and freshwater ecosystems upon which society depends
 
-**Dynamics:**  We model how ecosystems change over time in response to land-use, climate change, atmospheric deposition, and management.  
+**Dynamics:**  Modeling how ecosystems change over time in response to land-use, climate change, atmospheric deposition, and management.  
 
-**Forecasting:**  We predict the future of ecosystems by combining observations and ecosystem models using statistical techniques.
+**Forecasting:**  Predicting the future of ecosystems by combining observations and ecosystem models using statistical techniques.
 
 Professor\
 [Data Science Faculty Fellow](https://data.science.vt.edu/about/data-science-faculty-fellows.html)  
