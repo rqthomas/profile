@@ -7,10 +7,10 @@
 **Forecasting:**  Predicting the future of ecosystems by combining observations and ecosystem models using statistical techniques.
 
 Professor\
-[Data Science Faculty Fellow](https://data.science.vt.edu/about/data-science-faculty-fellows.html)  
-[Co-director of the Virginia Tech Center for Ecosystem Forecasting](https://ecoforecast.centers.vt.edu)   
-[Department of Forest Resources and Environmental Conservation](https://frec.vt.edu)
-[Joint Appointment in Department of Biological Sciences](https://biol.vt.edu)    
+[Co-director of the Virginia Tech Center for Ecosystem Forecasting](https://ecoforecast.centers.vt.edu)\
+[Data Science Faculty Fellow](https://data.science.vt.edu/about/data-science-faculty-fellows.html)\
+[Department of Forest Resources and Environmental Conservation](https://frec.vt.edu)\
+[Joint Appointment in Department of Biological Sciences](https://biol.vt.edu)\
 [Virginia Tech](https://vt.edu)   
 
 Steger Hall (0477)
