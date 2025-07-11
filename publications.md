@@ -15,6 +15,8 @@ Lofton, M.E., R.Q. Thomas, F. Olsson, A. Breef-Pilz, C. C. Carey, A. Neog, S. Fa
 
 Olsson, F., Thomas, R. Q., Hipsey, M. R., Delany, A. D., Sims, C., Rumbelow, A., & Carey, C. (2025). Developing scenario-based, near-term iterative forecasts to inform water management. *ESS Open Archive.* <https://doi.org/10.22541/essoar.175105660.07388971/v1>
 
+Patil, P.V., R.B. Gramacy, C.C. Carey, and R.Q. Thomas. Vecchia approximated Bayesian heteroskedastic Gaussian processes. *arXiv.* <https://doi.org/10.48550/arXiv.2507.07815>
+
 Wander, H.L., M.E. Lofton, J.P. Doubek, D.W. Howard, M.R. Hipsey, R.Q. Thomas, and C.C Carey. Warming air temperatures alter the timing and magnitude of reservoir zooplankton biomass. *ESS Open Archive.*  <http://dx.doi.org/10.22541/essoar.174361377.71642554/v1>
 
 ## Accepted or In Press
