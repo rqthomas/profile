@@ -17,11 +17,9 @@ Olsson, F., Thomas, R. Q., Hipsey, M. R., Delany, A. D., Sims, C., Rumbelow, A.,
 
 Patil, P.V., R.B. Gramacy, C.C. Carey, and R.Q. Thomas. Vecchia approximated Bayesian heteroskedastic Gaussian processes. *arXiv.* <https://doi.org/10.48550/arXiv.2507.07815>
 
-Wander, H.L., M.E. Lofton, J.P. Doubek, D.W. Howard, M.R. Hipsey, R.Q. Thomas, and C.C Carey. Warming air temperatures alter the timing and magnitude of reservoir zooplankton biomass. *ESS Open Archive.*  <http://dx.doi.org/10.22541/essoar.174361377.71642554/v1>
-
 ## Accepted or In Press
 
-Paíz, R., R.Q. Thomas, C. C. Carey, E. de Eyto, A. Delany, R. Poole, P. Nixon, M. Dillane, I.D. Jones, D.C. Pierson, V. McCarthy, S. Linnane, E. Jennings. Near-term lake water temperature forecasts can be used to anticipate the ecological dynamics of freshwater species. Accepted at *Ecosphere*.  Pre-print at: <http://dx.doi.org/10.2139/ssrn.4888712>.
+Wander, H.L., M.E. Lofton, J.P. Doubek, D.W. Howard, M.R. Hipsey, R.Q. Thomas, and C.C Carey. Warming air temperatures alter the timing and magnitude of reservoir zooplankton biomass. Accepted at *Ecological Modeling*.  Pre-print at <http://dx.doi.org/10.22541/essoar.174361377.71642554/v1>
 
 ## 2025
 
@@ -32,6 +30,8 @@ Holthuijzen, M.F., R.B. Gramacy, C.C. Carey, D.M. Higdon, and R.Q. Thomas. Synth
 Lofton, M.E., T.N. Moore, W.M. Woelmer, R.Q. Thomas, and C.C. Carey. 2025. A modular curriculum to teach undergraduates ecological forecasting improves student and instructor confidence in their data science skills. *Bioscience* 75: 127-138 <https://doi.org/10.1093/biosci/biae089>.  Also available on [ESS Open Archive](https://doi.org/10.22541/essoar.171269260.08508117/v2)
 
 Olsson, F., C.C. Carey, C. Boettiger, G. Harrison, R. Ladwig, M.F. Lapeyrolerie, A.S.L. Lewis, M.E. Lofton, F. Motealegre-Mora, J.S. Rebaey, C.J. Robbins. X. Yang, and R.Q. Thomas. 2025. What can we learn from 100,000 freshwater forecasts? A synthesis from the NEON Ecological Forecasting Challenge. *Ecological Applications* 35:e70004 <https://doi.org/10.1002/eap.70004>
+
+Paíz, R., R.Q. Thomas, C. C. Carey, E. de Eyto, A. Delany, R. Poole, P. Nixon, M. Dillane, I.D. Jones, D.C. Pierson, V. McCarthy, S. Linnane, E. Jennings. Near-term lake water temperature forecasts can be used to anticipate the ecological dynamics of freshwater species. *Ecosphere* 16: e70335  <http://dx.doi.org/10.1002/ecs2.70335>
 
 ## 2024
 
