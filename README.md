@@ -116,15 +116,17 @@ Decadal prediction of sustainable agricultural and forest management — Earth s
 
 Carey, C.C., R. S.D. Calder, R.J. Figueiredo, R.B. Gramacy, M.E. Lofton, M.E. Schreiber and R.Q. Thomas. 2025. A framework for developing a real-time lake phytoplankton forecasting system to support water quality management in the face of global change. *Ambio* 25: 475–487. <https://doi.org/10.1007/s13280-024-02076-7>
 
-Holthuijzen, M.F., R.B. Gramacy, C.C. Carey, D.M. Higdon, and R.Q. Thomas. Synthesizing data products, mathematical models, and observational measurements for lake temperature forecasting. *Annals of Applied Statistics* 19: 1127-1146 <https://doi.org/10.1214/25-AOAS2027>.  Also available on [arXiv](https://doi.org/10.48550/arXiv.2407.03312).
+Holthuijzen, M.F., R.B. Gramacy, C.C. Carey, D.M. Higdon, and R.Q. Thomas. Synthesizing data products, mathematical models, and observational measurements for lake temperature forecasting. *Annals of Applied Statistics* 19: 1127-1146 <https://doi.org/10.1214/25-AOAS2027>.  Open Access version at [arXiv](https://doi.org/10.48550/arXiv.2407.03312).
 
-Lofton, M.E., T.N. Moore, W.M. Woelmer, R.Q. Thomas, and C.C. Carey. 2025. A modular curriculum to teach undergraduates ecological forecasting improves student and instructor confidence in their data science skills. *Bioscience* 75: 127-138 <https://doi.org/10.1093/biosci/biae089>.  Also available on [ESS Open Archive](https://doi.org/10.22541/essoar.171269260.08508117/v2)
+Lofton, M.E., T.N. Moore, W.M. Woelmer, R.Q. Thomas, and C.C. Carey. 2025. A modular curriculum to teach undergraduates ecological forecasting improves student and instructor confidence in their data science skills. *Bioscience* 75: 127-138 <https://doi.org/10.1093/biosci/biae089>.  Open Access version at [ESS Open Archive](https://doi.org/10.22541/essoar.171269260.08508117/v2)
 
 Olsson, F., C.C. Carey, C. Boettiger, G. Harrison, R. Ladwig, M.F. Lapeyrolerie, A.S.L. Lewis, M.E. Lofton, F. Motealegre-Mora, J.S. Rebaey, C.J. Robbins. X. Yang, and R.Q. Thomas. 2025. What can we learn from 100,000 freshwater forecasts? A synthesis from the NEON Ecological Forecasting Challenge. *Ecological Applications* 35:e70004 <https://doi.org/10.1002/eap.70004>
 
 Paíz, R., R.Q. Thomas, C. C. Carey, E. de Eyto, A. Delany, R. Poole, P. Nixon, M. Dillane, I.D. Jones, D.C. Pierson, V. McCarthy, S. Linnane, E. Jennings. Near-term lake water temperature forecasts can be used to anticipate the ecological dynamics of freshwater species. *Ecosphere* 16: e70335  <http://dx.doi.org/10.1002/ecs2.70335>
 
-Wander, H.L., M.E. Lofton, J.P. Doubek, D.W. Howard, M.R. Hipsey, R.Q. Thomas, and C.C Carey. Warming air temperatures alter the timing and magnitude of reservoir zooplankton biomass. Accepted at *Ecological Modeling*.  Pre-print at <http://dx.doi.org/10.22541/essoar.174361377.71642554/v1>
+Thomas, R. Q., C. C. Carey, E. R. Sokol, M. A. Kenney, M. C. Dietze, and M. A. Xenopoulos. 2025. Advances in ecological forecasting. *Eos*: 106. <https://doi.org/10.1029/2025EO255024>
+
+Wander, H.L., M.E. Lofton, J.P. Doubek, D.W. Howard, M.R. Hipsey, R.Q. Thomas, and C.C Carey. 2025. Warming air temperatures alter the timing and magnitude of reservoir zooplankton biomass. *Ecological Modeling* 509: 111272. <https://doi.org/10.1016/j.ecolmodel.2025.111272>.  Open Access version at [ESS Open Archive](http://dx.doi.org/10.22541/essoar.174361377.71642554/v1)
 
 *Pre-prints undergoing peer review*    
 
