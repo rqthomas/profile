@@ -114,6 +114,8 @@ Decadal prediction of sustainable agricultural and forest management — Earth s
 
 *Recent (2025 - )*
 
+Carey, C.C., F. Olsson, A. Breef-Pilz, R.Q. Thomas. High-frequency monitoring data reveal substantial variability in the intrinsic predictability of ecosystem dynamics. Accepted at *Ecology* Pre-print at: <http://dx.doi.org/10.22541/essoar.174231657.71904682/v1>
+
 Carey, C.C., R. S.D. Calder, R.J. Figueiredo, R.B. Gramacy, M.E. Lofton, M.E. Schreiber and R.Q. Thomas. 2025. A framework for developing a real-time lake phytoplankton forecasting system to support water quality management in the face of global change. *Ambio* 25: 475–487. <https://doi.org/10.1007/s13280-024-02076-7>
 
 Holthuijzen, M.F., R.B. Gramacy, C.C. Carey, D.M. Higdon, and R.Q. Thomas. Synthesizing data products, mathematical models, and observational measurements for lake temperature forecasting. *Annals of Applied Statistics* 19: 1127-1146 <https://doi.org/10.1214/25-AOAS2027>.  Open Access version at [arXiv](https://doi.org/10.48550/arXiv.2407.03312).
@@ -129,8 +131,6 @@ Thomas, R. Q., C. C. Carey, E. R. Sokol, M. A. Kenney, M. C. Dietze, and M. A. X
 Wander, H.L., M.E. Lofton, J.P. Doubek, D.W. Howard, M.R. Hipsey, R.Q. Thomas, and C.C Carey. 2025. Warming air temperatures alter the timing and magnitude of reservoir zooplankton biomass. *Ecological Modeling* 509: 111272. <https://doi.org/10.1016/j.ecolmodel.2025.111272>.  Open Access version at [ESS Open Archive](http://dx.doi.org/10.22541/essoar.174361377.71642554/v1)
 
 *Pre-prints undergoing peer review*    
-
-Carey, C.C., F. Olsson, A. Breef-Pilz, R.Q. Thomas. High-frequency monitoring data reveal substantial variability in the intrinsic predictability of ecosystem dynamics. *ESS Open Archive* <http://dx.doi.org/10.22541/essoar.174231657.71904682/v1>
 
 Howard, D. W , M.E. Lofton, R.Q. Thomas, A.D. Delany, A. Breef-Pilz, C.C Carey. Near-term forecasts of dissolved organic matter exhibit consistent patterns of accuracy across multiple freshwater reservoirs. *ESS Open Archive.*  <http://dx.doi.org/10.22541/essoar.174715172.29580093/v1>
 
