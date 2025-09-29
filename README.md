@@ -140,6 +140,8 @@ Olsson, F., Thomas, R. Q., Hipsey, M. R., Delany, A. D., Sims, C., Rumbelow, A.,
 
 Patil, P.V., R.B. Gramacy, C.C. Carey, and R.Q. Thomas. Vecchia approximated Bayesian heteroskedastic Gaussian processes. *arXiv.* <https://doi.org/10.48550/arXiv.2507.07815>
 
+Thomas, R.Q. and C. Boettiger. Cyberinfrastructure to Support Ecological Forecasting Challenges. *ESS Open Archive.* <http://doi.org/10.22541/essoar.175917344.44115142/v1>
+
 [top](#ecosystem-dynamics-and-forecasting)
 
 ## Bio
