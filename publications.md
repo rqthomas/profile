@@ -15,6 +15,8 @@ Olsson, F., Thomas, R. Q., Hipsey, M. R., Delany, A. D., Sims, C., Rumbelow, A.,
 
 Patil, P.V., R.B. Gramacy, C.C. Carey, and R.Q. Thomas. Vecchia approximated Bayesian heteroskedastic Gaussian processes. *arXiv.* <https://doi.org/10.48550/arXiv.2507.07815>
 
+Thomas, R.Q. and C. Boettiger. Cyberinfrastructure to Support Ecological Forecasting Challenges. *ESS Open Archive.* <http://doi.org/10.22541/essoar.175917344.44115142/v1>
+
 ## Accepted or In Press
 
 Carey, C.C., F. Olsson, A. Breef-Pilz, R.Q. Thomas. High-frequency monitoring data reveal substantial variability in the intrinsic predictability of ecosystem dynamics. Accepted at *Ecology* Pre-print at: <http://dx.doi.org/10.22541/essoar.174231657.71904682/v1>
