@@ -24,17 +24,7 @@ rqthomas@vt.edu
 
 ## Projects
 
-[Ecological Forecasting Initiative Research Coordination Network](https://ecoforecast.org/rcn/) [(DEB-1926388)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1926388&HistoricalAwards=false)
-
-Lead PI of an NSF-sponsored 5-year project that is leading workshops, conferences, and collaborative software development to address the following objectives:
-1. Define [community standards](https://doi.org/10.1002/ecs2.4686) and [best practices](https://doi.org/10.1002/eap.2500) for developing, sharing, and archiving forecasts and models
-2. Increase the number and diversity of NEON-enabled [(National Ecological Observatory Network)](https://www.neonscience.org) forecasts by developing and hosting the [NEON Ecological Forecasting Challenge](https://doi.org/10.1002/fee.2616)
-3. Create educational materials ([here](https://doi.org/10.1002/ece3.10001) and [here](https://doi.org/10.21105/jose.00259))to empower scientists at all career stages to forecast using NEON data products.
-4. Support the creation of [software](https://github.com/eco4cast) to produce NEON-enabled forecasts at intensive and [collaborative coding-focused workshops](https://ecoforecast.org/efi-rcn-unconference-2023/).
-5. Align forecast outputs and decision support with the needs of forecast users at [mission-driven agencies](https://projects.ecoforecast.org/usgsrc4cast-ci/) to guide decision-making.
-6. Synthesize forecasts to examine how limits to forecastability vary across ecological systems and scales (e.g., [canopy phenology](https://doi.org/10.1016/j.agrformet.2023.109810), [lake water temperature](https://doi.org/10.1002/fee.2623)).
-
-*Other current projects*
+*Current projects*
 
 [RAISE: Building resilience to Earth system hazards: forecasting drinking water quality with real-time integrated catchment modeling (RISE: 2438447)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2438447&HistoricalAwards=false)
 
@@ -50,64 +40,19 @@ Lead PI of an NSF-sponsored 5-year project that is leading workshops, conference
 
 *Completed projects*
 
+[Ecological Forecasting Initiative Research Coordination Network (DEB-1926388)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1926388&HistoricalAwards=false)
+
 [Macrosystems EDDIE: An undergraduate training program in macrosystems science and ecological forecasting (DEB-1926050)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1926050&HistoricalAwards=false)
 
 [Cyberinfrastructure Enabling End-to-End Workflows for Aquatic Ecosystem Forecasting (DBI-1933016)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1933016&HistoricalAwards=false)
 
-Decadal prediction of sustainable agricultural and forest management — Earth system prediction differs from climate prediction (USDA-NIFA 2015-67003-2348)
+[Decadal prediction of sustainable agricultural and forest management — Earth system prediction differs from climate prediction (USDA-NIFA 2015-67003-2348)](https://portal.nifa.usda.gov/web/crisprojectpages/1005083-decadal-prediction-of-sustainable-agricultural-and-forest-management--earth-system-prediction-differs-from-climate-prediction.html)
 
 [SCC-IRG Track 2: Resilient Water Systems: Integrating Environmental Sensor Networks and Real-Time Forecasting to Adaptively Manage Drinking Water Quality and Build Social Trust (CSE-1737424)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1737424&HistoricalAwards=false)
 
-[top](#ecosystem-dynamics-and-forecasting)
-
-## In The News
-
-[Inaugural winners of new research awards named - VT News](https://news.vt.edu/articles/2025/05/research-inaugural-award-winners.html)
-
-[Scientists suggest amping up efforts to mitigate effects of climate change - VT News](https://news.vt.edu/articles/2024/11/ecological-forecasting-nature-climate-change-ecosystem-forecasting.html)
-
-[Undergraduate curriculum in ecological forecasting builds student and instructors’ quantitative literacy and data science skills - VT News](https://news.vt.edu/articles/2024/10/center-for-ecosystem-forecasting-eddie-training-modules.html)
-
-[New center showcases Virginia Tech's strengths in global sustainability - VT News](https://news.vt.edu/articles/2024/04/cayelan-carey-quinn-thomas-center-ecosystem-forecasting-new.html)
-
-[Researchers receive National Science Foundation grant for long-term data research - VT News](https://news.vt.edu/articles/2024/02/flsi-ltreb-nsf-grant.html)
-
-[Diving Into the Future of Freshwater Forecasting - NEON Science](https://www.neonscience.org/impact/observatory-blog/diving-future-freshwater-forecasting)
-
-[Researchers cross international boundaries to predict better water quality - VT News](https://news.vt.edu/articles/2023/09/flsi-cayelan-carey-quinn-thomas-nsf-global-center-design-grant.html)
-
-[Scientists spurred by a thirst to transform the field of phytoplankton forecasting - VT News](https://news.vt.edu/articles/2023/08/flsi-nsf-grant-cayelan-carey.html)
-
-[Building the tools to make environmental data more accessible and forecasts more accurate - VT News](https://vtx.vt.edu/articles/2022/10/cnre-thomas-nsf-grant.html)   
-
-[A vicious cycle of oxygen loss threatens water quality in lakes - VT News](https://vtx.vt.edu/articles/2022/05/science-freshwater_lakes_losing_oxygen.html)   
-
-[Fewer ticks, cleaner water, and more carbon intake: Fellowship recipient Quinn Thomas plans to use data to predict our environment - VT News](https://vtx.vt.edu/articles/2021/12/cnre-quinn-thomas-data-science-fellowship.html)   
-
-[Virginia Tech pioneers smart reservoirs - Roanoke Times](https://roanoke.com/news/local/virginia-tech-pioneers-smart-reservoirs/article_b7b7330e-35a5-11eb-a443-b3f621f19df6.html#tracking-source=home-top-story-1)
-
-[Confronting ecological change takes a collaborative leap with the NEON Ecological Forecasting Challenge - VT News](https://vtnews.vt.edu/articles/2020/11/fralinlifesci-neon-ecological-forecasting-challenge-2021.html)
-
-[To ensure safe drinking water, experts forecast the health of lakes and reservoirs - VT News](https://vtnews.vt.edu/articles/2020/09/fralinlifesci-ecological-forecasting-research-education.html)  
-
-[Researchers co-locate to Steger Hall at the Fralin Life Sciences Institute to tackle infectious diseases and rapid environmental change - VT News](https://vtnews.vt.edu/articles/2020/08/08-25-20-Fralin-Life-Sci-Steger-Hall.html)  
-
-[Using data to predict the future of ecosystems - VT News](https://vtnews.vt.edu/articles/2019/10/cnre-data-thomas.html)  
-
-[Researchers receive NSF grant to create Ecological Forecasting Research Coordination Network - VT News](https://vtnews.vt.edu/articles/2019/08/080719-FLSI-Ecological-Forecasting-RCN-grant.html) 
- 
-[Testing the water: Virginia Tech team launches system to predict water conditions - VT News](https://vtnews.vt.edu/articles/2019/04/unirel-smartreservoir.html)  
-
-[Global Change Center researchers to forecast water quality with NSF support - VT News](https://vtnews.vt.edu/articles/2017/10/101217-fralin-waterforecast.html)  
-
-[Global Change Center researchers help water authority create ‘best water possible,’ prepare for warmer temperatures - VT News](https://vtnews.vt.edu/articles/2017/03/031517-fralin-watersystem.html)  
-
-[Study forecasts growth rates of loblolly pine trees through first half of 21st century - VT News](https://vtnews.vt.edu/articles/2018/07/cnre-ecologicalforecast.html)  
-
-[Study incorporates ecological processes into Earth system models to aid climate change predictions - VT News](https://vtnews.vt.edu/articles/2015/11/111115-cnre-usdanifagrant.html) 
 
 [top](#ecosystem-dynamics-and-forecasting)
- 
+
 ## Publications
 
 [Click for a complete list of publications](./publications.html)
@@ -173,6 +118,56 @@ Ph.D. Cornell University, Ithaca, NY (2007 - 2012)
 M.S. University of New Hampshire, Durham, NH (2005 - 2007)  
 
 A.B. Dartmouth College, Hanover, NH (2001 - 2005)  
+
+[top](#ecosystem-dynamics-and-forecasting)
+
+## In The News
+
+[Ecological forecasting research team crosses ecosystem boundaries - VT News](https://news.vt.edu/articles/2025/10/ecological-forecasting-nhs-grant-quinn-thomas.html)
+
+[Inaugural winners of new research awards named - VT News](https://news.vt.edu/articles/2025/05/research-inaugural-award-winners.html)
+
+[Scientists suggest amping up efforts to mitigate effects of climate change - VT News](https://news.vt.edu/articles/2024/11/ecological-forecasting-nature-climate-change-ecosystem-forecasting.html)
+
+[Undergraduate curriculum in ecological forecasting builds student and instructors’ quantitative literacy and data science skills - VT News](https://news.vt.edu/articles/2024/10/center-for-ecosystem-forecasting-eddie-training-modules.html)
+
+[New center showcases Virginia Tech's strengths in global sustainability - VT News](https://news.vt.edu/articles/2024/04/cayelan-carey-quinn-thomas-center-ecosystem-forecasting-new.html)
+
+[Researchers receive National Science Foundation grant for long-term data research - VT News](https://news.vt.edu/articles/2024/02/flsi-ltreb-nsf-grant.html)
+
+[Diving Into the Future of Freshwater Forecasting - NEON Science](https://www.neonscience.org/impact/observatory-blog/diving-future-freshwater-forecasting)
+
+[Researchers cross international boundaries to predict better water quality - VT News](https://news.vt.edu/articles/2023/09/flsi-cayelan-carey-quinn-thomas-nsf-global-center-design-grant.html)
+
+[Scientists spurred by a thirst to transform the field of phytoplankton forecasting - VT News](https://news.vt.edu/articles/2023/08/flsi-nsf-grant-cayelan-carey.html)
+
+[Building the tools to make environmental data more accessible and forecasts more accurate - VT News](https://vtx.vt.edu/articles/2022/10/cnre-thomas-nsf-grant.html)   
+
+[A vicious cycle of oxygen loss threatens water quality in lakes - VT News](https://vtx.vt.edu/articles/2022/05/science-freshwater_lakes_losing_oxygen.html)   
+
+[Fewer ticks, cleaner water, and more carbon intake: Fellowship recipient Quinn Thomas plans to use data to predict our environment - VT News](https://vtx.vt.edu/articles/2021/12/cnre-quinn-thomas-data-science-fellowship.html)   
+
+[Virginia Tech pioneers smart reservoirs - Roanoke Times](https://roanoke.com/news/local/virginia-tech-pioneers-smart-reservoirs/article_b7b7330e-35a5-11eb-a443-b3f621f19df6.html#tracking-source=home-top-story-1)
+
+[Confronting ecological change takes a collaborative leap with the NEON Ecological Forecasting Challenge - VT News](https://vtnews.vt.edu/articles/2020/11/fralinlifesci-neon-ecological-forecasting-challenge-2021.html)
+
+[To ensure safe drinking water, experts forecast the health of lakes and reservoirs - VT News](https://vtnews.vt.edu/articles/2020/09/fralinlifesci-ecological-forecasting-research-education.html)  
+
+[Researchers co-locate to Steger Hall at the Fralin Life Sciences Institute to tackle infectious diseases and rapid environmental change - VT News](https://vtnews.vt.edu/articles/2020/08/08-25-20-Fralin-Life-Sci-Steger-Hall.html)  
+
+[Using data to predict the future of ecosystems - VT News](https://vtnews.vt.edu/articles/2019/10/cnre-data-thomas.html)  
+
+[Researchers receive NSF grant to create Ecological Forecasting Research Coordination Network - VT News](https://vtnews.vt.edu/articles/2019/08/080719-FLSI-Ecological-Forecasting-RCN-grant.html) 
+ 
+[Testing the water: Virginia Tech team launches system to predict water conditions - VT News](https://vtnews.vt.edu/articles/2019/04/unirel-smartreservoir.html)  
+
+[Global Change Center researchers to forecast water quality with NSF support - VT News](https://vtnews.vt.edu/articles/2017/10/101217-fralin-waterforecast.html)  
+
+[Global Change Center researchers help water authority create ‘best water possible,’ prepare for warmer temperatures - VT News](https://vtnews.vt.edu/articles/2017/03/031517-fralin-watersystem.html)  
+
+[Study forecasts growth rates of loblolly pine trees through first half of 21st century - VT News](https://vtnews.vt.edu/articles/2018/07/cnre-ecologicalforecast.html)  
+
+[Study incorporates ecological processes into Earth system models to aid climate change predictions - VT News](https://vtnews.vt.edu/articles/2015/11/111115-cnre-usdanifagrant.html) 
 
 [top](#ecosystem-dynamics-and-forecasting)
 
