@@ -179,27 +179,28 @@ Bibek Kandel
 
 *Post-docs*
 
-Mary Lofton (Co-mentored with Cayelan Carey)  
-Maike Holthuijzen (Co-mentored with Cayelan Carey)  
-Freya Olsson (Co-mentored with Cayelan Carey)  
+Molly Stroud (Center for Ecosystem Forecasting)
+Rohit Shukla (Center for Ecosystem Forecasting) 
 
-*Data Scientist*
+*Research Scientists*
 
-Austin Delany
+Mary Lofton (Center for Ecosystem Forecasting)
+Austin Delany (Center for Ecosystem Forecasting)
 
 *Alumni*
 
 Joshua Rady (PhD)    
 Benjamin Ahlswede (PhD)      
 Michael Graham (PhD; Geospatial and Environmental Analysis; co-advised with Megan O'Rourke)     
+Maike Holthuijzen (Co-mentored with Cayelan Carey)  
 Kevin J. Horn (Post-doc)    
-Annika Jersild (MS)    
+Annika Jersild (MS)   
 Ryan McClure (Post-doc; Co-mentored with Cayelan Carey)        
 Wyatt McCurdy (MS)     
 Tadhg Moore (Post-doc; Co-mentored with Cayelan Carey)     
+Freya Olsson (Post-doc; Co-mentored with Cayelan Carey) 
 Laura Puckett (UG)   
 John Smith (PhD in Statistics; co-advised with Leah Johnson)  
- 
 
 [top](#ecosystem-dynamics-and-forecasting)
 
