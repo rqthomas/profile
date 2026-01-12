@@ -7,7 +7,7 @@ layout: default
 
 ## Pre-prints undergoing peer review
 
-Howard, D. W , M.E. Lofton, R.Q. Thomas, A.D. Delany, A. Breef-Pilz, C.C Carey. Near-term forecasts of dissolved organic matter exhibit consistent patterns of accuracy across multiple freshwater reservoirs. *ESS Open Archive.*  <http://dx.doi.org/10.22541/essoar.174715172.29580093/v1>
+
 
 Lofton, M.E., R.Q. Thomas, F. Olsson, A. Breef-Pilz, C. C. Carey, A. Neog, S. Fatemi, A. Karpatne, D. Howard, and H. Wander. The importance of a multi-model ensemble for predicting variable ecological time series across dynamic conditions. *ESS Open Archive.*  <http://dx.doi.org/10.22541/essoar.174785900.05100209/v1> 
 
@@ -22,6 +22,8 @@ Thomas, R.Q. and C. Boettiger. Cyberinfrastructure to Support Ecological Forecas
 ## Accepted or In Press
 
 Carey, C.C., F. Olsson, A. Breef-Pilz, R.Q. Thomas. High-frequency monitoring data reveal substantial variability in the intrinsic predictability of ecosystem dynamics. Accepted at *Ecology* Pre-print at: <http://dx.doi.org/10.22541/essoar.174231657.71904682/v1>
+
+Howard, D. W , M.E. Lofton, R.Q. Thomas, A.D. Delany, A. Breef-Pilz, C.C Carey. Near-term forecasts of dissolved organic matter exhibit consistent patterns of accuracy across multiple freshwater reservoirs. Accepted at *JGR-Biogeosciences*. Pre-print at *ESS Open Archive.*  <http://dx.doi.org/10.22541/essoar.174715172.29580093/v1>
 
 ## 2025
 
