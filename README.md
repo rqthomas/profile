@@ -59,7 +59,7 @@ rqthomas@vt.edu
 
 *Recent (2025 - )*
 
-Carey, C.C., F. Olsson, A. Breef-Pilz, R.Q. Thomas. High-frequency monitoring data reveal substantial variability in the intrinsic predictability of ecosystem dynamics. Accepted at *Ecology* Pre-print at: <http://dx.doi.org/10.22541/essoar.174231657.71904682/v1>
+Carey, C.C., F. Olsson, A. Breef-Pilz, R.Q. Thomas. 2026. High-frequency monitoring data reveal substantial variability in the intrinsic predictability of ecosystem dynamics. *Ecology* <http://dx.doi.org/10.1002/ecy.70292>
 
 Carey, C.C., R. S.D. Calder, R.J. Figueiredo, R.B. Gramacy, M.E. Lofton, M.E. Schreiber and R.Q. Thomas. 2025. A framework for developing a real-time lake phytoplankton forecasting system to support water quality management in the face of global change. *Ambio* 25: 475–487. <https://doi.org/10.1007/s13280-024-02076-7>
 
