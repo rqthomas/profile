@@ -21,9 +21,11 @@ Thomas, R.Q. and C. Boettiger. Cyberinfrastructure to Support Ecological Forecas
 
 ## Accepted or In Press
 
-Carey, C.C., F. Olsson, A. Breef-Pilz, R.Q. Thomas. High-frequency monitoring data reveal substantial variability in the intrinsic predictability of ecosystem dynamics. Accepted at *Ecology* Pre-print at: <http://dx.doi.org/10.22541/essoar.174231657.71904682/v1>
+Howard, D. W , M.E. Lofton, R.Q. Thomas, A.D. Delany, A. Breef-Pilz, C.C Carey. Near-term forecasts of dissolved organic matter exhibit consistent patterns of accuracy across multiple freshwater reservoirs. Accepted at *JGR-Biogeosciences*. Pre-print at *ESS Open Archive.*  <http://dx.doi.org/10.1029/2025JG009064>
 
-Howard, D. W , M.E. Lofton, R.Q. Thomas, A.D. Delany, A. Breef-Pilz, C.C Carey. Near-term forecasts of dissolved organic matter exhibit consistent patterns of accuracy across multiple freshwater reservoirs. Accepted at *JGR-Biogeosciences*. Pre-print at *ESS Open Archive.*  <http://dx.doi.org/10.22541/essoar.174715172.29580093/v1>
+## 2026
+
+Carey, C.C., F. Olsson, A. Breef-Pilz, R.Q. Thomas. 2026. High-frequency monitoring data reveal substantial variability in the intrinsic predictability of ecosystem dynamics. *Ecology* <http://dx.doi.org/10.1002/ecy.70292>
 
 ## 2025
 
