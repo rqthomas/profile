@@ -65,7 +65,7 @@ Carey, C.C., R. S.D. Calder, R.J. Figueiredo, R.B. Gramacy, M.E. Lofton, M.E. Sc
 
 Holthuijzen, M.F., R.B. Gramacy, C.C. Carey, D.M. Higdon, and R.Q. Thomas. Synthesizing data products, mathematical models, and observational measurements for lake temperature forecasting. *Annals of Applied Statistics* 19: 1127-1146 <https://doi.org/10.1214/25-AOAS2027>.  Open Access version at [arXiv](https://doi.org/10.48550/arXiv.2407.03312).
 
-Howard, D. W , M.E. Lofton, R.Q. Thomas, A.D. Delany, A. Breef-Pilz, C.C Carey. Near-term forecasts of dissolved organic matter exhibit consistent patterns of accuracy across multiple freshwater reservoirs. Accepted at *JGR-Biogeosciences*. Pre-print at *ESS Open Archive.*  <http://dx.doi.org/10.22541/essoar.174715172.29580093/v1>
+Howard, D. W , M.E. Lofton, R.Q. Thomas, A.D. Delany, A. Breef-Pilz, C.C Carey. 2026. Near-term forecasts of dissolved organic matter exhibit consistent patterns of accuracy across multiple freshwater reservoirs. *JGR-Biogeosciences* 131:e2025JG009064 <https://doi.org/10.1029/2025JG009064>
 
 Lofton, M.E., T.N. Moore, W.M. Woelmer, R.Q. Thomas, and C.C. Carey. 2025. A modular curriculum to teach undergraduates ecological forecasting improves student and instructor confidence in their data science skills. *Bioscience* 75: 127-138 <https://doi.org/10.1093/biosci/biae089>.  Open Access version at [ESS Open Archive](https://doi.org/10.22541/essoar.171269260.08508117/v2)
 
