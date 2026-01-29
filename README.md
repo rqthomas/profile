@@ -63,7 +63,7 @@ Carey, C.C., F. Olsson, A. Breef-Pilz, R.Q. Thomas. 2026. High-frequency monitor
 
 Carey, C.C., R. S.D. Calder, R.J. Figueiredo, R.B. Gramacy, M.E. Lofton, M.E. Schreiber and R.Q. Thomas. 2025. A framework for developing a real-time lake phytoplankton forecasting system to support water quality management in the face of global change. *Ambio* 25: 475–487. <https://doi.org/10.1007/s13280-024-02076-7>
 
-Holthuijzen, M.F., R.B. Gramacy, C.C. Carey, D.M. Higdon, and R.Q. Thomas. Synthesizing data products, mathematical models, and observational measurements for lake temperature forecasting. *Annals of Applied Statistics* 19: 1127-1146 <https://doi.org/10.1214/25-AOAS2027>.  Open Access version at [arXiv](https://doi.org/10.48550/arXiv.2407.03312).
+Holthuijzen, M.F., R.B. Gramacy, C.C. Carey, D.M. Higdon, and R.Q. Thomas. 2025. Synthesizing data products, mathematical models, and observational measurements for lake temperature forecasting. *Annals of Applied Statistics* 19: 1127-1146 <https://doi.org/10.1214/25-AOAS2027>.  Open Access version at [arXiv](https://doi.org/10.48550/arXiv.2407.03312).
 
 Howard, D. W , M.E. Lofton, R.Q. Thomas, A.D. Delany, A. Breef-Pilz, C.C Carey. 2026. Near-term forecasts of dissolved organic matter exhibit consistent patterns of accuracy across multiple freshwater reservoirs. *JGR-Biogeosciences* 131:e2025JG009064 <https://doi.org/10.1029/2025JG009064>
 
@@ -71,7 +71,7 @@ Lofton, M.E., T.N. Moore, W.M. Woelmer, R.Q. Thomas, and C.C. Carey. 2025. A mod
 
 Olsson, F., C.C. Carey, C. Boettiger, G. Harrison, R. Ladwig, M.F. Lapeyrolerie, A.S.L. Lewis, M.E. Lofton, F. Motealegre-Mora, J.S. Rebaey, C.J. Robbins. X. Yang, and R.Q. Thomas. 2025. What can we learn from 100,000 freshwater forecasts? A synthesis from the NEON Ecological Forecasting Challenge. *Ecological Applications* 35:e70004 <https://doi.org/10.1002/eap.70004>
 
-Paíz, R., R.Q. Thomas, C. C. Carey, E. de Eyto, A. Delany, R. Poole, P. Nixon, M. Dillane, I.D. Jones, D.C. Pierson, V. McCarthy, S. Linnane, E. Jennings. Near-term lake water temperature forecasts can be used to anticipate the ecological dynamics of freshwater species. *Ecosphere* 16: e70335  <http://dx.doi.org/10.1002/ecs2.70335>
+Paíz, R., R.Q. Thomas, C. C. Carey, E. de Eyto, A. Delany, R. Poole, P. Nixon, M. Dillane, I.D. Jones, D.C. Pierson, V. McCarthy, S. Linnane, E. Jennings. 2025. Near-term lake water temperature forecasts can be used to anticipate the ecological dynamics of freshwater species. *Ecosphere* 16: e70335  <http://dx.doi.org/10.1002/ecs2.70335>
 
 Thomas, R. Q., C. C. Carey, E. R. Sokol, M. A. Kenney, M. C. Dietze, and M. A. Xenopoulos. 2025. Advances in ecological forecasting. *Eos*: 106. <https://doi.org/10.1029/2025EO255024>
 
@@ -79,15 +79,15 @@ Wander, H.L., M.E. Lofton, J.P. Doubek, D.W. Howard, M.R. Hipsey, R.Q. Thomas, a
 
 *Pre-prints undergoing peer review*    
 
-Lofton, M.E., R.Q. Thomas, F. Olsson, A. Breef-Pilz, C. C. Carey, A. Neog, S. Fatemi, A. Karpatne, D. Howard, and H. Wander. The importance of a multi-model ensemble for predicting variable ecological time series across dynamic conditions. *ESS Open Archive.*  <http://dx.doi.org/10.22541/essoar.174785900.05100209/v1>    
+Lofton, M.E., R.Q. Thomas, F. Olsson, A. Breef-Pilz, C. C. Carey, A. Neog, S. Fatemi, A. Karpatne, D. Howard, and H. Wander. (2025). The importance of a multi-model ensemble for predicting variable ecological time series across dynamic conditions. *ESS Open Archive.*  <http://dx.doi.org/10.22541/essoar.174785900.05100209/v1>    
 
-Olsson, F., Thomas, R. Q., Hipsey, M. R., Delany, A. D., Sims, C., Rumbelow, A., & Carey, C. Developing scenario-based, near-term iterative forecasts to inform water management. *ESS Open Archive.* <https://doi.org/10.22541/essoar.175105660.07388971/v1>
+Olsson, F., Thomas, R. Q., Hipsey, M. R., Delany, A. D., Sims, C., Rumbelow, A., & Carey, C. (2025). Developing scenario-based, near-term iterative forecasts to inform water management. *ESS Open Archive.* <https://doi.org/10.22541/essoar.175105660.07388971/v1>
 
-Patil, P.V., R.B. Gramacy, C.C. Carey, and R.Q. Thomas. Vecchia approximated Bayesian heteroskedastic Gaussian processes. *arXiv.* <https://doi.org/10.48550/arXiv.2507.07815>
+Patil, P.V., R.B. Gramacy, C.C. Carey, and R.Q. Thomas. (2025). Vecchia approximated Bayesian heteroskedastic Gaussian processes. *arXiv.* <https://doi.org/10.48550/arXiv.2507.07815>
 
-Shukla, R., A. Breef-Pilz, M.E. Lofton, C.C. Carey, and R.Q. Thomas. Harnessing Stability-Guided Interpretable Machine Learning for Understanding and Predicting Water Quality in Freshwater Ecosystems. *ESS Open Archive.* <http://doi.org/10.22541/essoar.176245803.30250671/v1>.
+Shukla, R., A. Breef-Pilz, M.E. Lofton, C.C. Carey, and R.Q. Thomas. (2025). Harnessing Stability-Guided Interpretable Machine Learning for Understanding and Predicting Water Quality in Freshwater Ecosystems. *ESS Open Archive.* <http://doi.org/10.22541/essoar.176245803.30250671/v1>.
 
-Thomas, R.Q. and C. Boettiger. Cyberinfrastructure to Support Ecological Forecasting Challenges. *ESS Open Archive.* <http://doi.org/10.22541/essoar.175917344.44115142/v1>
+Thomas, R.Q. and C. Boettiger. (2025). Cyberinfrastructure to Support Ecological Forecasting Challenges. *ESS Open Archive.* <http://doi.org/10.22541/essoar.175917344.44115142/v1>
 
 [top](#ecosystem-dynamics-and-forecasting)
 
