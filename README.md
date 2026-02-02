@@ -8,7 +8,7 @@
 
 Professor\
 [Co-director of the Virginia Tech Center for Ecosystem Forecasting](https://ecoforecast.centers.vt.edu)\
-[Data Science Faculty Fellow](https://data.science.vt.edu/about/data-science-faculty-fellows.html)\
+[Cathie and Tom Woteki Data Science Faculty Fellow](https://data.science.vt.edu/about/data-science-faculty-fellows.html)\
 [Department of Forest Resources and Environmental Conservation](https://frec.vt.edu)\
 [Joint Appointment in Department of Biological Sciences](https://biol.vt.edu)\
 [Virginia Tech](https://vt.edu)   
@@ -99,7 +99,7 @@ Professor, Department of Forest Resources and Environmental Conservation, Virgin
 
 Professor (joint appointment), Department of Biological Sciences, Virginia Tech, Blacksburg, VA (2024 - present)  
 
-Data Science Faculty Fellow, College of Science, Virginia Tech, Blacksburg, VA (2022 - present)
+Cathie and Tom Woteki Data Science Faculty Fellow, College of Science, Virginia Tech, Blacksburg, VA (2022 - present)
 
 Visiting Scientist, Terrestrial Ecosystem Research Network, University of Queensland, Brisbane, Queensland, Australia (2022)
 
