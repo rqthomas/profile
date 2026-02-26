@@ -13,18 +13,17 @@ Olsson, F., Thomas, R. Q., Hipsey, M. R., Delany, A. D., Sims, C., Rumbelow, A.,
 
 Patil, P.V., R.B. Gramacy, C.C. Carey, and R.Q. Thomas. (2025). Vecchia approximated Bayesian heteroskedastic Gaussian processes. *arXiv.* <https://doi.org/10.48550/arXiv.2507.07815>
 
-Shukla, R., A. Breef-Pilz, M.E. Lofton, C.C. Carey, and R.Q. Thomas. (2025). Harnessing Stability-Guided Interpretable Machine Learning for Understanding and Predicting Water Quality in Freshwater Ecosystems. *ESS Open Archive.* <http://doi.org/10.22541/essoar.176245803.30250671/v1>.
-
-Thomas, R.Q. and C. Boettiger. (2025). Cyberinfrastructure to Support Ecological Forecasting Challenges. *ESS Open Archive.* <http://doi.org/10.22541/essoar.175917344.44115142/v1>
-
 ## Accepted or In Press
 
+Shukla, R., A. Breef-Pilz, M.E. Lofton, C.C. Carey, and R.Q. Thomas. (2026). Harnessing Stability-Guided Interpretable Machine Learning for Understanding and Predicting Water Quality in Freshwater Ecosystems. Accepted at *JGR-Biogeosciences*.  Pre-print available at *ESS Open Archive.* <http://doi.org/10.22541/essoar.176245803.30250671/v1>.
+
+Thomas, R.Q. and C. Boettiger. (2026). Cyberinfrastructure to Support Ecological Forecasting Challenges. Accepted at *Ecosphere*.  Pre-print available at *ESS Open Archive.* <http://doi.org/10.22541/essoar.175917344.44115142/v1>.
 
 ## 2026
 
-Carey, C.C., F. Olsson, A. Breef-Pilz, R.Q. Thomas. 2026. High-frequency monitoring data reveal substantial variability in the intrinsic predictability of ecosystem dynamics. *Ecology* <http://dx.doi.org/10.1002/ecy.70292>
+Carey, C.C., F. Olsson, A. Breef-Pilz, R.Q. Thomas. 2026. High-frequency monitoring data reveal substantial variability in the intrinsic predictability of ecosystem dynamics. *Ecology* 107: e70292. <http://dx.doi.org/10.1002/ecy.70292>
 
-Howard, D. W , M.E. Lofton, R.Q. Thomas, A.D. Delany, A. Breef-Pilz, C.C Carey. 2026. Near-term forecasts of dissolved organic matter exhibit consistent patterns of accuracy across multiple freshwater reservoirs. *JGR-Biogeosciences* 131:e2025JG009064 <https://doi.org/10.1029/2025JG009064>
+Howard, D. W., M.E. Lofton, R.Q. Thomas, A.D. Delany, A. Breef-Pilz, C.C Carey. 2026. Near-term forecasts of dissolved organic matter exhibit consistent patterns of accuracy across multiple freshwater reservoirs. *JGR-Biogeosciences* 131:e2025JG009064 <https://doi.org/10.1029/2025JG009064>
 
 ## 2025
 
