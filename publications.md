@@ -15,16 +15,15 @@ Patil, P.V., R.B. Gramacy, C.C. Carey, and R.Q. Thomas. (2025). Vecchia approxim
 
 ## Accepted or In Press
 
-Shukla, R., A. Breef-Pilz, M.E. Lofton, C.C. Carey, and R.Q. Thomas. (2026). Harnessing Stability-Guided Interpretable Machine Learning for Understanding and Predicting Water Quality in Freshwater Ecosystems. Accepted at *JGR-Biogeosciences*.  Pre-print available at *ESS Open Archive.* <http://doi.org/10.22541/essoar.176245803.30250671/v1>.
-
 Thomas, R.Q. and C. Boettiger. (2026). Cyberinfrastructure to Support Ecological Forecasting Challenges. Accepted at *Ecosphere*.  Pre-print available at *ESS Open Archive.* <http://doi.org/10.22541/essoar.175917344.44115142/v1>.
 
 ## 2026
 
 Carey, C.C., F. Olsson, A. Breef-Pilz, R.Q. Thomas. 2026. High-frequency monitoring data reveal substantial variability in the intrinsic predictability of ecosystem dynamics. *Ecology* 107: e70292. <http://dx.doi.org/10.1002/ecy.70292>
 
-Howard, D. W., M.E. Lofton, R.Q. Thomas, A.D. Delany, A. Breef-Pilz, C.C Carey. 2026. Near-term forecasts of dissolved organic matter exhibit consistent patterns of accuracy across multiple freshwater reservoirs. *JGR-Biogeosciences* 131:e2025JG009064 <https://doi.org/10.1029/2025JG009064>
+Howard, D. W., M.E. Lofton, R.Q. Thomas, A.D. Delany, A. Breef-Pilz, C.C Carey. 2026. Near-term forecasts of dissolved organic matter exhibit consistent patterns of accuracy across multiple freshwater reservoirs. *Journal of Geophysical Research: Biogeosciences* 131:e2025JG009064 <https://doi.org/10.1029/2025JG009064>
 
+Shukla, R., A. Breef-Pilz, M.E. Lofton, C.C. Carey & R.Q Thomas. 2026. Harnessing stability-guided interpretable machine learning for understanding and predicting water quality in freshwater ecosystems. *Journal of Geophysical Research: Biogeosciences*, 131, e2025JG009545. <https://doi.org/10.1029/2025JG009545>
 ## 2025
 
 Carey, C.C., R. S.D. Calder, R.J. Figueiredo, R.B. Gramacy, M.E. Lofton, M.E. Schreiber and R.Q. Thomas. 2025. A framework for developing a real-time lake phytoplankton forecasting system to support water quality management in the face of global change. *Ambio* 25: 475–487. <https://doi.org/10.1007/s13280-024-02076-7>
