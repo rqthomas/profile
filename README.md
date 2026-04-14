@@ -38,7 +38,7 @@ rqthomas@vt.edu
 
 [Global Centers Track 2: Building the Global Center for Forecasting Freshwater Futures (OISE-2330211)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2330211&HistoricalAwards=false)
 
-[Foundation AI modeling for forest carbon cycle forecasting (VT College of Natural Resources and Environment Dean Discovery Fund)](https://news.vt.edu/articles/2026/03/cnre-research-deans-discovery-fund.html)
+[Foundation AI modeling for forest carbon cycle forecasting (VT College of Natural Resources and Environment Dean's Discovery Fund)](https://news.vt.edu/articles/2026/03/cnre-research-deans-discovery-fund.html)
 
 *Completed projects*
 
@@ -111,7 +111,9 @@ A.B. Dartmouth College, Hanover, NH (2001 - 2005)
 
 ## In The News
 
-[College of Natural Resources and Environment presents alumni, student, faculty, and staff awards](https://news.vt.edu/articles/2026/03/cnre-awards26.html)
+[College of Natural Resources and Environment presents alumni, student, faculty, and staff awards - VT News](https://news.vt.edu/articles/2026/03/cnre-awards26.html)
+
+[Dean’s Discovery Fund supports collaborative research](https://news.vt.edu/articles/2026/03/cnre-research-deans-discovery-fund.html)
 
 [Ecological forecasting research team crosses ecosystem boundaries - VT News](https://news.vt.edu/articles/2025/10/ecological-forecasting-nhs-grant-quinn-thomas.html)
 
