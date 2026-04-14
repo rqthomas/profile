@@ -2,7 +2,7 @@
 
 **Ecosystem:**  Studying the forest and freshwater ecosystems upon which society depends
 
-**Dynamics:**  Modeling how ecosystems change over time in response to land-use, climate change, atmospheric deposition, and management.  
+**Dynamics:**  Modeling how ecosystems change over time in response to land-use, climate change, atmospheric deposition, and management. 
 
 **Forecasting:**  Predicting the future of ecosystems by combining observations and ecosystem models using statistical techniques.
 
@@ -113,7 +113,7 @@ A.B. Dartmouth College, Hanover, NH (2001 - 2005)
 
 [College of Natural Resources and Environment presents alumni, student, faculty, and staff awards - VT News](https://news.vt.edu/articles/2026/03/cnre-awards26.html)
 
-[Dean’s Discovery Fund supports collaborative research](https://news.vt.edu/articles/2026/03/cnre-research-deans-discovery-fund.html)
+[Dean’s Discovery Fund supports collaborative research - VT News](https://news.vt.edu/articles/2026/03/cnre-research-deans-discovery-fund.html)
 
 [Ecological forecasting research team crosses ecosystem boundaries - VT News](https://news.vt.edu/articles/2025/10/ecological-forecasting-nhs-grant-quinn-thomas.html)
 
