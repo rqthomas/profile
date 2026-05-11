@@ -65,6 +65,8 @@ Carey, C.C., F. Olsson, A. Breef-Pilz, R.Q. Thomas. 2026. High-frequency monitor
 
 Howard, D. W., M.E. Lofton, R.Q. Thomas, A.D. Delany, A. Breef-Pilz, C.C Carey. 2026. Near-term forecasts of dissolved organic matter exhibit consistent patterns of accuracy across multiple freshwater reservoirs. *Journal of Geophysical Research: Biogeosciences* 131:e2025JG009064 <https://doi.org/10.1029/2025JG009064>
 
+Parker, W., C.C. Carey, F. Olsson, R.Q. Thomas. An adequacy-for-purpose perspective for the environmental sciences. Accepted at *Frontiers in Ecology and the Environment.*
+
 Shukla, R., A. Breef-Pilz, M.E. Lofton, C.C. Carey & R.Q Thomas. 2026. Harnessing stability-guided interpretable machine learning for understanding and predicting water quality in freshwater ecosystems. *Journal of Geophysical Research: Biogeosciences*, 131, e2025JG009545. <https://doi.org/10.1029/2025JG009545>
 
 Thomas, R.Q. and C. Boettiger. (2026). Cyberinfrastructure to Support Ecological Forecasting Challenges. Accepted at *Ecosphere*.  Pre-print available at *ESS Open Archive.* <http://doi.org/10.22541/essoar.175917344.44115142/v1>.
