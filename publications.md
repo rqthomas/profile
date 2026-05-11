@@ -13,6 +13,8 @@ Olsson, F., Thomas, R. Q., Hipsey, M. R., Delany, A. D., Sims, C., Rumbelow, A.,
 
 Patil, P.V., R.B. Gramacy, C.C. Carey, and R.Q. Thomas. (2025). Vecchia approximated Bayesian heteroskedastic Gaussian processes. *arXiv.* <https://doi.org/10.48550/arXiv.2507.07815>
 
+Shukla, R., C. C. Carey, A. Breef Pilz, and R.Q. Thomas. Advancing Near-Term Water Quality Forecasting with Explainable Machine Learning and Probabilistic Uncertainty Quantification.  *ESS Open Archive.* <https://doi.org/10.22541/essoar.15002809/v2>
+
 ## Accepted or In Press
 
 Thomas, R.Q. and C. Boettiger. (2026). Cyberinfrastructure to Support Ecological Forecasting Challenges. Accepted at *Ecosphere*.  Pre-print available at *ESS Open Archive.* <http://doi.org/10.22541/essoar.175917344.44115142/v1>.
@@ -24,6 +26,7 @@ Carey, C.C., F. Olsson, A. Breef-Pilz, R.Q. Thomas. 2026. High-frequency monitor
 Howard, D. W., M.E. Lofton, R.Q. Thomas, A.D. Delany, A. Breef-Pilz, C.C Carey. 2026. Near-term forecasts of dissolved organic matter exhibit consistent patterns of accuracy across multiple freshwater reservoirs. *Journal of Geophysical Research: Biogeosciences* 131:e2025JG009064 <https://doi.org/10.1029/2025JG009064>
 
 Shukla, R., A. Breef-Pilz, M.E. Lofton, C.C. Carey & R.Q Thomas. 2026. Harnessing stability-guided interpretable machine learning for understanding and predicting water quality in freshwater ecosystems. *Journal of Geophysical Research: Biogeosciences*, 131, e2025JG009545. <https://doi.org/10.1029/2025JG009545>
+
 ## 2025
 
 Carey, C.C., R. S.D. Calder, R.J. Figueiredo, R.B. Gramacy, M.E. Lofton, M.E. Schreiber and R.Q. Thomas. 2025. A framework for developing a real-time lake phytoplankton forecasting system to support water quality management in the face of global change. *Ambio* 25: 475–487. <https://doi.org/10.1007/s13280-024-02076-7>
