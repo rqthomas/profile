@@ -77,6 +77,8 @@ Olsson, F., Thomas, R. Q., Hipsey, M. R., Delany, A. D., Sims, C., Rumbelow, A.,
 
 Patil, P.V., R.B. Gramacy, C.C. Carey, and R.Q. Thomas. (2025). Vecchia approximated Bayesian heteroskedastic Gaussian processes. *arXiv.* <https://doi.org/10.48550/arXiv.2507.07815>
 
+Shukla, R., C. C. Carey, A. Breef Pilz, and R.Q. Thomas. Advancing Near-Term Water Quality Forecasting with Explainable Machine Learning and Probabilistic Uncertainty Quantification.  *ESS Open Archive.* <https://doi.org/10.22541/essoar.15002809/v2>
+
 [top](#ecosystem-dynamics-and-forecasting)
 
 ## Bio
