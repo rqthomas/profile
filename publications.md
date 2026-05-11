@@ -17,6 +17,8 @@ Shukla, R., C. C. Carey, A. Breef Pilz, and R.Q. Thomas. Advancing Near-Term Wat
 
 ## Accepted or In Press
 
+Parker, W., C.C. Carey, F. Olsson, R.Q. Thomas. An adequacy-for-purpose perspective for the environmental sciences. Accepted at *Frontiers in Ecology and the Environment.*
+
 Thomas, R.Q. and C. Boettiger. (2026). Cyberinfrastructure to Support Ecological Forecasting Challenges. Accepted at *Ecosphere*.  Pre-print available at *ESS Open Archive.* <http://doi.org/10.22541/essoar.175917344.44115142/v1>.
 
 ## 2026
