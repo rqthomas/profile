@@ -65,7 +65,7 @@ Carey, C.C., F. Olsson, A. Breef-Pilz, R.Q. Thomas. 2026. High-frequency monitor
 
 Howard, D. W., M.E. Lofton, R.Q. Thomas, A.D. Delany, A. Breef-Pilz, C.C Carey. 2026. Near-term forecasts of dissolved organic matter exhibit consistent patterns of accuracy across multiple freshwater reservoirs. *Journal of Geophysical Research: Biogeosciences* 131:e2025JG009064 <https://doi.org/10.1029/2025JG009064>
 
-Parker, W., C.C. Carey, F. Olsson, R.Q. Thomas. An adequacy-for-purpose perspective for the environmental sciences. Accepted at *Frontiers in Ecology and the Environment.*
+Parker, W., C.C. Carey, F. Olsson, R.Q. Thomas. 2026. An adequacy-for-purpose perspective for the environmental sciences. *Frontiers in Ecology and the Environment* XX: e70058 <https://doi.org/10.1002/fee.70058>
 
 Carey, C.C., F. Olsson, A. Breef-Pilz, R.Q. Thomas. 2026. High-frequency monitoring data reveal substantial variability in the intrinsic predictability of ecosystem dynamics. *Ecology* 107: e70292. <http://dx.doi.org/10.1002/ecy.70292>
 
