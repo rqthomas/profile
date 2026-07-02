@@ -17,7 +17,7 @@ Shukla, R., C. C. Carey, A. Breef Pilz, and R.Q. Thomas. Advancing Near-Term Wat
 
 ## Accepted or In Press
 
-Parker, W., C.C. Carey, F. Olsson, R.Q. Thomas. An adequacy-for-purpose perspective for the environmental sciences. Accepted at *Frontiers in Ecology and the Environment.*
+Parker, W., C.C. Carey, F. Olsson, R.Q. Thomas. 2026. An adequacy-for-purpose perspective for the environmental sciences. *Frontiers in Ecology and the Environment* XX: e70058 <https://doi.org/10.1002/fee.70058>
 
 ## 2026
 
