@@ -65,11 +65,13 @@ Carey, C.C., F. Olsson, A. Breef-Pilz, R.Q. Thomas. 2026. High-frequency monitor
 
 Howard, D. W., M.E. Lofton, R.Q. Thomas, A.D. Delany, A. Breef-Pilz, C.C Carey. 2026. Near-term forecasts of dissolved organic matter exhibit consistent patterns of accuracy across multiple freshwater reservoirs. *Journal of Geophysical Research: Biogeosciences* 131:e2025JG009064 <https://doi.org/10.1029/2025JG009064>
 
-Parker, W., C.C. Carey, F. Olsson, R.Q. Thomas. 2026. An adequacy-for-purpose perspective for the environmental sciences. *Frontiers in Ecology and the Environment* XX: e70058 <https://doi.org/10.1002/fee.70058>
+Parker, W., C.C. Carey, F. Olsson, R.Q. Thomas. 2026. An adequacy-for-purpose perspective for the environmental sciences. *Frontiers in Ecology and the Environment* 24: e70058 <https://doi.org/10.1002/fee.70058>
 
 Howard, D. W., M.E. Lofton, R.Q. Thomas, A.D. Delany, A. Breef-Pilz, C.C Carey. 2026. Near-term forecasts of dissolved organic matter exhibit consistent patterns of accuracy across multiple freshwater reservoirs. *Journal of Geophysical Research: Biogeosciences* 131:e2025JG009064 <https://doi.org/10.1029/2025JG009064>
 
 Shukla, R., A. Breef-Pilz, M.E. Lofton, C.C. Carey & R.Q Thomas. 2026. Harnessing stability-guided interpretable machine learning for understanding and predicting water quality in freshwater ecosystems. *Journal of Geophysical Research: Biogeosciences* 131: e2025JG009545. <https://doi.org/10.1029/2025JG009545>
+
+Shukla, R., C. C. Carey, A. Breef Pilz, and R.Q. Thomas. Advancing Near-Term Water Quality Forecasting with Explainable Machine Learning and Probabilistic Uncertainty Quantification. Accepted at *ES&T Water* Pre-print at <https://doi.org/10.22541/essoar.15002809/v2>
 
 Thomas, R.Q. and C. Boettiger. 2026. Cyberinfrastructure to support ecological forecasting challenges. *Ecosphere* 17:e70682 <https://doi.org/10.1002/ecs2.70682>.
 
@@ -80,8 +82,6 @@ Lofton, M.E., R.Q. Thomas, F. Olsson, A. Breef-Pilz, C. C. Carey, A. Neog, S. Fa
 Olsson, F., Thomas, R. Q., Hipsey, M. R., Delany, A. D., Sims, C., Rumbelow, A., & Carey, C. (2025). Developing scenario-based, near-term iterative forecasts to inform water management. *ESS Open Archive.* <https://doi.org/10.22541/essoar.175105660.07388971/v1>
 
 Patil, P.V., R.B. Gramacy, C.C. Carey, and R.Q. Thomas. (2025). Vecchia approximated Bayesian heteroskedastic Gaussian processes. *arXiv.* <https://doi.org/10.48550/arXiv.2507.07815>
-
-Shukla, R., C. C. Carey, A. Breef Pilz, and R.Q. Thomas. Advancing Near-Term Water Quality Forecasting with Explainable Machine Learning and Probabilistic Uncertainty Quantification.  *ESS Open Archive.* <https://doi.org/10.22541/essoar.15002809/v2>
 
 [top](#ecosystem-dynamics-and-forecasting)
 
