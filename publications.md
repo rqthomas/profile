@@ -25,6 +25,8 @@ Howard, D. W., M.E. Lofton, R.Q. Thomas, A.D. Delany, A. Breef-Pilz, C.C Carey. 
 
 Parker, W., C.C. Carey, F. Olsson, R.Q. Thomas. 2026. An adequacy-for-purpose perspective for the environmental sciences. *Frontiers in Ecology and the Environment* 24: e70058 <https://doi.org/10.1002/fee.70058>
 
+Patil, P.V., R.B. Gramacy, C.C. Carey, and R.Q. Thomas. 2026. Vecchia approximated Bayesian heteroskedastic Gaussian processes. Accepted at Statistical Science. Pre-print:  <https://doi.org/10.48550/arXiv.2507.07815>
+
 Shukla, R., A. Breef-Pilz, M.E. Lofton, C.C. Carey & R.Q Thomas. 2026. Harnessing stability-guided interpretable machine learning for understanding and predicting water quality in freshwater ecosystems. *Journal of Geophysical Research: Biogeosciences* 131: e2025JG009545. <https://doi.org/10.1029/2025JG009545>
 
 Thomas, R.Q. and C. Boettiger. 2026. Cyberinfrastructure to Support Ecological Forecasting Challenges. *Ecosphere* 17:e70682 <https://doi.org/10.1002/ecs2.70682>.
