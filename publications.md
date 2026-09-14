@@ -17,7 +17,7 @@ Patil, P.V., R.B. Gramacy, C.C. Carey, and R.Q. Thomas. (2025). Vecchia approxim
 
 Patil, P.V., R.B. Gramacy, C.C. Carey, and R.Q. Thomas. 2026. Vecchia approximated Bayesian heteroskedastic Gaussian processes. Accepted at Statistical Science. Pre-print:  <https://doi.org/10.48550/arXiv.2507.07815>
 
-Shukla, R., C. C. Carey, A. Breef Pilz, and R.Q. Thomas. Advancing Near-Term Water Quality Forecasting with Explainable Machine Learning and Probabilistic Uncertainty Quantification. Accepted at *ES&T Water* Pre-print at <https://doi.org/10.22541/essoar.15002809/v2>
+Shukla, R., C. C. Carey, A. Breef Pilz, and R.Q. Thomas. 2026. Advancing Near-Term Water Quality Forecasting with Explainable Machine Learning and Probabilistic Uncertainty Quantification. *ACS EST Water* <10.1021/acsestwater.6c00757>
 
 ## 2026
 
