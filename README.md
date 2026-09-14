@@ -81,6 +81,8 @@ Lofton, M.E., R.Q. Thomas, F. Olsson, A. Breef-Pilz, C. C. Carey, A. Neog, S. Fa
 
 Olsson, F., Thomas, R. Q., Hipsey, M. R., Delany, A. D., Sims, C., Rumbelow, A., & Carey, C. (2025). Developing scenario-based, near-term iterative forecasts to inform water management. *ESS Open Archive.* <https://doi.org/10.22541/essoar.175105660.07388971/v1>
 
+Stroud, M. C.C. Carey, G.H. Allen, and R.Q. Thomas. Integrating Satellite Data into Near-Term, Iterative Water Temperature Forecasting Workflows Improves the Scalability of Freshwater Forecasts. *ESS Open Archive.* <https://doi.org/10.22541/essoar.15008569/v1>
+
 [top](#ecosystem-dynamics-and-forecasting)
 
 ## Bio
