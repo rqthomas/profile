@@ -71,7 +71,7 @@ Patil, P.V., R.B. Gramacy, C.C. Carey, and R.Q. Thomas. 2026. Vecchia approximat
 
 Shukla, R., A. Breef-Pilz, M.E. Lofton, C.C. Carey & R.Q Thomas. 2026. Harnessing stability-guided interpretable machine learning for understanding and predicting water quality in freshwater ecosystems. *Journal of Geophysical Research: Biogeosciences* 131: e2025JG009545. <https://doi.org/10.1029/2025JG009545>
 
-Shukla, R., C. C. Carey, A. Breef Pilz, and R.Q. Thomas. Advancing Near-Term Water Quality Forecasting with Explainable Machine Learning and Probabilistic Uncertainty Quantification. Accepted at *ES&T Water* Pre-print at <https://doi.org/10.22541/essoar.15002809/v2>
+Shukla, R., C. C. Carey, A. Breef Pilz, and R.Q. Thomas. 2026. Advancing Near-Term Water Quality Forecasting with Explainable Machine Learning and Probabilistic Uncertainty Quantification. *ACS EST Water* <10.1021/acsestwater.6c00757>
 
 Thomas, R.Q. and C. Boettiger. 2026. Cyberinfrastructure to support ecological forecasting challenges. *Ecosphere* 17:e70682 <https://doi.org/10.1002/ecs2.70682>.
 
