@@ -9,11 +9,11 @@ layout: default
 
 Lofton, M.E., R.Q. Thomas, F. Olsson, A. Breef-Pilz, C. C. Carey, A. Neog, S. Fatemi, A. Karpatne, D. Howard, and H. Wander. (2025). The importance of a multi-model ensemble for predicting variable ecological time series across dynamic conditions. *ESS Open Archive.*  <http://dx.doi.org/10.22541/essoar.174785900.05100209/v1> 
 
-Olsson, F., Thomas, R. Q., Hipsey, M. R., Delany, A. D., Sims, C., Rumbelow, A., & Carey, C. (2025). Developing scenario-based, near-term iterative forecasts to inform water management. *ESS Open Archive.* <https://doi.org/10.22541/essoar.175105660.07388971/v1>
-
 Stroud, M. C.C. Carey, G.H. Allen, and R.Q. Thomas. Integrating Satellite Data into Near-Term, Iterative Water Temperature Forecasting Workflows Improves the Scalability of Freshwater Forecasts. *ESS Open Archive.* <https://doi.org/10.22541/essoar.15008569/v1>
 
 ## Accepted or In Press
+
+Olsson, F., Thomas, R. Q., Hipsey, M. R., Delany, A. D., Sims, C., Rumbelow, A., & Carey, C. (2026). Developing scenario-based, near-term iterative forecasts to inform water management. *Inland Waters*: Awaiting Issue. <https://doi.org/10.1080/20442041.2026.2748305>.  Open-access pre-print at: <https://doi.org/10.22541/essoar.175105660.07388971/v1>
 
 Patil, P.V., R.B. Gramacy, C.C. Carey, and R.Q. Thomas. 2026. Vecchia approximated Bayesian heteroskedastic Gaussian processes. Accepted at Statistical Science. Pre-print:  <https://doi.org/10.48550/arXiv.2507.07815>
 
